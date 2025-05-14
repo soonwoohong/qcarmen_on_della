@@ -3,6 +3,7 @@ import requests
 import xml.etree.ElementTree as ET
 from io import StringIO
 import os
+import time
 
 # Biopython imports
 from Bio import SeqIO
@@ -26,8 +27,8 @@ def get_gbs(
     esearch_url += '&term=(' + gene_name + '[Gene Name] NOT PREDICTED [Title] AND srcdb_refseq[PROP]) AND "' + organism + '"[porgn] AND srcdb_refseq[PROP] AND biomol_mrna[PROP]'
 
     # Then, we call the API to get IDs for the transcripts
-    response = requests.get(esearch_url)
-
+    response = requests.get(esearch_url, timeout=5)
+    time.sleep(1)
     # Convert the response (in XML form) into an XML tree
     tree = ET.fromstring(response.text)
 
@@ -44,8 +45,8 @@ def get_gbs(
         + "&id=" 
         + ",".join(transcript_ids))
 
-    epost_res = requests.get(epost_url)
-
+    epost_res = requests.get(epost_url, timeout=5)
+    time.sleep(1)
     epost_tree = ET.fromstring(epost_res.text)
 
     query_key = epost_tree[0].text
@@ -61,8 +62,8 @@ def get_gbs(
         + "&retmode=text"
         + "&retmax=100")
 
-    efetch_res = requests.get(efetch_url)
-
+    efetch_res = requests.get(efetch_url, timeout=5)
+    time.sleep(1)
     if efetch_res.status_code != 200:
         efetch_res.raise_for_status()
         raise RuntimeError(f"Request returned status code {efetch_res.status_code}")
