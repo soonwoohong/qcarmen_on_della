@@ -1,16 +1,9 @@
-import csv
 import os
-from pathlib import Path
 import pickle
-import typing
-
-
-from typing import List
-
 from Bio import SeqIO
-from Bio.Seq import Seq
-import multiprocessing
-from datetime import datetime
+#import multiprocessing
+from joblib import Parallel, delayed
+
 
 # Library imports
 from .lib.adapt_lib import complete_targets, sliding_window, align_seqs, select_spacer
@@ -68,10 +61,9 @@ def adapt_task(
 
     # Multiprocessing
     num_cores = os.cpu_count()
-    with multiprocessing.Pool(processes = num_cores) as pool:
-        # print(pool.starmap(sliding_window, sliding_cmds))
+    res = Parallel(n_jobs = -1, verbose=5, backend="loky")(delayed(complete_targets)(*cmd)
+                                                           for cmd in complete_cmds)
 
-        res = pool.starmap(complete_targets, complete_cmds)
 
     print("Design process complete.")
 

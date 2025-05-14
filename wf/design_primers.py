@@ -1,16 +1,14 @@
 import csv
 import os
-from pathlib import Path
+
 import pickle
-from typing import Optional
+from joblib import Parallel, delayed
 
-
-from Bio import SeqIO
-from Bio.Seq import Seq
 
 from .lib.search_lib import read_gbs
 from .lib.primer_lib import design_candidates
-from .lib.parallelization_lib import run_parallel_processes
+
+
 
 def primer_task(
     project_name: str,
@@ -56,7 +54,10 @@ def primer_task(
         target_data.append((target["identifier"], [all_seqs, target_indices, guides[target["identifier"]]]))
 
     # Multiprocessing
-    design_res = run_parallel_processes(design_function, target_data, timeout)
+    design_res = Parallel(n_jobs=-1, verbose=5, backend="loky")(delayed(design_function)(*cmd)
+                                                         for cmd in target_data)
+
+
     print("Design process complete.", design_res)
 
     # Pickle the design result
