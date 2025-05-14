@@ -15,51 +15,38 @@ from datetime import datetime
 # Library imports
 from .lib.adapt_lib import complete_targets, sliding_window, align_seqs, select_spacer
 
-def allocate_cpu(
-    fastas: LatchDir,
-    **kwargs
-) -> int: # number of cores to allocate
-    fasta_dir = Path(fastas).resolve()
-    # Get a static list of all fasta files (aka gene names) in the directory
-    all_fastas = os.listdir(fasta_dir)
-    return min(len(all_fastas), 32)
 
-# @custom_task(cpu=allocate_cpu, memory=128)
-@custom_task(cpu=24, memory=128)
+
 def adapt_task(
-    target_obj: LatchFile, 
-    fastas: LatchDir,
-    output_dir: LatchDir,
-    adapt_dir: typing.Optional[LatchDir] = None,
-    specificity: bool = False,
-    dt_string: typing.Optional[str] = None,
-) -> LatchDir:
+        project_name: str
+):
     """
     Starts a subprocess for all genes of interest...
 
     ADAPT designs are returned as a LatchDir, can be parsed through for design data.
     """
     # Start by unpickling target object
-    target_path = Path(target_obj).resolve()
-    with open(target_path, "rb") as f: target = pickle.load(f)
+    target_path = "./results/" + project_name + "/targets.pkl"
+    with open(target_path, "rb") as f:
+        target = pickle.load(f)
+
 
     # Pass to Path object and resolve
-    fasta_dir = Path(fastas).resolve()
+    fasta_dir = "./results/" + project_name + "/fasta/"
     # Get a static list of all fasta files (aka gene names) in the directory
     all_fastas = os.listdir(fasta_dir)
 
     print("All FASTAs:", all_fastas)
 
     # ADAPT outputs
-    if adapt_dir is None:
-        adapt_designs = "/root/adapt_designs/"
-        os.mkdir(adapt_designs)
-    else:
-        adapt_designs = Path(adapt_dir).resolve()
+    adapt_designs = "./results/" + project_name + "/adapt_designs/"
+    os.makedirs(adapt_designs, exist_ok=True)
+
 
     # Specificity directory
-    spec_dir = "/root/specificity_files/"
-    os.mkdir(spec_dir)
+    spec_dir = "./results/" + project_name + "/specificity_files/"
+    os.makedirs(spec_dir, exist_ok=True)
+
 
     # Go ahead and add all FASTAs to a dictionary
     fasta_dict = {}
@@ -81,16 +68,14 @@ def adapt_task(
 
     # Multiprocessing
     num_cores = os.cpu_count()
-    print("CPU Count:", num_cores)
-    with multiprocessing.Pool(num_cores) as pool:
+    with multiprocessing.Pool(processes = num_cores) as pool:
         # print(pool.starmap(sliding_window, sliding_cmds))
-        print(pool.starmap(complete_targets, complete_cmds))
+
+        res = pool.starmap(complete_targets, complete_cmds)
 
     print("Design process complete.")
 
-    outdir_path = output_dir.remote_path
-    print("Output directory:", outdir_path)
-    return LatchDir(adapt_designs, f"{outdir_path}/{dt_string}/adapt/")
+
 
 def generate_adapt_cmd(
     target_key: str,

@@ -189,17 +189,16 @@ def complete_targets(aligned_targets, non_target_genes, gene_name, isoform_name,
     primer_mismatches = 3
     primer_cover_frac = 0.1
     missing_thres = (0.5, 0.05, 1.5)
-
     # Set up the primer searcher, which we don't care about anyways
-    ps = primer_search.PrimerSearcher(
+    ps = primer_search.PrimerSearcherMinimizePrimers(
         aln, 
         primer_length,
         primer_mismatches,
         primer_cover_frac,
         missing_thres,
         seq_groups=None,
-        primer_gc_content_bounds=(0.35, 0.65)
-    )
+        primer_gc_content_bounds= (0.35, 0.65))# <- got error __init__() got multiple values for argument 'primer_gc_content_bounds'
+
 
     # Guide searcher params
     soft_guide_constraint = 1
@@ -215,7 +214,7 @@ def complete_targets(aligned_targets, non_target_genes, gene_name, isoform_name,
         hard_guide_constraint,
         penalty_strength,
         missing_data_params,
-        guide_is_suitable_fn=guide_is_suitable,
+        #guide_is_suitable_fn=guide_is_suitable, # it was removed from the current adapt version
         predictor=predictor,
     )
 
@@ -226,8 +225,8 @@ def complete_targets(aligned_targets, non_target_genes, gene_name, isoform_name,
     obj_fn_weights = (0, 0)
 
     # Target searcher (combines primer search with guide search)
-    ts = target_search.TargetSearcher(ps, gs,
-        obj_type=obj_type,
+    ts = target_search.TargetSearcher(ps, ps, gs,
+        #obj_type=obj_type, # it was removed from the current adapt version
         max_primers_at_site=max_primers_at_site,
         max_target_length=max_target_length,
         obj_weights=obj_fn_weights,

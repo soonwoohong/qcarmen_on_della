@@ -1,4 +1,4 @@
-LOCUS       NM_013556               1349 bp    mRNA    linear   ROD 14-JAN-2025
+LOCUS       NM_013556               1349 bp    mRNA    linear   ROD 13-MAY-2025
 DEFINITION  Mus musculus hypoxanthine phosphoribosyltransferase 1 (Hprt1), mRNA.
 ACCESSION   NM_013556
 VERSION     NM_013556.2
@@ -9,6 +9,23 @@ SOURCE      Mus musculus (house mouse)
             Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
             Muroidea; Muridae; Murinae; Mus; Mus.
 REFERENCE   1  (bases 1 to 1349)
+  AUTHORS   Barelle,P.Y., Sicardi,A., Schaller,F., Buron,J., Becquet,D.,
+            Omnes,F., Watrin,F., Alifrangis,M.S., Santos,C., Menuet,C.,
+            Francois-Bellan,A.M., Caron,E., Klucznik,J., Prevot,V., Bouret,S.G.
+            and Muscatelli,F.
+  TITLE     Investigation of a mouse model of Prader-Willi Syndrome with
+            combined disruption of Necdin and Magel2
+  JOURNAL   JCI Insight 10 (8), e185159 (2025)
+   PUBMED   40048253
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1349)
+  AUTHORS   Abdulai-Saiku,S., Gupta,S., Wang,D., Marino,F., Moreno,A.J.,
+            Huang,Y., Srivastava,D., Panning,B. and Dubal,D.B.
+  TITLE     The maternal X chromosome affects cognition and brain ageing in
+            female mice
+  JOURNAL   Nature 638 (8049), 152-159 (2025)
+   PUBMED   39843739
+REFERENCE   3  (bases 1 to 1349)
   AUTHORS   Dinakaran,S., Qutaina,S., Zhao,H., Tang,Y., Wang,Z., Ruiz,S.,
             Nomura-Kitabayashi,A., Metz,C.N., Arthur,H.M., Meadows,S.M.,
             Blanc,L., Faughnan,M.E. and Marambaud,P.
@@ -16,7 +33,7 @@ REFERENCE   1  (bases 1 to 1349)
             arteriovenous malformations in hereditary hemorrhagic telangiectasia
   JOURNAL   Nat Cardiovasc Res 3 (11), 1301-1317 (2024)
    PUBMED   39487364
-REFERENCE   2  (bases 1 to 1349)
+REFERENCE   4  (bases 1 to 1349)
   AUTHORS   Sigler,A.L., Thompson,S.B., Ellwood-Digel,L., Kandasamy,A.,
             Michaels,M.J., Thumkeo,D., Narumiya,S., Del Alamo,J.C. and
             Jacobelli,J.
@@ -25,26 +42,12 @@ REFERENCE   2  (bases 1 to 1349)
   JOURNAL   Front Immunol 15, 1467415 (2024)
    PUBMED   39430739
   REMARK    Publication Status: Online-Only
-REFERENCE   3  (bases 1 to 1349)
+REFERENCE   5  (bases 1 to 1349)
   AUTHORS   Mehlmann,L.M., Uliasz,T.F., Yee,S.P., Kaback,D. and Lowther,K.M.
   TITLE     Generation and Characterization of a TRIM21 Overexpressing Mouse
             Line
   JOURNAL   Genesis 62 (5), e23616 (2024)
    PUBMED   39487578
-REFERENCE   4  (bases 1 to 1349)
-  AUTHORS   Chen,J., Lewis,M.A., Wai,A., Yin,L., Dawson,S.J., Ingham,N.J. and
-            Steel,K.P.
-  TITLE     A new mutation of Sgms1 causes gradual hearing loss associated with
-            a reduced endocochlear potential
-  JOURNAL   Hear Res 451, 109091 (2024)
-   PUBMED   39067415
-REFERENCE   5  (bases 1 to 1349)
-  AUTHORS   Moon,D., Padanilam,B.J., Park,K.M. and Kim,J.
-  TITLE     Loss of SAV1 in Kidney Proximal Tubule Induces Maladaptive Repair
-            after Ischemia and Reperfusion Injury
-  JOURNAL   Int J Mol Sci 25 (9), 4610 (2024)
-   PUBMED   38731829
-  REMARK    Publication Status: Online-Only
 REFERENCE   6  (bases 1 to 1349)
   AUTHORS   Nesbitt,M.N., Bakay,B., Gardner,M.B. and Day,C.
   TITLE     Isoenzyme pattern of HPRT in murine erythrocytes: control by an
