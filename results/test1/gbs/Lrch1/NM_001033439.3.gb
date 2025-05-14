@@ -1,0 +1,387 @@
+LOCUS       NM_001033439            4727 bp    mRNA    linear   ROD 30-APR-2024
+DEFINITION  Mus musculus leucine-rich repeats and calponin homology (CH) domain
+            containing 1 (Lrch1), transcript variant 1, mRNA.
+ACCESSION   NM_001033439
+VERSION     NM_001033439.3
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 4727)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   2  (bases 1 to 4727)
+  AUTHORS   Liu,C., Xu,X., Han,L., Wan,X., Zheng,L., Li,C., Liao,Z., Xiao,J.,
+            Zhong,R., Zheng,X., Wang,Q., Li,Z., Chen,H., Wei,B. and Wang,H.
+  TITLE     LRCH1 deficiency enhances LAT signalosome formation and CD8+ T cell
+            responses against tumors and pathogens
+  JOURNAL   Proc Natl Acad Sci U S A 117 (32), 19388-19398 (2020)
+   PUBMED   32727906
+  REMARK    GeneRIF: LRCH1 deficiency enhances LAT signalosome formation and
+            CD8(+) T cell responses against tumors and pathogens.
+REFERENCE   3  (bases 1 to 4727)
+  AUTHORS   Xu,X., Han,L., Zhao,G., Xue,S., Gao,Y., Xiao,J., Zhang,S., Chen,P.,
+            Wu,Z.Y., Ding,J., Hu,R., Wei,B. and Wang,H.
+  TITLE     LRCH1 interferes with DOCK8-Cdc42-induced T cell migration and
+            ameliorates experimental autoimmune encephalomyelitis
+  JOURNAL   J Exp Med 214 (1), 209-226 (2017)
+   PUBMED   28028151
+  REMARK    GeneRIF: LRCH1 as a novel effector to restrain PKCalpha-DOCK8-Cdc42
+            module-induced T cell migration and ameliorate EAE.
+REFERENCE   4  (bases 1 to 4727)
+  AUTHORS   Koscielny,G., Yaikhom,G., Iyer,V., Meehan,T.F., Morgan,H.,
+            Atienza-Herrero,J., Blake,A., Chen,C.K., Easty,R., Di Fenza,A.,
+            Fiegel,T., Grifiths,M., Horne,A., Karp,N.A., Kurbatova,N.,
+            Mason,J.C., Matthews,P., Oakley,D.J., Qazi,A., Regnart,J., Retha,A.,
+            Santos,L.A., Sneddon,D.J., Warren,J., Westerberg,H., Wilson,R.J.,
+            Melvin,D.G., Smedley,D., Brown,S.D., Flicek,P., Skarnes,W.C.,
+            Mallon,A.M. and Parkinson,H.
+  TITLE     The International Mouse Phenotyping Consortium Web Portal, a unified
+            point of access for knockout mice and related phenotyping data
+  JOURNAL   Nucleic Acids Res 42 (Database issue), D802-D809 (2014)
+   PUBMED   24194600
+REFERENCE   5  (bases 1 to 4727)
+  AUTHORS   Tamplin,O.J., Kinzel,D., Cox,B.J., Bell,C.E., Rossant,J. and
+            Lickert,H.
+  TITLE     Microarray analysis of Foxa2 mutant mouse embryos reveals novel gene
+            expression and inductive roles for the gastrula organizer and its
+            derivatives
+  JOURNAL   BMC Genomics 9, 511 (2008)
+   PUBMED   18973680
+  REMARK    Publication Status: Online-Only
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK129264.1, SRR13948564.1528516.1
+            [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMN00849374, SAMN00849375
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BB612742.1, AC135083.4, AC154621.2 and BC028469.1.
+            On Nov 5, 2011 this sequence version replaced NM_001033439.2.
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (1).
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..4727
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="14"
+                     /map="14 39.39 cM"
+     gene            1..4727
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="leucine-rich repeats and calponin homology (CH)
+                     domain containing 1"
+                     /db_xref="GeneID:380916"
+                     /db_xref="MGI:MGI:2443390"
+     exon            1..494
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             218..2347
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     leucine-rich repeat and calponin homology domain-containing
+                     protein 1"
+                     /codon_start=1
+                     /product="leucine-rich repeat and calponin homology
+                     domain-containing protein 1 isoform 1"
+                     /protein_id="NP_001028611.2"
+                     /db_xref="CCDS:CCDS36976.1"
+                     /db_xref="GeneID:380916"
+                     /db_xref="MGI:MGI:2443390"
+                     /translation="MATPGSEPQAFAPALSVTALHPHLHQHHQHHQHHQHHGGTGGTGF
+                     NLPLNRGLERALEEAANSGGLNLSARKLKEFPRTTAPGHDLSDTVRADLSKNRLVEVPM
+                     ELCQFVSLEILNLYHNCIRVIPEAIVNLQMLTHLNLSRNQLSALPACLCGLPLKVLIAS
+                     NNKLGSLPEEIGQLKQLMELDVSCNEITALPQQIGQLKSLRELNVRRNYLKVLPPELVD
+                     LPLVKFDFSCNKVLVIPVCFREMKQLQVLLLENNPLQSPPAQICTKGKVHIFKYLSIQA
+                     CQIKTSDSLYLPTIERPHLHQHVEDSKKDSDSGVGSDNGDKRLSATEPSDEDTVSLNAP
+                     MSNIVEEDQTIKEDACHRLTPTKGEFQPKPSILGDSGISGQEREQLAGRADARHSGLMN
+                     YIKDQAEDCEELLRIEEDAHWHMEELLNSSKDRELDIAMIEQLREAELLQDPNGLSADI
+                     IERSILNLFPMDSGEASEFPDPSLNGQLQLETSPDREVQNDLMLQSNGSQYSPNEIREN
+                     SPSVSPTANITAPFGLKPRSGSWCPEEVQGSLQAESSPRRPQLLSRHVFLRPQRNLESI
+                     DPQFTIRRKMEQMREEKELVEQLRESIEMRLKVTLHEDLGAALMDGVVLCHLANHVRPR
+                     SVASIHVPSPAVPKLSMAKCRRNVENFLEACRKLGVPEEKLCLPHHILEEKGLVKVGTT
+                     VQALLDVTVTKALFT"
+     misc_feature    287..364
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    395..466
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: LRR 1"
+     misc_feature    473..541
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: LRR 2"
+     misc_feature    542..610
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: LRR 3"
+     misc_feature    611..682
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: LRR 4"
+     misc_feature    686..745
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: LRR 5"
+     misc_feature    746..814
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: LRR 6"
+     misc_feature    815..886
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: LRR 7"
+     misc_feature    890..949
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: LRR 8"
+     misc_feature    950..1021
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: LRR 9"
+     misc_feature    1118..1387
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1400..1402
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21183079; propagated from
+                     UniProtKB/Swiss-Prot (P62046.2); phosphorylation site"
+     misc_feature    1727..1795
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="propagated from UniProtKB/Swiss-Prot (P62046.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1769..1771
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21183079; propagated from
+                     UniProtKB/Swiss-Prot (P62046.2); phosphorylation site"
+     misc_feature    1781..1783
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21183079; propagated from
+                     UniProtKB/Swiss-Prot (P62046.2); phosphorylation site"
+     misc_feature    1958..1960
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:19144319,
+                     ECO:0007744|PubMed:21183079; propagated from
+                     UniProtKB/Swiss-Prot (P62046.2); phosphorylation site"
+     exon            495..639
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            640..766
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            767..872
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            873..1009
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1010..1137
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1138..1201
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1202..1307
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1308..1423
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1424..1491
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1492..1575
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1576..1665
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1666..1702
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1703..1756
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1757..1829
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1830..1910
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1911..2020
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2021..2158
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2159..2236
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2237..4707
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3268..3273
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="hexamer: ATTAAA"
+     polyA_site      3292
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="major polyA site"
+     regulatory      4681..4686
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="hexamer: ATTAAA"
+     polyA_site      4705
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="major polyA site"
+ORIGIN
+        1 agacacaggc gcgccaccgc tgccgtcgct gccgccgccg cagcccttgg ctcccccggc
+       61 tggaaacctt ggcgatcgaa ctgctgcctc cacctctgcg ccgcttgccg cccctcccgc
+      121 agtcccgcgg ctttcgaggg agcgctgcgg ggactcggga ccgccgggga aacctgtgac
+      181 cccgcgcagg agcggcgggg cgggggaccg ggagaagatg gcgacgccgg gaagcgaacc
+      241 ccaagctttc gcgcccgctc tctcggtaac cgccctgcac ccgcatctcc accagcacca
+      301 ccaacaccac caacaccacc agcaccacgg aggcaccggc ggcaccggct tcaacctgcc
+      361 cttgaaccgt ggtttggagc gcgcgctgga ggaggcggcc aactctgggg gcttgaacct
+      421 gagcgccagg aagctgaagg agtttcccag gactacggcc ccgggacatg acctctcgga
+      481 cacggttcgg gcagatctat ctaaaaacag actggtggaa gtgccaatgg agctgtgcca
+      541 atttgtatca ctggaaattc ttaacctgta tcacaactgt atcagagtca ttcctgaggc
+      601 cattgttaat ttgcagatgt tgacccacct aaacttgagt cgaaatcagc tgtctgccct
+      661 gcccgcctgc ctgtgtggtc tgcctctcaa agtcttaatc gcaagcaaca acaagctcgg
+      721 atcactgcct gaagagatag gtcagctcaa acagttaatg gagttggatg tgagttgcaa
+      781 cgagatcacg gccttgcccc agcagatagg ccagctgaag tctctgcggg aactcaatgt
+      841 ccgaagaaat taccttaagg ttttaccacc agagctagta gatctcccct tggtaaagtt
+      901 tgacttttcc tgcaacaagg tgctggtgat ccccgtctgc ttcagggaga tgaagcagct
+      961 gcaggtgctc ctgcttgaga acaaccctct gcagtcccct ccggcgcaga tttgcacgaa
+     1021 aggaaaagta cacatattta agtatttgag catacaagca tgccagatta agacaagtga
+     1081 ctctctttac ctccccacca tagagaggcc ccatttacac caacacgtgg aagacagtaa
+     1141 gaaggactcc gactcagggg ttggaagtga caatggagat aagcggttat ctgccaccga
+     1201 gccctctgat gaggacacgg ttagcctcaa tgcgcccatg tcaaacatcg tggaagaaga
+     1261 ccagaccatc aaggaggatg cgtgccatcg gctcacccca actaaaggag aatttcagcc
+     1321 gaagccttcc attttggggg acagcggcat ctcaggacaa gaaagagagc agcttgctgg
+     1381 ccgtgcagat gctcgacact cgggacttat gaactatatt aaggaccagg cagaagactg
+     1441 tgaagagcta ttgcggatag aagaggatgc tcactggcac atggaggaac tactaaattc
+     1501 atccaaagac cgggagctgg atatagcgat gattgagcag ctgagagagg cagagctgct
+     1561 tcaggatccc aacggtctaa gcgcagatat catagagaga agtattttga acctgttccc
+     1621 catggactca ggagaagcct cagaattccc tgatccttca ctcaatggcc agttgcagct
+     1681 ggagacgtct ccagaccgtg aggtgcaaaa tgatctaatg ttacagagta atggaagcca
+     1741 gtattctccc aatgagatac gagagaactc cccttcagtg tctcctactg caaacatcac
+     1801 agctccgttt ggcctgaagc ctcgttcagg ttcctggtgc cctgaggagg tacagggcag
+     1861 cctgcaggca gagtcctccc caagacgacc ccagttgctt tccaggcatg tgtttctaag
+     1921 accgcagaga aacttggaat ctatagaccc acagtttacg atccggagga agatggagca
+     1981 gatgagagag gagaaggagc tggtggagca actccgagag agcatcgaga tgaggctgaa
+     2041 ggtgaccctt catgaagacc tgggggcggc actcatggat ggtgtcgtcc tctgccacct
+     2101 ggccaaccac gtccgtccga gatctgtcgc cagcatccat gtcccctcac cggctgttcc
+     2161 taaactcagc atggccaagt gcaggaggaa cgtggaaaac ttcttggaag cgtgcaggaa
+     2221 acttggcgtt cccgaggaaa agctctgcct gcctcatcac atccttgaag agaaaggcct
+     2281 ggtcaaagtg ggcacgactg ttcaggcact gttggatgtc accgtcacaa aagctctatt
+     2341 cacatgagac caagcccttt cctctgggtg ggctcagcct cttcccagag cagggactct
+     2401 ggactctgct cctggcacct gtacctgctc cccaactcac ctccctgcca ggtcccggag
+     2461 gaggaactgc actggcgtgg tttcagccta agggaggact caggaccttt tagagttggc
+     2521 ctgcaggttt caggttgggc aggtgttacc tgacagcggg tcagggagct ggcggagaac
+     2581 tgagtagcag cacatcattg cctttcaatc cccttcatcc cttccacact caccaaccgc
+     2641 cattaccaaa tgccaagcac aaccatttca cagtgagtcg cgtgcgtctg ttttatcaaa
+     2701 accaaactcc ttgcagaacc agtaggggga gggggatgca atcaggtttc ttttttttgc
+     2761 caccaaaatt tttcaagatg tttcttgaga ccattgcctt tctgaaaaac tattttcaac
+     2821 atacaaaaat atttatataa atgttattta ttagcgagcc attattcatc ctttggatgc
+     2881 aaattgtaaa ttaggaaact attttattac tgcttttttg tggttaaaca atttatttta
+     2941 atattataaa tactgagtta ttttttgagc ctctttggca tgtaggagtt ccgggtcttg
+     3001 gtgtgcattc tgtagtatat atgattcagg aaagaaaaat taagcaagaa acacgtgctt
+     3061 cttctgtggc agacagagag agctgttttc tgagaggtgt tatccacctt ttggtttgtg
+     3121 gaacatcgtt cttatttata tttctgcatt ccatccagtt tcctacattc cagcagccct
+     3181 cttgtccccc aatataataa actgactgaa atcaagagag caccccaaag ttatttgtaa
+     3241 atagttaatg tggaaaaaaa aagacatatt aaacttgaag ataaaatgtg aagttttttt
+     3301 ttttctggat tcatgtttct ttcgctatgc acaaaacatt cacattttaa cacagagaag
+     3361 tgggaagtgt tcagatatgt cttgaagtat aatttttgca ctgtacttta tgtcattgag
+     3421 gagcatctag gaccagaggt agatgttgaa gaaagggatg aaaacatgga gcaggttgaa
+     3481 gttgaccatc aagctacaag ggccgtaaga gctcaagtca ggaagccaac atggacgtac
+     3541 aactgctggt gttcaaagaa caagagatgc caaaatgtag acatactcgt ttttattatt
+     3601 atcaagctgg tgaatttttt taagagtctg gacttggaag ggtcatggtg tctggtagga
+     3661 aacttgggaa gtgtgcagct cacagggcag ggcccctggt gggcagctat gtgcacagcg
+     3721 aggcagactg agagagggtt aagtaagtgg agtgtgttag cagctagtag ggggcagggg
+     3781 caagcacatt aggactagca gggagccagg ccaagaaagg agcacacccc atcctgtcag
+     3841 tgggtgagct tccttcaagg aaggcttcat aggactatgc aggggcagtc acacccacac
+     3901 acactcaccc tgtaggtgtg ggcagataac ccagtcattc atctgtcaag tttgggaatg
+     3961 ctgactgcac tttgacccct gtacaaagcc attagcagtt ttctagagca tcagttgcca
+     4021 cgatgggggg gaccatcaag atggatacaa aagaccacag gagggatgag tgtggtccac
+     4081 acacaccgac agacactgcc tcagggcatg gcagatgggt tctgagtgtg ggacttcaga
+     4141 ttggcagcta gtgatacttc ctatcatgtg tactgtgcac tttaacataa atatatttga
+     4201 atatttttct gtactgcaca aatgcctgtt ttgtcagatg gcatagcagt gtaaagatga
+     4261 gagggttttt aacagagtat attcagcaga agcagaagtc agaggttatc tacacaagga
+     4321 tttagagtga tggtctagaa tgttgtacct tcagggcttt gcaccccaga gtcctgaagt
+     4381 atatttttac atgtatcttt gacaacatga agctcagtaa ccattatttt tggatatttt
+     4441 ttcaaaatta aagtatttct tttgatatta atttccagta ttttcatgaa attggctgta
+     4501 tcatacaaac ggcttcaata ttttgtaaaa tgttttttta tgcagatctt atatggataa
+     4561 gatgtcttca agatccctgt acactatgtc tatatgtgca atgaaatgtg catggctggc
+     4621 tggtagtatg ataagtagac agaatgtata taatgcaaac ccttttatta tttaacagcc
+     4681 attaaaattt taaacttgta ccaaccaaaa aaaaaaaaaa aaaaaaa
+//

@@ -1,0 +1,221 @@
+LOCUS       NM_175026               3497 bp    mRNA    linear   ROD 27-APR-2025
+DEFINITION  Mus musculus interferon activated gene 209 (Ifi209), mRNA.
+ACCESSION   NM_175026
+VERSION     NM_175026.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 3497)
+  AUTHORS   Haque,A., Koide,N., Odkhuu,E., Tsolmongyn,B., Naiki,Y., Komatsu,T.,
+            Yoshida,T. and Yokochi,T.
+  TITLE     Mouse pyrin and HIN domain family member 1 (pyhin1) protein
+            positively regulates LPS-induced IFN-beta and NO production in
+            macrophages
+  JOURNAL   Innate Immun 20 (1), 40-48 (2014)
+   PUBMED   23606517
+  REMARK    GeneRIF: promotes LPS-induced IFN-beta and NO production in
+            macrophages
+REFERENCE   2  (bases 1 to 3497)
+  AUTHORS   Brunette,R.L., Young,J.M., Whitley,D.G., Brodsky,I.E., Malik,H.S.
+            and Stetson,D.B.
+  TITLE     Extensive evolutionary and functional diversity among mammalian
+            AIM2-like receptors
+  JOURNAL   J Exp Med 209 (11), 1969-1983 (2012)
+   PUBMED   23045604
+REFERENCE   3  (bases 1 to 3497)
+  AUTHORS   Cridland,J.A., Curley,E.Z., Wykes,M.N., Schroder,K., Sweet,M.J.,
+            Roberts,T.L., Ragan,M.A., Kassahn,K.S. and Stacey,K.J.
+  TITLE     The mammalian PYHIN gene family: phylogeny, evolution and expression
+  JOURNAL   BMC Evol Biol 12, 140 (2012)
+   PUBMED   22871040
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 3497)
+  AUTHORS   Burckstummer,T., Baumann,C., Bluml,S., Dixit,E., Durnberger,G.,
+            Jahn,H., Planyavsky,M., Bilban,M., Colinge,J., Bennett,K.L. and
+            Superti-Furga,G.
+  TITLE     An orthogonal proteomic-genomic screen identifies AIM2 as a
+            cytoplasmic DNA sensor for the inflammasome
+  JOURNAL   Nat Immunol 10 (3), 266-272 (2009)
+   PUBMED   19158679
+REFERENCE   5  (bases 1 to 3497)
+  AUTHORS   Piao,Y., Ko,N.T., Lim,M.K. and Ko,M.S.
+  TITLE     Construction of long-transcript enriched cDNA libraries from
+            submicrogram amounts of total RNAs by a universal PCR amplification
+            method
+  JOURNAL   Genome Res 11 (9), 1553-1558 (2001)
+   PUBMED   11544199
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK150817.1, BC096384.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849375,
+            SAMN00849383 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            CJ056097.1, AK080371.1 and AC117682.11.
+            On May 16, 2009 this sequence version replaced NM_175026.2.
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..3497
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="1"
+                     /map="1 80.54 cM"
+     gene            1..3497
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /note="interferon activated gene 209"
+                     /db_xref="GeneID:236312"
+                     /db_xref="MGI:MGI:2138243"
+     exon            1..297
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            298..579
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    312..314
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /note="upstream in-frame stop codon"
+     CDS             318..1580
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /note="ifi-209; interferon-inducible protein X;
+                     interferon-inducible protein 209; interferon-inducible
+                     protein p209; pyrin and HIN domain family, member 1"
+                     /codon_start=1
+                     /product="pyrin and HIN domain-containing protein 1"
+                     /protein_id="NP_778191.1"
+                     /db_xref="CCDS:CCDS35791.1"
+                     /db_xref="GeneID:236312"
+                     /db_xref="MGI:MGI:2138243"
+                     /translation="MVNEYKRIVLLTGLMGINDHDFRMVKSLLSKELKLNRMQDQYDRV
+                     KIADLMEDKFPKDAGVDQLIKLYKQIPGLGDIANKLKNEKAKAKRTRTGKRKTAAKRQR
+                     QEEPSTSQPMSTTNEDAEPESGRSTPDTQVAQLSLPTASRRNQAIQISPTIASSSGQTS
+                     SRSSETLQSIIQSPKTPKRPSSSILDPPVSSGTASSSAQALGVPLATIAKRQRLKNVPK
+                     EPSEENGHQQGSKKVMVLKVTEPFSYDVTEEKMFHATVATETEFFRVKVFDIVLKEKFI
+                     PNKVLTISNYVGCNGFINIYSASSVSEVNDGEPMNIPLSLRKSANRTPKINYLCSKKRG
+                     IFVNGVFTVCKKEEKWNYICYEIGDDTGMMEVEVYGRLTNIACNPGDKLRLICFKLIPD
+                     EEKAQLRSTTHSNMQVIKAKN"
+     misc_feature    561..920
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8BV49.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    963..1025
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8BV49.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            580..716
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            717..956
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            957..1370
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1371..1559
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1560..3497
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1881..1886
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /note="hexamer: AATAAA"
+     polyA_site      1900
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /note="major polyA site"
+     regulatory      3468..3473
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /note="hexamer: AATAAA"
+     polyA_site      3493
+                     /gene="Ifi209"
+                     /gene_synonym="4930422C14; Ifix; Pyhin-1; Pyhin1"
+                     /note="major polyA site"
+ORIGIN
+        1 gagacattca gcaagcctca gtccatggag tgagtctaac ctgagaattt ctgtagatta
+       61 cattttccag ttcccaagag atttattggt ttatcttctt acacacatac acatacacac
+      121 acacacacac acacacacac acacacacac acacacacac accaactcct ccctgtcccc
+      181 aacaaacttt aagaagaaga aggacaaaag agaagaggag gaagaggagt ggagaagcct
+      241 ctagtcctgc cctgtagaag atctcagctt tacatcccta gagaaacatc cagcaaggtt
+      301 cacacataat ttgaaagatg gtgaatgaat acaagagaat tgttcttctg acaggattaa
+      361 tgggtattaa tgaccatgat tttagaatgg ttaagtcctt gttgagcaaa gaactaaaac
+      421 taaatagaat gcaagatcag tacgacagag ttaagattgc tgatttgatg gaagacaagt
+      481 tcccaaaaga tgctggagtg gaccaactga taaaactata taagcagatt ccaggacttg
+      541 gagacattgc taataaactc aaaaatgaga aggcaaaagc taaaaggaca cggacaggga
+      601 aacggaaaac cgcagcaaaa agacaaaggc aagaagaacc cagtacttcc caacctatgt
+      661 ccaccacaaa tgaagatgca gaaccagaat cagggaggag tacacctgac acacaggttg
+      721 ctcagttatc tttaccaact gcttcccgaa ggaaccaagc cattcaaatt tctccaacaa
+      781 tagcatccag cagtggtcag accagcagca gatcttcaga aacattacaa agcatcattc
+      841 agtcccccaa aactccaaaa agaccgtcca gcagtattct ggaccctcca gtgtcttcag
+      901 gaacagcatc cagcagtgcc caggcactag gagttcctct agcaacaata gccaagagac
+      961 agagactgaa aaatgtaccc aaagaacctt ctgaggaaaa tggtcaccag caaggttcca
+     1021 aaaaagtgat ggtgttaaaa gtaacagaac cattttcata tgacgtgaca gaagagaaga
+     1081 tgttccatgc caccgtggct acggaaacag aattctttag agtaaaggtg tttgacattg
+     1141 tcctgaagga gaagttcata ccaaataagg tccttaccat ctcaaactat gttggctgca
+     1201 atgggttcat aaatatatac agtgcatcta gtgtgtcaga ggtaaatgat ggcgaaccaa
+     1261 tgaatatccc actttcactg aggaaaagtg ccaatcgaac acctaaaatc aactatcttt
+     1321 gctcgaagaa aagaggaata tttgtgaatg gagtgtttac tgtatgtaag aaagaagaaa
+     1381 agtggaacta catttgctat gagataggag atgatacagg gatgatggaa gtggaggtct
+     1441 acggacgact gaccaatatt gcttgtaatc ctggagataa acttagactc atatgcttta
+     1501 aactgatccc agatgaagaa aaagcacagc tgagatctac aacacacagt aacatgcagg
+     1561 ttatcaaagc taagaattga gaaacaacca ctcagtcctg cttcctttat gaaactgcat
+     1621 taattcttgt tttgcggact tggacatcac tgatgtttat aaagataaga tcctgttcca
+     1681 actaaagaaa aatgtcattc aactgataaa agcaagctct ttggtttagg aaatggcact
+     1741 tattctttct acagttttag cattttatta catattttga ttttatagtg tttatacttt
+     1801 gaatgaaaaa aacttcaggt acttcacaag tttcttgcat ttgtcagttg ctttaaaact
+     1861 gggtttgcag accaaggagg aataaacatg tttcatgaaa tattttcatt tatgttttgg
+     1921 gtgagctatt taaagacaaa gccttactca taaaggaaca gctgtgtcat cctcagaaac
+     1981 atcaagccat caataaaaag gatgtggagg ctgaaatgca ggctgaatgc agttgtggag
+     2041 actaatgtct tcagaagtga tgcagtcctt cctatgcatt tccatgagtc aatgtgagta
+     2101 cattgtagag tttagtcatt tgaaatatga atttccagaa gtggatgatc agagtacatt
+     2161 ttactgcttg caacagtaaa gaatctcacc tctgaatata gggtgaaata atgtcaagga
+     2221 aatcttgaga ccatgaggaa gctgtcctaa aacaaatgag tctcagtcaa ggcttcctgc
+     2281 agtgttaatt acctctctca ttgttatgac tgtatatcta gaaacagaaa ctgagagaga
+     2341 tgctttacat tggctcacag tttaatggta gatgagagtg ctgtggctga tcacattgta
+     2401 tcagcagagc agaaagcaga gagcaattgt atgctcttga ggagagctct ctttcttttt
+     2461 atattcagtt cacaaacttt gccagtagaa tgttgtcacc cacatttagg ctgaattccc
+     2521 aaattgattt atggaaaaaa aaattcctca caaacatgcc cagggtgttg cctcctaagt
+     2581 ggatctatat cctgttacct ttataatcag tatcaataac gacaatgggc aatgatgacc
+     2641 aatcatggag aaaaggagca aaggaaaggt agaaatagca gccataacaa gataagtaca
+     2701 agatatgtgt ttctgacccc ttgggagatt tgtgtaggca aagacctcag tagacagaca
+     2761 ttaggaaatg ggattaatag ggatgtacga aggtcataag ggttttacca gttctcataa
+     2821 gtagattgat atcactacaa agaaatgggt tgaggactga tttcttggat tttattatat
+     2881 tactcccacg tgagaagaag tcaatcaagc atagggtata gtttagcaac ctggaactcc
+     2941 acttggcttg gggcatataa ccaacccctt ctaacaatgc actggaagct tcagagactt
+     3001 actttcaaac actaggcaaa caaaccctct atgaacaatg tacctacaaa ccaactgaca
+     3061 acctagaacg ctcaagtgca tcaggcttca ggtatatgtt tccaacatgg acgtagatta
+     3121 ttcttttagc aattctttag tgatatatat cccagaacac accttgatgc tacaagagat
+     3181 agcctaatcc agcctagact tgtttgagtg cataaatgag acaaactgtc tcctatttgc
+     3241 cattttatgc ctatatatta ttgtatgtgc tactgattaa cattagatga cctatgcaat
+     3301 aaacaaaatc ctatggtacc caagttggtc agtcaacctc ctacttctct tgaagtccat
+     3361 aatgtcaaca ccacagtaat tgctatgctt ccgtatcttc atttatgtgg cctgttattc
+     3421 tccttgactt catatttctt cctaacctgc gatattccac ggctttaaat aaatgtccgc
+     3481 acctactttg aaagttg
+//

@@ -1,0 +1,214 @@
+LOCUS       NM_011579               2809 bp    mRNA    linear   ROD 27-APR-2025
+DEFINITION  Mus musculus T cell specific GTPase 1 (Tgtp1), mRNA.
+ACCESSION   NM_011579
+VERSION     NM_011579.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2809)
+  AUTHORS   Lee,Y., Yamada,H., Pradipta,A., Ma,J.S., Okamoto,M., Nagaoka,H.,
+            Takashima,E., Standley,D.M., Sasai,M., Takei,K. and Yamamoto,M.
+  TITLE     Initial phospholipid-dependent Irgb6 targeting to Toxoplasma gondii
+            vacuoles mediates host defense
+  JOURNAL   Life Sci Alliance 3 (1), e201900549 (2019)
+   PUBMED   31852733
+  REMARK    GeneRIF: Initial phospholipid-dependent Irgb6 targeting to
+            Toxoplasma gondii vacuoles mediates host defense. Publication
+            Status: Online-Only
+REFERENCE   2  (bases 1 to 2809)
+  AUTHORS   Langlais,D., Barreiro,L.B. and Gros,P.
+  TITLE     The macrophage IRF8/IRF1 regulome is required for protection against
+            infections and is associated with chronic inflammation
+  JOURNAL   J Exp Med 213 (4), 585-603 (2016)
+   PUBMED   27001747
+REFERENCE   3  (bases 1 to 2809)
+  AUTHORS   Budry,L., Balsalobre,A., Gauthier,Y., Khetchoumian,K., L'honore,A.,
+            Vallette,S., Brue,T., Figarella-Branger,D., Meij,B. and Drouin,J.
+  TITLE     The selector gene Pax7 dictates alternate pituitary cell fates
+            through its pioneer action on chromatin remodeling
+  JOURNAL   Genes Dev 26 (20), 2299-2310 (2012)
+   PUBMED   23070814
+REFERENCE   4  (bases 1 to 2809)
+  AUTHORS   Archambaud,C., Nahori,M.A., Soubigou,G., Becavin,C., Laval,L.,
+            Lechat,P., Smokvina,T., Langella,P., Lecuit,M. and Cossart,P.
+  TITLE     Impact of lactobacilli on orally acquired listeriosis
+  JOURNAL   Proc Natl Acad Sci U S A 109 (41), 16684-16689 (2012)
+   PUBMED   23012479
+REFERENCE   5  (bases 1 to 2809)
+  AUTHORS   Traver,M.K., Henry,S.C., Cantillana,V., Oliver,T., Hunn,J.P.,
+            Howard,J.C., Beer,S., Pfeffer,K., Coers,J. and Taylor,G.A.
+  TITLE     Immunity-related GTPase M (IRGM) proteins influence the localization
+            of guanylate-binding protein 2 (GBP2) by modulating macroautophagy
+  JOURNAL   J Biol Chem 286 (35), 30471-30480 (2011)
+   PUBMED   21757726
+  REMARK    Erratum:[J Biol Chem. 2013 Apr 19;288(16):11504]
+REFERENCE   6  (bases 1 to 2809)
+  AUTHORS   Hussain,S., Zwilling,B.S. and Lafuse,W.P.
+  TITLE     Mycobacterium avium infection of mouse macrophages inhibits
+            IFN-gamma Janus kinase-STAT signaling and gene induction by
+            down-regulation of the IFN-gamma receptor
+  JOURNAL   J Immunol 163 (4), 2041-2048 (1999)
+   PUBMED   10438942
+REFERENCE   7  (bases 1 to 2809)
+  AUTHORS   Carlow,D.A., Teh,S.J. and Teh,H.S.
+  TITLE     Specific antiviral activity demonstrated by TGTP, a member of a new
+            family of interferon-induced GTPases
+  JOURNAL   J Immunol 161 (5), 2348-2355 (1998)
+   PUBMED   9725230
+REFERENCE   8  (bases 1 to 2809)
+  AUTHORS   Sorace,J.M., Johnson,R.J., Howard,D.L. and Drysdale,B.E.
+  TITLE     Identification of an endotoxin and IFN-inducible cDNA: possible
+            identification of a novel protein family
+  JOURNAL   J Leukoc Biol 58 (4), 477-484 (1995)
+   PUBMED   7561525
+REFERENCE   9  (bases 1 to 2809)
+  AUTHORS   Lafuse,W.P., Brown,D., Castle,L. and Zwilling,B.S.
+  TITLE     Cloning and characterization of a novel cDNA that is
+            IFN-gamma-induced in mouse peritoneal macrophages and encodes a
+            putative GTP-binding protein
+  JOURNAL   J Leukoc Biol 57 (3), 477-483 (1995)
+   PUBMED   7884320
+REFERENCE   10  (bases 1 to 2809)
+  AUTHORS   Carlow,D.A., Marth,J., Clark-Lewis,I. and Teh,H.S.
+  TITLE     Isolation of a gene encoding a developmentally regulated T
+            cell-specific protein with a guanine nucleotide triphosphate-binding
+            motif
+  JOURNAL   J Immunol 154 (4), 1724-1734 (1995)
+   PUBMED   7836757
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BY215777.1, AK089836.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN01164135
+            [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AK163978.1, BY238768.1, AL627237.44 and AA177827.1.
+            On Oct 27, 2007 this sequence version replaced NM_011579.2.
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..2809
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="11"
+                     /map="11 28.98 cM"
+     gene            1..2809
+                     /gene="Tgtp1"
+                     /gene_synonym="Gtp2; Ifggb6; Irgb6; Mg21; Tgtp; Tgtp2"
+                     /note="T cell specific GTPase 1"
+                     /db_xref="GeneID:21822"
+                     /db_xref="MGI:MGI:98734"
+     exon            1..243
+                     /gene="Tgtp1"
+                     /gene_synonym="Gtp2; Ifggb6; Irgb6; Mg21; Tgtp; Tgtp2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    172..174
+                     /gene="Tgtp1"
+                     /gene_synonym="Gtp2; Ifggb6; Irgb6; Mg21; Tgtp; Tgtp2"
+                     /note="upstream in-frame stop codon"
+     exon            244..2809
+                     /gene="Tgtp1"
+                     /gene_synonym="Gtp2; Ifggb6; Irgb6; Mg21; Tgtp; Tgtp2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             262..1509
+                     /gene="Tgtp1"
+                     /gene_synonym="Gtp2; Ifggb6; Irgb6; Mg21; Tgtp; Tgtp2"
+                     /EC_number="3.6.5.-"
+                     /note="interferon-gamma-inducible GTPase Ifggb5; T-cell
+                     specific GTPase; T-cell-specific guanine nucleotide
+                     triphosphate-binding protein 2; Interferon-gamma-inducible
+                     GTPase Ifggb6 protein"
+                     /codon_start=1
+                     /product="T-cell-specific guanine nucleotide
+                     triphosphate-binding protein 1"
+                     /protein_id="NP_035709.3"
+                     /db_xref="CCDS:CCDS24593.1"
+                     /db_xref="GeneID:21822"
+                     /db_xref="MGI:MGI:98734"
+                     /translation="MAWASSFDAFFKNFKRESKIISEYDITLIMTYIEENKLQKAVSVI
+                     EKVLRDIESAPLHIAVTGETGAGKSTFINTLRGVGHEEKGAAPTGAIETTMKRTPYPHP
+                     KLPNVTIWDLPGIGTTNFTPQNYLTEMKFGEYDFFIIISATRFKENDAQLAKAIAQMGM
+                     NFYFVRTKIDSDLDNEQKFKPKSFNKEEVLKNIKDYCSNHLQESLDSEPPVFLVSNVDI
+                     SKYDFPKLETKLLQDLPAHKRHVFSLSLQSLTEATINYKRDSLKQKVFLEAMKAGALAT
+                     IPLGGMISDILENLDETFNLYRSYFGLDDASLENIAQDLNMSVDDFKVHLRFPHLFAEH
+                     NDESLEDKLFKYIKHISSVTGGPVAAVTYYRMAYYLQNLFLDTAANDAIALLNSKALFE
+                     KKVGPYISEPPEYWEA"
+     regulatory      1751..1756
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Tgtp1"
+                     /gene_synonym="Gtp2; Ifggb6; Irgb6; Mg21; Tgtp; Tgtp2"
+                     /note="hexamer: AATAAA"
+     regulatory      1756..1761
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Tgtp1"
+                     /gene_synonym="Gtp2; Ifggb6; Irgb6; Mg21; Tgtp; Tgtp2"
+                     /note="hexamer: AACAAA"
+     polyA_site      1774
+                     /gene="Tgtp1"
+                     /gene_synonym="Gtp2; Ifggb6; Irgb6; Mg21; Tgtp; Tgtp2"
+                     /note="major polyA site"
+     polyA_site      1785
+                     /gene="Tgtp1"
+                     /gene_synonym="Gtp2; Ifggb6; Irgb6; Mg21; Tgtp; Tgtp2"
+ORIGIN
+        1 gtagagagca agggctgtgt gtggacaagt aaggacaaag aaactcaggg agatccaact
+       61 gtccatccca cggtctcctc ctttctatgt gcagttcttc ctgggacacc agaactccac
+      121 acctcatgtc ctctcttcat aaacatcctg aatctgaatt ccagttttag ataaagacgt
+      181 tccctaagag gaaagccatc acagaagtgt tattgccacc agatcaaggt caccactgct
+      241 gagcttctac catacagagc catggcttgg gcctccagct ttgatgcatt ctttaagaat
+      301 tttaaaaggg aaagcaaaat catctctgaa tatgacatca ccttgattat gacttacata
+      361 gaggaaaata agctacagaa agctgtttct gtaattgaaa aggtactgag agacatcgag
+      421 agtgctcctc tgcacatagc tgtgacaggg gaaacaggcg cagggaagtc cactttcatc
+      481 aataccctga ggggggtggg gcatgaagaa aaaggtgcag cccccactgg ggcaatagag
+      541 acaaccatga agagaactcc atacccacac ccaaagcttc ccaacgtgac aatatgggac
+      601 ctgcctggca ttgggaccac taacttcaca ccacaaaact atctgacaga aatgaagttt
+      661 ggtgagtacg acttcttcat tatcatctca gctacacgtt tcaaagaaaa tgatgcacaa
+      721 ctggccaaag ccattgcaca gatggggatg aatttctact ttgtcagaac caagatagac
+      781 agcgacttag ataatgaaca gaagtttaag cctaagagtt tcaataagga ggaagtcctc
+      841 aagaatatta aggattactg ctctaatcat cttcaggagt ctctcgacag tgagcctcca
+      901 gtcttcctag tctctaacgt tgatatatcg aagtatgact tcccaaagct ggaaactaaa
+      961 ctcctacagg atctcccagc ccacaagcgc cacgtcttct cactgtcttt gcaaagtctt
+     1021 actgaggcca ccattaacta caagagagat tccctgaagc aaaaagtctt cctagaagcc
+     1081 atgaaggctg gagcattagc caccattcca cttggtggca tgatcagtga tatcttagag
+     1141 aatctggatg aaacattcaa tctctacagg tcttactttg ggctggatga tgcttcactg
+     1201 gaaaacattg cccaggattt gaacatgtct gtggatgact tcaaggtaca ccttcgattt
+     1261 ccccatttgt ttgcagaaca caatgatgag tccttagaag acaagctatt taaatatatc
+     1321 aaacacattt cttcagttac tggtgggcca gtcgctgcag tcacttacta tcgcatggct
+     1381 tattatttgc agaatctctt tcttgatact gcagccaatg atgccatagc tcttctgaat
+     1441 agtaaagcac tttttgagaa gaaggtggga ccatatatat ctgagccccc cgagtactgg
+     1501 gaagcttgaa aaaataaggc atgagttcca atcagtgttc actcttagct tcaccttggg
+     1561 cacgattttt agcctagtcc cgatggggga aaaagtctca gtggcaggcc agaggattca
+     1621 tgctttccct tctcctgatc cagaagatca ccatggcaaa ggcttatagt gcttagagta
+     1681 gaaaagaagt gtcttcaaca tcgtgcaaat atgacagcaa agtatatttg cattaaaatc
+     1741 atttcttaaa aataaaacaa acacatgatg tggatttggt ttgcattttt ctcctcaaat
+     1801 gaatcctgaa tcttttactc ctatgaaagt tttcatgtgc ttttacattc tcactggcag
+     1861 ccctgattgt cacattgcca agtggtattt tggaaacagg gacatcgggt accctacaga
+     1921 gtgtagacaa acacgttttg acccagaact gggtgttcca ggagattcta catgttgtca
+     1981 agtgaacaac taacattaat aaccccatgt gctaaccaaa cccaggctct ttgctgacca
+     2041 tggtagtatt ggtgctttgt cactaaggca tgtaagcacc tccacattgc ttcttcatag
+     2101 gtgtatagat gtatggaaga ttgttttaag ctagtcactc cgatgtgccc tgccacacta
+     2161 gacttcattt attctttgca tctattgatt ccctgaactc tgtggtcctc cctctctcca
+     2221 gcctccactg acacctttct ccagtcagtt caaccatcaa ctcacgtgag agaacagagt
+     2281 gaacctgcct ctctgtcctg tggcagagct tgtaacacct acattgtggc ctgaagatga
+     2341 atgtgagcct gtggagagat gtgcccaccc acactcctaa aatataaacc cctgactcag
+     2401 tatagaaaac actcactgcc caaagttcgg tcagactcta atctacttct gtgtgtttca
+     2461 atacttcaca gaggaaagct attgctgaca tcttgcagaa agaagttgtc agcagctggc
+     2521 atggactctg aagggaagct agacagccca tgatggcaaa catggctctg ccaggccttg
+     2581 cccttctctt ccattccctc tgccttgcta aaaaactaac aaacaaacaa aacccattac
+     2641 attctattcc taaagctagc ctccaaggcc tatcttgttt atttgatcac ttcctcttcc
+     2701 tgaggtcaac taccaatgtg tagttatcaa agaattgatg tccagcaatc aaaagcccct
+     2761 tttggctccc ctaattaata tgcacaatta aaattaaaca cttcatcct
+//

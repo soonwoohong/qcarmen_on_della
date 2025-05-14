@@ -1,0 +1,218 @@
+LOCUS       NM_013556               1349 bp    mRNA    linear   ROD 14-JAN-2025
+DEFINITION  Mus musculus hypoxanthine phosphoribosyltransferase 1 (Hprt1), mRNA.
+ACCESSION   NM_013556
+VERSION     NM_013556.2
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1349)
+  AUTHORS   Dinakaran,S., Qutaina,S., Zhao,H., Tang,Y., Wang,Z., Ruiz,S.,
+            Nomura-Kitabayashi,A., Metz,C.N., Arthur,H.M., Meadows,S.M.,
+            Blanc,L., Faughnan,M.E. and Marambaud,P.
+  TITLE     CDK6-mediated endothelial cell cycle acceleration drives
+            arteriovenous malformations in hereditary hemorrhagic telangiectasia
+  JOURNAL   Nat Cardiovasc Res 3 (11), 1301-1317 (2024)
+   PUBMED   39487364
+REFERENCE   2  (bases 1 to 1349)
+  AUTHORS   Sigler,A.L., Thompson,S.B., Ellwood-Digel,L., Kandasamy,A.,
+            Michaels,M.J., Thumkeo,D., Narumiya,S., Del Alamo,J.C. and
+            Jacobelli,J.
+  TITLE     FMNL1 and mDia1 promote efficient T cell migration through complex
+            environments via distinct mechanisms
+  JOURNAL   Front Immunol 15, 1467415 (2024)
+   PUBMED   39430739
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1349)
+  AUTHORS   Mehlmann,L.M., Uliasz,T.F., Yee,S.P., Kaback,D. and Lowther,K.M.
+  TITLE     Generation and Characterization of a TRIM21 Overexpressing Mouse
+            Line
+  JOURNAL   Genesis 62 (5), e23616 (2024)
+   PUBMED   39487578
+REFERENCE   4  (bases 1 to 1349)
+  AUTHORS   Chen,J., Lewis,M.A., Wai,A., Yin,L., Dawson,S.J., Ingham,N.J. and
+            Steel,K.P.
+  TITLE     A new mutation of Sgms1 causes gradual hearing loss associated with
+            a reduced endocochlear potential
+  JOURNAL   Hear Res 451, 109091 (2024)
+   PUBMED   39067415
+REFERENCE   5  (bases 1 to 1349)
+  AUTHORS   Moon,D., Padanilam,B.J., Park,K.M. and Kim,J.
+  TITLE     Loss of SAV1 in Kidney Proximal Tubule Induces Maladaptive Repair
+            after Ischemia and Reperfusion Injury
+  JOURNAL   Int J Mol Sci 25 (9), 4610 (2024)
+   PUBMED   38731829
+  REMARK    Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 1349)
+  AUTHORS   Nesbitt,M.N., Bakay,B., Gardner,M.B. and Day,C.
+  TITLE     Isoenzyme pattern of HPRT in murine erythrocytes: control by an
+            autosomal locus
+  JOURNAL   Biochem Genet 17 (9-10), 957-964 (1979)
+   PUBMED   540025
+REFERENCE   7  (bases 1 to 1349)
+  AUTHORS   Francke,U. and Taggart,R.T.
+  TITLE     Assignment of the gene for cytoplasmic superoxide dismutase (Sod-1)
+            to a region of chromosome 16 and of Hprt to a region of the X
+            chromosome in the mouse
+  JOURNAL   Proc Natl Acad Sci U S A 76 (10), 5230-5233 (1979)
+   PUBMED   291939
+REFERENCE   8  (bases 1 to 1349)
+  AUTHORS   Lo,Y.F. and Palmour,R.M.
+  TITLE     Developmental expression of murine HPRT. I. Activities, heat
+            stabilities, and electrophoretic mobilities in adult tissues
+  JOURNAL   Biochem Genet 17 (7-8), 737-746 (1979)
+   PUBMED   540017
+REFERENCE   9  (bases 1 to 1349)
+  AUTHORS   Snyder,F.F., Cruikshank,M.K. and Seegmiller,J.E.
+  TITLE     A comparison of purine metabolism and nucleotide pools in normal and
+            hypoxanthine-guanine phosphoribosyltransferase-deficient
+            neuroblastoma cells
+  JOURNAL   Biochim Biophys Acta 543 (4), 556-569 (1978)
+   PUBMED   718989
+REFERENCE   10  (bases 1 to 1349)
+  AUTHORS   Kozak,C.A. and Ruddle,F.H.
+  TITLE     Assignment of the genes for thymidine kinase and galactokinase to
+            Mus musculus chromosome 11 and the preferential segregation of this
+            chromosome in Chinese hamster/mouse somatic cell hybrids
+  JOURNAL   Somatic Cell Genet 3 (2), 121-133 (1977)
+   PUBMED   204065
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK146626.1, BC004686.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849374,
+            SAMN00849375 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BY285280.1, AK146626.1 and
+            AK002286.1.
+            On May 16, 2006 this sequence version replaced NM_013556.1.
+            Summary: The protein encoded by this gene is a transferase, which
+            catalyzes conversion of hypoxanthine to inosine monophosphate and
+            guanine to guanosine monophosphate via transfer of the
+            5-phosphoribosyl group from 5-phosphoribosyl 1-pyrophosphate. This
+            enzyme plays a central role in the generation of purine nucleotides
+            through the purine salvage pathway. [provided by RefSeq, Sep 2015].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1349
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="X"
+                     /map="X 29.31 cM"
+     gene            1..1349
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /note="hypoxanthine phosphoribosyltransferase 1"
+                     /db_xref="GeneID:15452"
+                     /db_xref="MGI:MGI:96217"
+     exon            1..173
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    84..86
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /note="upstream in-frame stop codon"
+     CDS             147..803
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /EC_number="2.4.2.8"
+                     /note="hypoxanthine guanine phosphoribosyl transferase 1;
+                     HGPRT; HPRT B; HGPRTase"
+                     /codon_start=1
+                     /product="hypoxanthine-guanine phosphoribosyltransferase"
+                     /protein_id="NP_038584.2"
+                     /db_xref="CCDS:CCDS40972.1"
+                     /db_xref="GeneID:15452"
+                     /db_xref="MGI:MGI:96217"
+                     /translation="MPTRSPSVVISDDEPGYDLDLFCIPNHYAEDLEKVFIPHGLIMDR
+                     TERLARDVMKEMGGHHIVALCVLKGGYKFFADLLDYIKALNRNSDRSIPMTVDFIRLKS
+                     YCNDQSTGDIKVIGGDDLSTLTGKNVLIVEDIIDTGKTMQTLLSLVKQYSPKMVKVASL
+                     LVKRTSRSVGYRPDFVGFEIPDKFVVGYALDYNEYFRDLNHVCVISETGKAKYKA"
+     misc_feature    453..455
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0007744|PubMed:23806337; propagated from
+                     UniProtKB/Swiss-Prot (P00493.3); acetylation site"
+     misc_feature    570..572
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0000250|UniProtKB:P27605; propagated from
+                     UniProtKB/Swiss-Prot (P00493.3); phosphorylation site"
+     exon            174..280
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /inference="alignment:Splign:2.1.0"
+     exon            281..464
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /inference="alignment:Splign:2.1.0"
+     exon            465..530
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /inference="alignment:Splign:2.1.0"
+     exon            531..548
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /inference="alignment:Splign:2.1.0"
+     exon            549..631
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /inference="alignment:Splign:2.1.0"
+     exon            632..678
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /inference="alignment:Splign:2.1.0"
+     exon            679..755
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /inference="alignment:Splign:2.1.0"
+     exon            756..1349
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1332..1337
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /note="hexamer: AATAAA"
+     polyA_site      1349
+                     /gene="Hprt1"
+                     /gene_synonym="HPGRT; Hprt"
+                     /note="major polyA site"
+ORIGIN
+        1 ggagcctggc cggcagcgtt tctgagccat tgctgaggcg gcgagggaga gcgttgggct
+       61 tacctcactg ctttccggag cggtagcacc tcctccgccg gcttcctcct cagaccgctt
+      121 tttgccgcga gccgaccggt cccgtcatgc cgacccgcag tcccagcgtc gtgattagcg
+      181 atgatgaacc aggttatgac ctagatttgt tttgtatacc taatcattat gccgaggatt
+      241 tggaaaaagt gtttattcct catggactga ttatggacag gactgaaaga cttgctcgag
+      301 atgtcatgaa ggagatggga ggccatcaca ttgtggccct ctgtgtgctc aaggggggct
+      361 ataagttctt tgctgacctg ctggattaca ttaaagcact gaatagaaat agtgatagat
+      421 ccattcctat gactgtagat tttatcagac tgaagagcta ctgtaatgat cagtcaacgg
+      481 gggacataaa agttattggt ggagatgatc tctcaacttt aactggaaag aatgtcttga
+      541 ttgttgaaga tataattgac actggtaaaa caatgcaaac tttgctttcc ctggttaagc
+      601 agtacagccc caaaatggtt aaggttgcaa gcttgctggt gaaaaggacc tctcgaagtg
+      661 ttggatacag gccagacttt gttggatttg aaattccaga caagtttgtt gttggatatg
+      721 cccttgacta taatgagtac ttcagggatt tgaatcacgt ttgtgtcatt agtgaaactg
+      781 gaaaagccaa atacaaagcc taagatgagc gcaagttgaa tctgcaaata cgaggagtcc
+      841 tgttgatgtt gccagtaaaa ttagcaggtg ttctagtcct gtggccatct gcctagtaaa
+      901 gctttttgca tgaaccttct atgaatgtta ctgttttatt tttagaaatg tcagttgctg
+      961 cgtccccaga cttttgattt gcactatgag cctataggcc agcctaccct ctggtagatt
+     1021 gtcgcttatc ttgtaagaaa aacaaatctc ttaaattacc acttttaaat aataatactg
+     1081 agattgtatc tgtaagaagg atttaaagag aagctatatt agttttttaa ttggtatttt
+     1141 aatttttata tattcaggag agaaagatgt gattgatatt gttaatttag acgagtctga
+     1201 agctctcgat ttcctatcag taacagcatc taagaggttt tgctcagtgg aataaacatg
+     1261 tttcagcagt gttggctgta ttttcccact ttcagtaaat cgttgtcaac agttcctttt
+     1321 aaatgcaaat aaataaattc taaaaattc
+//

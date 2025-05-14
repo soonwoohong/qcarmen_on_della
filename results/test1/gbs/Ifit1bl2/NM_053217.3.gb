@@ -1,0 +1,180 @@
+LOCUS       NM_053217               3367 bp    mRNA    linear   ROD 02-MAY-2024
+DEFINITION  Mus musculus interferon induced protein with tetratricopeptide
+            repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA.
+ACCESSION   NM_053217
+VERSION     NM_053217.3
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 3367)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   2  (bases 1 to 3367)
+  AUTHORS   Mears,H.V. and Sweeney,T.R.
+  TITLE     Mouse Ifit1b is a cap1-RNA-binding protein that inhibits mouse
+            coronavirus translation and is regulated by complexing with Ifit1c
+  JOURNAL   J Biol Chem 295 (51), 17781-17801 (2020)
+   PUBMED   33454014
+  REMARK    GeneRIF: Mouse Ifit1b is a cap1-RNA-binding protein that inhibits
+            mouse coronavirus translation and is regulated by complexing with
+            Ifit1c.
+REFERENCE   3  (bases 1 to 3367)
+  AUTHORS   Langlais,D., Barreiro,L.B. and Gros,P.
+  TITLE     The macrophage IRF8/IRF1 regulome is required for protection against
+            infections and is associated with chronic inflammation
+  JOURNAL   J Exp Med 213 (4), 585-603 (2016)
+   PUBMED   27001747
+REFERENCE   4  (bases 1 to 3367)
+  AUTHORS   Fensterl,V. and Sen,G.C.
+  TITLE     Interferon-induced Ifit proteins: their role in viral pathogenesis
+  JOURNAL   J Virol 89 (5), 2462-2468 (2015)
+   PUBMED   25428874
+  REMARK    Review article
+REFERENCE   5  (bases 1 to 3367)
+  AUTHORS   Diamond,M.S. and Farzan,M.
+  TITLE     The broad-spectrum antiviral functions of IFIT and IFITM proteins
+  JOURNAL   Nat Rev Immunol 13 (1), 46-57 (2013)
+   PUBMED   23237964
+  REMARK    Review article
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK153247.1, CJ136120.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN01164135
+            [ECO:0000348]
+            ##Evidence-Data-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AK153247.1 and AK136525.1.
+            On Apr 6, 2018 this sequence version replaced NM_053217.2.
+FEATURES             Location/Qualifiers
+     source          1..3367
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="19"
+                     /map="19 29.76 cM"
+     gene            1..3367
+                     /gene="Ifit1bl2"
+                     /gene_synonym="2010002M12Rik; Ifit1b"
+                     /note="interferon induced protein with tetratricopeptide
+                     repeats 1B like 2"
+                     /db_xref="GeneID:112419"
+                     /db_xref="MGI:MGI:2148249"
+     exon            1..142
+                     /gene="Ifit1bl2"
+                     /gene_synonym="2010002M12Rik; Ifit1b"
+                     /inference="alignment:Splign:2.1.0"
+     exon            143..233
+                     /gene="Ifit1bl2"
+                     /gene_synonym="2010002M12Rik; Ifit1b"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    193..195
+                     /gene="Ifit1bl2"
+                     /gene_synonym="2010002M12Rik; Ifit1b"
+                     /note="upstream in-frame stop codon"
+     CDS             202..1602
+                     /gene="Ifit1bl2"
+                     /gene_synonym="2010002M12Rik; Ifit1b"
+                     /codon_start=1
+                     /product="interferon induced protein with tetratricopeptide
+                     repeats 1B like 2"
+                     /protein_id="NP_444447.1"
+                     /db_xref="CCDS:CCDS29765.1"
+                     /db_xref="GeneID:112419"
+                     /db_xref="MGI:MGI:2148249"
+                     /translation="MEQLLSPSNMSEESHKSHIHDSLDELRCHFTWELDIKDKHIHDLE
+                     IKISETEFRDPIYSIGMHNLLAYVRHLKGQQDEALQSLKEAEALIQSEQLSKRSLATWG
+                     NCAWLHYHRGSLAEAQVYLDKVEKVCKEFSSPFRYRLECAEMDCEEGWALRKCGSQNYT
+                     RAMACFERALKVEPENPEYNAGYADVAYHLDYYDGNSLQPLKKAVSVKPEDPYLKVLLA
+                     LKLQDLRKTDEAEKHIKEATLTISSQNNIFGYVAKFYRRKGCVEEALGFLKKALETKPS
+                     SPYLHFQIGLCHKTQFFQMKKATSRENRKRADQSCHLAICHFKKTLELKPTYDRAYIDL
+                     AEVYAKNHQQKEAEDNFQEVLSMSNLGDYMQQEIHFRYGNFQQYYKKSEEAAITHYLKG
+                     LKIEVTSHYRDKLLKALEELAEGRKEDHVLESLSLLGLVCRLRGDTSEAMSCYEKALRL
+                     TGAVNPEF"
+     exon            234..3367
+                     /gene="Ifit1bl2"
+                     /gene_synonym="2010002M12Rik; Ifit1b"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2313..2318
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Ifit1bl2"
+                     /gene_synonym="2010002M12Rik; Ifit1b"
+                     /note="hexamer: GATAAA"
+     polyA_site      2334
+                     /gene="Ifit1bl2"
+                     /gene_synonym="2010002M12Rik; Ifit1b"
+                     /note="major polyA site"
+ORIGIN
+        1 ctgtggggtt tgccctactg cattctccac tgaaatcgat gaggagaagg ctctgaaacg
+       61 gatacagaca tgtcggatcc agactgctgt ccagagagag agagtgagac atccctgcca
+      121 cccagagact cttatctgtt agaatcccta gaacaccttt gattgagttt ggaagcatct
+      181 cttggcctga attaaagtgc tatggagcaa cttctgagtc ccagcaacat gagtgaagaa
+      241 tctcataaaa gtcatataca tgacagcctg gatgagctga gatgccactt tacctgggag
+      301 ctggacataa aagataagca catccatgac ttagaaatca aaatctcaga gactgagttc
+      361 cgtgatccca tctacagcat cgggatgcac aacctcctgg cctacgtgag gcacctgaaa
+      421 ggccagcagg acgaagccct gcagagcttg aaagaagctg aagccttgat ccagagcgag
+      481 cagctgagca agagaagcct ggcgacctgg ggcaactgtg cctggctgca ttaccacagg
+      541 ggcagcttgg cagaagccca ggtctacctg gacaaggtgg agaaggtgtg caaggaattt
+      601 tcaagtccct tccgctacag gctggagtgt gctgagatgg actgtgagga aggctgggcc
+      661 ttgcggaagt gtggctcaca aaattataca cgagccatgg cctgctttga aagggctctg
+      721 aaagtggagc cagaaaaccc tgagtacaac gctggctatg cagatgtagc ctatcacctg
+      781 gattactatg atggtaattc tctacaaccc ttaaagaagg ctgtcagtgt aaaaccagaa
+      841 gatccatacc ttaaagttct ccttgcccta aagctgcagg atttaagaaa aacagatgaa
+      901 gcagaaaaac acattaaaga agctacgctc acaatatcct cccagaacaa tatctttgga
+      961 tatgtagcca aattttaccg aaggaaaggt tgtgtggagg aagctctcgg gttccttaaa
+     1021 aaagccttgg agacaaaacc ttcctctcct tacttgcatt tccagattgg cctttgccat
+     1081 aaaacacaat tttttcaaat gaaaaaagct acaagcaggg agaatagaaa aagagcagac
+     1141 caatcatgcc atttggctat atgtcatttt aaaaagactt tagagctgaa acccacatat
+     1201 gacagagcat atattgattt ggctgaggtg tacgcaaaaa atcatcaaca aaaagaggca
+     1261 gaggacaatt ttcaggaagt gttgagcatg agtaacttgg gagattatat gcagcaagaa
+     1321 attcatttcc ggtatggcaa cttccaacaa tactataaga aatcagaaga ggcagccatc
+     1381 acacattact taaaaggcct gaaaatagag gtaacttctc actacaggga taaacttctc
+     1441 aaggctttgg aggaactggc tgaaggacgc aaggaggatc atgtcctgga aagcttgagc
+     1501 ctccttgggc tcgtctgcag actgagaggg gacacaagtg aagccatgtc atgttatgag
+     1561 aaggccctga ggctcacagg agcagtgaac cctgagtttt gaggtagagc ttcttgttaa
+     1621 gcgtgagcat gacttcctat tctactagtc ttttccagct gttgccttaa ctatatagaa
+     1681 ccccatgaag caagatacat atgatgcctt ttctattgct tgcttttcta cagccctaat
+     1741 ttattgttga gggcctatga gtgtgtgaca agcgtgtcca ttctcctgcc acacatgctg
+     1801 gacattttcc ttatgagtgt gcctttggat tgcatctcct ataacatcag tcttccagta
+     1861 ccctgatcaa aggacacttg acacattaag gctcattttt catgggatct tccaaacttc
+     1921 agcaacttct gacagcaaaa taaatgagca atggtgagca ttaaaaggga gaggaattca
+     1981 agatatcttt acagtgtttc agtccatagg cccattttca taggctttac tgcagccaga
+     2041 acctgctggt caatgacctc caccctaata atcaatgcat ctttttgtat acaagtggtt
+     2101 gatttcagat aattgtggtg gatttctgtg gtctacatat attggtcttt attcaccact
+     2161 aagaaagatt taatgcttca ggaagataga ataaagcagt aacttctgtg ggatgtgcca
+     2221 acaaaaaaat gacaaaattg ctaccggaca gtgttcagac tatgaagtgt tgtgtaatat
+     2281 caccttgttg ctttcctaac cctattatat tcgataaaat ctgctaatat cacagacttg
+     2341 tgagtgtatt tttttttttg gaacattaag atctgtattc tatgattgga tggaaccaga
+     2401 gcacagcaaa atcaaactgc atagggttag gagggacaaa gcaaggaagc tctgggaata
+     2461 tacacactac tgaaccttaa agaatacagg gggaaagaga gaggaggtta gactatgaga
+     2521 agggtgtctg aaagactcct aagaagttgt attagttact ctctatgtaa aattctttaa
+     2581 tacctgtaag tcagtgtgtg tcatgcgctc tggttgagtc agcttaagcc gagaggctta
+     2641 aaagtcactc atgaggcaaa gagcttcaag gaagctctct tcctggagtc tggcgtttcc
+     2701 tttaacccat acattaattt ttcattcttg agttagtcta gtgtatggat ctacatgctt
+     2761 tcttttagta ttttcctatt ataagtgcct tttaagatta aattttgaca tagctaaagc
+     2821 cttttgtcag tgttccaaca gtcttagaac gtccttgagg aagatcatgg gcttaaaatt
+     2881 tagtaggaat gttactaatc agaatagcct tttgtactat actatcactt ttaataaaag
+     2941 ctaggtcact cccttacaca ggaatttact atcactagga agaaggaagt ttcagaccaa
+     3001 aggagaaacc agaatagata cttagaacta tagcgaagtt acacccatac acacgtattt
+     3061 acaatggcct aaggggaagg taaactatat aatagagtaa aataggaact atggcaaagg
+     3121 agcatagccc ttgaccctgg cttctaagat tagtgaatct tagatagagc ccttgtttat
+     3181 cccagttgtt atcaataaat tttatcccag gtaattttcg ttagaccttt tgtgtttgca
+     3241 tttctctgtt ttacgtaaga ttccagttac ctcatttgta ccttgcaaat atgtcaccca
+     3301 acttccttat tgtcttctac ataaaaagtc taatgcttga tttaaaaaat acattcagat
+     3361 ctaacac
+//

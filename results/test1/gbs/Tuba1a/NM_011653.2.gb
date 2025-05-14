@@ -1,0 +1,210 @@
+LOCUS       NM_011653               1591 bp    mRNA    linear   ROD 15-APR-2025
+DEFINITION  Mus musculus tubulin, alpha 1A (Tuba1a), mRNA.
+ACCESSION   NM_011653
+VERSION     NM_011653.2
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1591)
+  AUTHORS   Zaidi,D., Chinnappa,K., Yigit,B.N., Viola,V., Cifuentes-Diaz,C.,
+            Jabali,A., Uzquiano,A., Lemesre,E., Perez,F., Ladewig,J., Ferent,J.,
+            Ozlu,N. and Francis,F.
+  TITLE     Forebrain Eml1 depletion reveals early centrosomal dysfunction
+            causing subcortical heterotopia
+  JOURNAL   J Cell Biol 223 (12) (2024)
+   PUBMED   39316454
+REFERENCE   2  (bases 1 to 1591)
+  AUTHORS   Xiong,H., Lin,B., Liu,J., Lu,R., Lin,Z., Hang,C., Liu,W., Zhang,L.,
+            Ding,J., Guo,H., Zhang,M., Wang,S., Gong,Z., Xie,D., Liu,Y., Shi,D.,
+            Liang,D., Liu,Z., Chen,Y.H. and Yang,J.
+  TITLE     SALL2 regulates neural differentiation of mouse embryonic stem cells
+            through Tuba1a
+  JOURNAL   Cell Death Dis 15 (9), 710 (2024)
+   PUBMED   39349437
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1591)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   4  (bases 1 to 1591)
+  AUTHORS   Wen,J., Wang,Q., Zhang,W. and Wang,W.
+  TITLE     TUBA1A licenses APC/C-mediated mitotic progression to drive
+            glioblastoma growth by inhibiting PLK3
+  JOURNAL   FEBS Lett 597 (24), 3072-3086 (2023)
+   PUBMED   37873730
+  REMARK    GeneRIF: TUBA1A licenses APC/C-mediated mitotic progression to drive
+            glioblastoma growth by inhibiting PLK3.
+REFERENCE   5  (bases 1 to 1591)
+  AUTHORS   Chen,Z., Shiozaki,M., Haas,K.M., Skinner,W.M., Zhao,S., Guo,C.,
+            Polacco,B.J., Yu,Z., Krogan,N.J., Lishko,P.V., Kaake,R.M., Vale,R.D.
+            and Agard,D.A.
+  TITLE     De novo protein identification in mammalian sperm using in situ
+            cryoelectron tomography and AlphaFold2 docking
+  JOURNAL   Cell 186 (23), 5041-5053 (2023)
+   PUBMED   37865089
+REFERENCE   6  (bases 1 to 1591)
+  AUTHORS   Kaminska,B., Kaczmarek,L. and Grzelakowska-Sztabert,B.
+  TITLE     Inhibitors of polyamine biosynthesis affect the expression of genes
+            encoding cytoskeletal proteins
+  JOURNAL   FEBS Lett 304 (2-3), 198-200 (1992)
+   PUBMED   1618323
+REFERENCE   7  (bases 1 to 1591)
+  AUTHORS   Birkenmeier,E.H., Gwynn,B., Howard,S., Jerry,J., Gordon,J.I.,
+            Landschulz,W.H. and McKnight,S.L.
+  TITLE     Tissue-specific expression, developmental regulation, and genetic
+            mapping of the gene encoding CCAAT/enhancer binding protein
+  JOURNAL   Genes Dev 3 (8), 1146-1156 (1989)
+   PUBMED   2792758
+REFERENCE   8  (bases 1 to 1591)
+  AUTHORS   Villasante,A., Wang,D., Dobner,P., Dolph,P., Lewis,S.A. and
+            Cowan,N.J.
+  TITLE     Six mouse alpha-tubulin mRNAs encode five distinct isotypes:
+            testis-specific expression of two sister genes
+  JOURNAL   Mol Cell Biol 6 (7), 2409-2419 (1986)
+   PUBMED   3785200
+REFERENCE   9  (bases 1 to 1591)
+  AUTHORS   Lewis,S.A., Lee,M.G. and Cowan,N.J.
+  TITLE     Five mouse tubulin isotypes and their regulated expression during
+            development
+  JOURNAL   J Cell Biol 101 (3), 852-861 (1985)
+   PUBMED   3839797
+REFERENCE   10  (bases 1 to 1591)
+  AUTHORS   Howe,C.C., Lugg,D.K. and Overton,G.C.
+  TITLE     Post-transcriptional regulation of the abundance of mRNAs encoding
+            alpha-tubulin and a 94,000-dalton protein in teratocarcinoma-derived
+            stem cells versus differentiated cells
+  JOURNAL   Mol Cell Biol 4 (11), 2428-2436 (1984)
+   PUBMED   6513923
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: M13445.1, BC085256.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849382,
+            SAMN00849385 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AC161165.5.
+            On Mar 21, 2007 this sequence version replaced NM_011653.1.
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..1591
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="15"
+                     /map="15 55.29 cM"
+     gene            1..1591
+                     /gene="Tuba1a"
+                     /gene_synonym="Tuba-1; Tuba1"
+                     /note="tubulin, alpha 1A"
+                     /db_xref="GeneID:22142"
+                     /db_xref="MGI:MGI:98869"
+     exon            1..51
+                     /gene="Tuba1a"
+                     /gene_synonym="Tuba-1; Tuba1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             49..1404
+                     /gene="Tuba1a"
+                     /gene_synonym="Tuba-1; Tuba1"
+                     /note="tubulin, alpha 1; alpha-tubulin 1; tubulin alpha-1
+                     chain; alpha-tubulin isotype M-alpha-1; Talpha1
+                     alpha-tubulin"
+                     /codon_start=1
+                     /product="tubulin alpha-1A chain"
+                     /protein_id="NP_035783.1"
+                     /db_xref="CCDS:CCDS37196.1"
+                     /db_xref="GeneID:22142"
+                     /db_xref="MGI:MGI:98869"
+                     /translation="MRECISIHVGQAGVQIGNACWELYCLEHGIQPDGQMPSDKTIGGG
+                     DDSFNTFFSETGAGKHVPRAVFVDLEPTVIDEVRTGTYRQLFHPEQLITGKEDAANNYA
+                     RGHYTIGKEIIDLVLDRIRKLADQCTGLQGFLVFHSFGGGTGSGFTSLLMERLSVDYGK
+                     KSKLEFSIYPAPQVSTAVVEPYNSILTTHTTLEHSDCAFMVDNEAIYDICRRNLDIERP
+                     TYTNLNRLIGQIVSSITASLRFDGALNVDLTEFQTNLVPYPRIHFPLATYAPVISAEKA
+                     YHEQLSVAEITNACFEPANQMVKCDPRHGKYMACCLLYRGDVVPKDVNAAIATIKTKRT
+                     IQFVDWCPTGFKVGINYQPPTVVPGGDLAKVQRAVCMLSNTTAIAEAWARLDHKFDLMY
+                     AKRAFVHWYVGEGMEEGEFSEAREDMAALEKDYEEVGVDSVEGEGEEEGEEY"
+     misc_feature    166..168
+                     /gene="Tuba1a"
+                     /gene_synonym="Tuba-1; Tuba1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q71U36; propagated from
+                     UniProtKB/Swiss-Prot (P68369.1); acetylation site"
+     misc_feature    1342..1401
+                     /gene="Tuba1a"
+                     /gene_synonym="Tuba-1; Tuba1"
+                     /note="propagated from UniProtKB/Swiss-Prot (P68369.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1363..1365
+                     /gene="Tuba1a"
+                     /gene_synonym="Tuba-1; Tuba1"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P68373; propagated from
+                     UniProtKB/Swiss-Prot (P68369.1); phosphorylation site"
+     misc_feature    1399..1401
+                     /gene="Tuba1a"
+                     /gene_synonym="Tuba-1; Tuba1"
+                     /note="Involved in polymerization; propagated from
+                     UniProtKB/Swiss-Prot (P68369.1); other site"
+     exon            52..274
+                     /gene="Tuba1a"
+                     /gene_synonym="Tuba-1; Tuba1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            275..423
+                     /gene="Tuba1a"
+                     /gene_synonym="Tuba-1; Tuba1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            424..1591
+                     /gene="Tuba1a"
+                     /gene_synonym="Tuba-1; Tuba1"
+                     /inference="alignment:Splign:2.1.0"
+ORIGIN
+        1 cctcctcctc gcctccgcca tccacccggc agccgcgaag cagcaaccat gcgtgagtgc
+       61 atctccatcc atgttggcca ggctggtgtc cagatcggca atgcctgctg ggagctctac
+      121 tgcctggaac atggcatcca gcctgatggc cagatgccaa gtgacaagac cattggggga
+      181 ggagatgact ccttcaacac cttcttcagt gagacaggag ctggcaagca tgtgccccgg
+      241 gcagtgttcg tagacctgga acccacggtc atcgatgaag ttcgcaccgg cacctaccgc
+      301 cagctcttcc accctgagca gctcatcaca ggcaaggagg atgctgccaa taactatgct
+      361 cgtggccact acaccattgg caaggagatc attgaccttg tcctggacag gattcgcaag
+      421 ctggctgacc agtgcacagg tctccagggc ttcttggttt tccacagctt tggcggggga
+      481 actggctctg gcttcacctc cctgctgatg gagcggctct ctgtggatta cggaaagaag
+      541 tccaagctgg agttctccat ttacccagcc ccccaggttt ccactgctgt ggttgagccc
+      601 tacaattcca tcctcaccac ccacaccacc ctggagcact ctgattgtgc cttcatggta
+      661 gacaatgagg ccatctatga tatctgtcgt agaaacctcg acattgagcg cccaacctac
+      721 actaacctaa acaggttgat aggtcaaatt gtgtcttcca tcactgcttc cctcagattt
+      781 gatggggccc tgaatgttga tctgacagaa ttccagacca acctggtacc ctaccctcgt
+      841 atccacttcc ctctggccac ttatgcccct gtcatctctg ctgagaaagc ctaccacgag
+      901 cagctttctg tagcagagat caccaatgcc tgctttgagc cagccaacca gatggtgaaa
+      961 tgtgaccctc gccatggtaa atacatggct tgctgcctgc tgtaccgtgg tgatgtggtt
+     1021 cccaaagatg tcaatgctgc cattgccacc atcaagacca agcgtaccat ccagtttgtg
+     1081 gactggtgcc ccactggctt caaggttggc attaactacc agcctcccac tgtggtaccc
+     1141 ggtggtgacc tggccaaggt gcagagagct gtgtgcatgc tgagcaacac cacagccatt
+     1201 gctgaggcct gggctcgcct agatcacaag tttgatctga tgtatgccaa gcgtgccttt
+     1261 gtgcactggt atgtgggtga gggcatggag gagggtgagt tctctgaggc ccgtgaggac
+     1321 atggctgccc tagagaagga ttatgaggag gttggtgtgg attctgtgga aggcgagggg
+     1381 gaggaagaag gagaggaata ctaaattaaa tgtcacaagg tgctgcttcc acagggatgt
+     1441 ttattgtgtt ccaacacaga aagttgtggt ctgatcagtt aatttgtatg tggcaatgtg
+     1501 tgctttcata cagttactga cttatgaatg attgatttga cagagaccca agctgcccat
+     1561 ttcacttatg ggttttaaat aaaatactcc c
+//

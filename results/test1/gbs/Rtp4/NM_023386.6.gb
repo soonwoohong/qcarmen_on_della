@@ -1,0 +1,205 @@
+LOCUS       NM_023386               1562 bp    mRNA    linear   ROD 05-MAY-2025
+DEFINITION  Mus musculus receptor transporter protein 4 (Rtp4), mRNA.
+ACCESSION   NM_023386
+VERSION     NM_023386.6
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1562)
+  AUTHORS   Sui,B., Zheng,J., Zhao,J., Fu,Z., Zhou,M. and Zhao,L.
+  TITLE     RTP4 restricts lyssavirus rabies infection by binding to viral
+            genomic RNA
+  JOURNAL   Vet Microbiol 295, 110159 (2024)
+   PUBMED   38941768
+  REMARK    GeneRIF: RTP4 restricts lyssavirus rabies infection by binding to
+            viral genomic RNA.
+REFERENCE   2  (bases 1 to 1562)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   3  (bases 1 to 1562)
+  AUTHORS   Liu,H., Zhou,R., Li,S., Dong,J., Fang,Y., Luo,Y., Su,H., Lai,B.,
+            Liang,L., Zhang,D., Zhang,Y., Shyy,J.Y., Zhou,B., Yuan,Z. and
+            Wang,Y.
+  TITLE     Epigenetic repression of Cend1 by lysine-specific demethylase 1 is
+            essential for murine heart development
+  JOURNAL   iScience 27 (1), 108722 (2023)
+   PUBMED   38226173
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 1562)
+  AUTHORS   Kaur,R., Tada,T. and Landau,N.R.
+  TITLE     Restriction of SARS-CoV-2 replication by receptor transporter
+            protein 4 (RTP4)
+  JOURNAL   mBio 14 (4), e0109023 (2023)
+   PUBMED   37382452
+  REMARK    GeneRIF: Restriction of SARS-CoV-2 replication by receptor
+            transporter protein 4 (RTP4).
+REFERENCE   5  (bases 1 to 1562)
+  AUTHORS   Fujita,W., Uchida,H., Kawanishi,M., Kuroiwa,Y., Abe,M. and
+            Sakimura,K.
+  TITLE     Receptor Transporter Protein 4 (RTP4) in the Hypothalamus Is
+            Involved in the Development of Antinociceptive Tolerance to Morphine
+  JOURNAL   Biomolecules 12 (10), 1471 (2022)
+   PUBMED   36291680
+  REMARK    GeneRIF: Receptor Transporter Protein 4 (RTP4) in the Hypothalamus
+            Is Involved in the Development of Antinociceptive Tolerance to
+            Morphine. Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 1562)
+  AUTHORS   He,X., Ashbrook,A.W., Du,Y., Wu,J., Hoffmann,H.H., Zhang,C., Xia,L.,
+            Peng,Y.C., Tumas,K.C., Singh,B.K., Qi,C.F., Myers,T.G., Long,C.A.,
+            Liu,C., Wang,R., Rice,C.M. and Su,X.Z.
+  TITLE     RTP4 inhibits IFN-I response and enhances experimental cerebral
+            malaria and neuropathology
+  JOURNAL   Proc Natl Acad Sci U S A 117 (32), 19465-19474 (2020)
+   PUBMED   32709745
+  REMARK    GeneRIF: RTP4 inhibits IFN-I response and enhances experimental
+            cerebral malaria and neuropathology.
+REFERENCE   7  (bases 1 to 1562)
+  AUTHORS   Fujita,W., Yokote,M., Gomes,I., Gupta,A., Ueda,H. and Devi,L.A.
+  TITLE     Regulation of an Opioid Receptor Chaperone Protein, RTP4, by
+            Morphine
+  JOURNAL   Mol Pharmacol 95 (1), 11-19 (2019)
+   PUBMED   30348895
+  REMARK    GeneRIF: Selective MOPr-mediated increase in RTP4 expression.
+REFERENCE   8  (bases 1 to 1562)
+  AUTHORS   Decaillot,F.M., Rozenfeld,R., Gupta,A. and Devi,L.A.
+  TITLE     Cell surface targeting of mu-delta opioid receptor heterodimers by
+            RTP4
+  JOURNAL   Proc Natl Acad Sci U S A 105 (41), 16045-16050 (2008)
+   PUBMED   18836069
+  REMARK    GeneRIF: RTP4, a Golgi chaperone, is a regulator of the levels of
+            heterodimers at the cell surface; association with RTP4 protects
+            mu-delta receptors from ubiquitination and degradation
+REFERENCE   9  (bases 1 to 1562)
+  AUTHORS   Saito,H., Kubota,M., Roberts,R.W., Chi,Q. and Matsunami,H.
+  TITLE     RTP family members induce functional expression of mammalian odorant
+            receptors
+  JOURNAL   Cell 119 (5), 679-691 (2004)
+   PUBMED   15550249
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK018021.1, BY717952.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849374,
+            SAMN00849375 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC217053.3.
+            On Apr 1, 2024 this sequence version replaced NM_023386.5.
+            Sequence Note:.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1562
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="16"
+                     /map="16 14.55 cM"
+     gene            1..1562
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+                     /note="receptor transporter protein 4"
+                     /db_xref="GeneID:67775"
+                     /db_xref="MGI:MGI:1915025"
+     exon            1..223
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    30..32
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+                     /note="upstream in-frame stop codon"
+     CDS             63..812
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+                     /note="28kD interferon alpha responsive protein; 28 kDa
+                     interferon-responsive protein"
+                     /codon_start=1
+                     /product="receptor-transporting protein 4"
+                     /protein_id="NP_075875.3"
+                     /db_xref="CCDS:CCDS28079.1"
+                     /db_xref="GeneID:67775"
+                     /db_xref="MGI:MGI:1915025"
+                     /translation="MLFPDDFSTWEQTFQELMQEEKPGAKWSLHLDKNIVPDGAALGWR
+                     QHQQTVLGRFQCSRCCRSWTSAQVMILCHMYPDTLKSQGQARMRIFGQKCQKCFGCQFE
+                     TPKFSTEIIKRILNNLVNYILQRYYGHRKIALTSNASLGEKVTLDGPHDTRNCEACSLN
+                     SHGRCALAHKVKPPRSPSPLPKSSSPSKSCPPPPQTRNTDFGNKTFQDFGNRTFQGCRE
+                     PPQREIEPPLFLFLSIAAFALFSLFTR"
+     misc_feature    579..686
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9ER80.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    744..806
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9ER80.1);
+                     transmembrane region"
+     exon            224..1562
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1057..1062
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+                     /note="hexamer: AATAAA"
+     polyA_site      1080
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+                     /note="major polyA site"
+     regulatory      1542..1547
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+                     /note="hexamer: AATAAA"
+     polyA_site      1562
+                     /gene="Rtp4"
+                     /gene_synonym="5830458K16Rik; Ifrg28"
+ORIGIN
+        1 agatttgagg aagacagtga gctgctgagt aacccggggc ctcagcttcc acacctctga
+       61 gaatgctgtt ccccgatgac ttcagtactt gggagcagac atttcaagaa ctgatgcagg
+      121 aggagaagcc cggggccaag tggagcctgc atttggataa gaacattgta ccagatggtg
+      181 cagccctggg atggaggcag caccagcaga cagtgcttgg caggttccag tgttccagat
+      241 gctgcagaag ttggacctct gctcaggtga tgatcttgtg ccacatgtac ccggacactt
+      301 tgaaatcgca gggccaggca cgcatgagga tctttggtca gaagtgccag aagtgttttg
+      361 gatgtcaatt tgagactccc aagttctcca cagagatcat caaaagaatt ctgaataacc
+      421 tagttaatta tattctgcag agatactatg gacacaggaa gatagcattg acctcgaatg
+      481 catctttggg tgagaaggtg actttggatg ggccccacga cacacgcaat tgtgaggcat
+      541 gcagtctaaa ctctcatgga agatgtgccc ttgcacacaa agtaaaacca cccagatctc
+      601 catctccatt accaaagagt tcctccccat caaagagctg ccctcctccg cctcagaccc
+      661 ggaatacgga ttttgggaat aaaacttttc aggattttgg gaatagaact tttcagggat
+      721 gcagagagcc cccccaacgt gaaatagagc caccactatt tctgtttttg tctattgctg
+      781 catttgccct ttttagtctt ttcactagat aataggttta tcgtcttgtt ttaatacctt
+      841 ggtgatcaat gaaatagatg tcatttcaat aggacagtga attcatatag aatcaagtaa
+      901 ggtcgagtat ataaaataaa tctgctttcc tggacatgct ctgaaaatag cctaaaccat
+      961 ggcccacaca taatggaccc aataacagat ttgtattgag ttgctgaact gtctgcacta
+     1021 gcttgctcac gtattgttct caagctatgt tgattaaata aatcttgatt ataactaaca
+     1081 gtcacctgtg ctatgagata caaagcggcg gccggagtaa gggaatacct gcagggcccc
+     1141 tgccaaggtg ccccctgaga aatcatgcca cgtaacagac ctggtgtaag ggagtttatt
+     1201 agtgagggaa gcagggacct agagaagtgg ggagcagagc tatgaggaca gagaacgggg
+     1261 gacagagaag gacagagaga ggggctggcc aggaacacga gggaacagag agagaaagag
+     1321 gaaggaggag gggggctggg gagtaggctg cccctgcacc acctggctcg aacccagtgg
+     1381 gcagcaggtg atgacataag cctaggtccc tgggagaagc ctagtggaat cttctgttaa
+     1441 ccaacaatga gtattattgt aaatttactg tggcagactg ggtgatgctc cccccccaca
+     1501 cacaccaaaa atgcccttcc ccatagcctc tagaatttgt gaataaactc tatttgttgg
+     1561 aa
+//

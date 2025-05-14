@@ -1,0 +1,261 @@
+LOCUS       NM_021384               3785 bp    mRNA    linear   ROD 08-APR-2025
+DEFINITION  Mus musculus radical S-adenosyl methionine domain containing 2
+            (Rsad2), mRNA.
+ACCESSION   NM_021384
+VERSION     NM_021384.4
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 3785)
+  AUTHORS   Ding,X., Zhou,Y., Qiu,X., Xu,X., Hu,X., Qin,J., Chen,Y., Zhang,M.,
+            Ke,J., Liu,Z., Zhou,Y., Ding,C., Shen,N., Tian,Z., Fu,B. and Wei,H.
+  TITLE     RSAD2: A pathogenic interferon-stimulated gene at the maternal-fetal
+            interface of patients with systemic lupus erythematosus
+  JOURNAL   Cell Rep Med 6 (3), 101974 (2025)
+   PUBMED   39983716
+REFERENCE   2  (bases 1 to 3785)
+  AUTHORS   Zerad,L., Gacem,N., Gayda,F., Day,L., Sinigaglia,K., Richard,L.,
+            Parisot,M., Cagnard,N., Mathis,S., Bole-Feysot,C., O'Connell,M.A.,
+            Pingault,V., Dambroise,E., Keegan,L.P., Vallat,J.M. and Bondurand,N.
+  TITLE     Overexpression of Egr1 Transcription Regulator Contributes to
+            Schwann Cell Differentiation Defects in Neural Crest-Specific Adar1
+            Knockout Mice
+  JOURNAL   Cells 13 (23), 1952 (2024)
+   PUBMED   39682701
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 3785)
+  AUTHORS   Wang,F. and Shang,Y.
+  TITLE     Radical S-adenosyl methionine domain-containing 2, a potential
+            target of D-tryptophan in asthma treatment, regulates T helper cell
+            type 1/2 balance
+  JOURNAL   Int Immunopharmacol 129, 111581 (2024)
+   PUBMED   38310765
+  REMARK    GeneRIF: Radical S-adenosyl methionine domain-containing 2, a
+            potential target of D-tryptophan in asthma treatment, regulates T
+            helper cell type 1/2 balance.
+REFERENCE   4  (bases 1 to 3785)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   5  (bases 1 to 3785)
+  AUTHORS   Kim,J.J., Hong,S. and Seo,J.Y.
+  TITLE     A Cysteine Residue of Human Cytomegalovirus vMIA Protein Plays a
+            Crucial Role in Viperin Trafficking to Control Viral Infectivity
+  JOURNAL   J Virol 97 (6), e0187422 (2023)
+   PUBMED   37306568
+  REMARK    GeneRIF: A Cysteine Residue of Human Cytomegalovirus vMIA Protein
+            Plays a Crucial Role in Viperin Trafficking to Control Viral
+            Infectivity.
+REFERENCE   6  (bases 1 to 3785)
+  AUTHORS   Petri,A., Ahnfelt-Ronne,J., Frederiksen,K.S., Edwards,D.G.,
+            Madsen,D., Serup,P., Fleckner,J. and Heller,R.S.
+  TITLE     The effect of neurogenin3 deficiency on pancreatic gene expression
+            in embryonic mice
+  JOURNAL   J Mol Endocrinol 37 (2), 301-316 (2006)
+   PUBMED   17032746
+REFERENCE   7  (bases 1 to 3785)
+  AUTHORS   Olofsson,P.S., Jatta,K., Wagsater,D., Gredmark,S., Hedin,U.,
+            Paulsson-Berne,G., Soderberg-Naucler,C., Hansson,G.K. and Sirsjo,A.
+  TITLE     The antiviral cytomegalovirus inducible gene 5/viperin is expressed
+            in atherosclerosis and regulated by proinflammatory agents
+  JOURNAL   Arterioscler Thromb Vasc Biol 25 (7), e113-e116 (2005)
+   PUBMED   15890971
+  REMARK    GeneRIF: Viperin is expressed in atherosclerosis and induced in
+            vascular cells by inflammatory stimuli and cytomegalovirus infection
+REFERENCE   8  (bases 1 to 3785)
+  AUTHORS   Chin,K.C. and Cresswell,P.
+  TITLE     Viperin (cig5), an IFN-inducible antiviral protein directly induced
+            by human cytomegalovirus
+  JOURNAL   Proc Natl Acad Sci U S A 98 (26), 15125-15130 (2001)
+   PUBMED   11752458
+  REMARK    Erratum:[Proc Natl Acad Sci U S A 2002 Feb 19;99(4):2460]
+REFERENCE   9  (bases 1 to 3785)
+  AUTHORS   Boudinot,P., Riffault,S., Salhi,S., Carrat,C., Sedlik,C.,
+            Mahmoudi,N., Charley,B. and Benmansour,A.
+  TITLE     Vesicular stomatitis virus and pseudorabies virus induce a vig1/cig5
+            homologue in mouse dendritic cells via different pathways
+  JOURNAL   J Gen Virol 81 (Pt 11), 2675-2682 (2000)
+   PUBMED   11038379
+REFERENCE   10  (bases 1 to 3785)
+  AUTHORS   Boudinot,P., Massin,P., Blanco,M., Riffault,S. and Benmansour,A.
+  TITLE     vig-1, a new fish gene induced by the rhabdovirus glycoprotein, has
+            a virus-induced homologue in humans and shares conserved motifs with
+            the MoaA family
+  JOURNAL   J Virol 73 (3), 1846-1852 (1999)
+   PUBMED   9971762
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK153234.1, AK151971.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849386,
+            SAMN01164134 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            CK623585.1, AK151476.1 and AK153234.1.
+            On May 14, 2009 this sequence version replaced NM_021384.3.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..3785
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="12"
+                     /map="12 9.69 cM"
+     gene            1..3785
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /note="radical S-adenosyl methionine domain containing 2"
+                     /db_xref="GeneID:58185"
+                     /db_xref="MGI:MGI:1929628"
+     exon            1..382
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             34..1122
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /note="VHSV-induced-like protein; radical S-adenosyl
+                     methionine domain-containing protein 2; viral hemorrhagic
+                     septicemia virus (VHSV)-induced gene 1; viperin; virus
+                     inhibitory protein, endoplasmic reticulum-associated,
+                     interferon-inducible"
+                     /codon_start=1
+                     /product="S-adenosylmethionine-dependent nucleotide
+                     dehydratase RSAD2"
+                     /protein_id="NP_067359.2"
+                     /db_xref="CCDS:CCDS25848.1"
+                     /db_xref="GeneID:58185"
+                     /db_xref="MGI:MGI:1929628"
+                     /translation="MGMLVPTALAARLLSLFQQQLGSLWSGLAILFCWLRIALGWLDPG
+                     KEQPQVRGEPEDTQETQEDGNSTQPTTPVSVNYHFTRQCNYKCGFCFHTAKTSFVLPLE
+                     EAKRGLLLLKQAGLEKINFSGGEPFLQDRGEYLGKLVRFCKEELALPSVSIVSNGSLIR
+                     ERWFKDYGEYLDILAISCDSFDEQVNALIGRGQGKKNHVENLQKLRRWCRDYKVAFKIN
+                     SVINRFNVDEDMNEHIKALSPVRWKVFQCLLIEGENSGEDALREAERFLISNEEFETFL
+                     ERHKEVSCLVPESNQKMKDSYLILDEYMRFLNCTGGRKDPSKSILDVGVEEAIKFSGFD
+                     EKMFLKRGGKYVWSKADLKLDW"
+     misc_feature    172..252
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8CBB9.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    625..627
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:Q8WXG1; propagated from
+                     UniProtKB/Swiss-Prot (Q8CBB9.1); acetylation site"
+     exon            383..544
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            545..774
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            775..924
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            925..957
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            958..3785
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3755..3760
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /note="hexamer: ATTAAA"
+     polyA_site      3780
+                     /gene="Rsad2"
+                     /gene_synonym="2510004L01Rik; cig5; SAND; Vig1"
+                     /note="major polyA site"
+ORIGIN
+        1 cttacaggca gcagcaggtg tgtgcctatc accatgggga tgctggtgcc cactgctcta
+       61 gctgctcggc tgctgagcct gttccagcag cagctgggtt ccctctggag tggcctggcc
+      121 atcctgttct gctggctgag aatagcatta gggtggctag atcccgggaa ggaacagcca
+      181 caggtccggg gtgagccgga ggacacccag gagacccagg aagatgggaa cagcactcag
+      241 cccacaaccc ccgtgagtgt caactaccac ttcactcgtc agtgcaacta caaatgtggc
+      301 ttctgcttcc acacagccaa gacatccttc gtgctgcccc tggaggaggc caagcgagga
+      361 ctgcttctgc tcaaacaggc tggtttggag aagatcaact tttctggagg agaacccttc
+      421 cttcaggaca ggggtgaata cttgggcaag cttgtgagat tctgcaagga ggagctagcc
+      481 ctgccctctg tgagcatagt gagcaatggc agccttatcc gggagagatg gttcaaggac
+      541 tatggggagt atttggacat tcttgctatc tcctgcgaca gcttcgatga gcaggttaat
+      601 gctctgattg gccgtggtca aggaaaaaag aaccatgtgg aaaaccttca aaagctgagg
+      661 aggtggtgca gggattacaa ggtggctttc aagatcaact ctgtcattaa tcgcttcaac
+      721 gtggacgaag acatgaatga acacatcaag gccctgagcc ctgtgcgctg gaaggttttc
+      781 cagtgcctcc taattgaggg tgagaactca ggagaagatg ccctgaggga agcagaaaga
+      841 tttcttataa gcaatgaaga atttgaaaca ttcttggagc gtcacaaaga ggtgtcctgt
+      901 ttggtgcctg aatctaacca gaagatgaaa gactcctacc ttatcctaga tgaatatatg
+      961 cgctttctga actgtaccgg tggccggaag gacccttcca agtctattct ggatgttggc
+     1021 gtggaagaag caataaagtt cagtggattt gatgagaaga tgtttctgaa gcgtggcgga
+     1081 aagtatgtgt ggagtaaagc tgacctgaag ctggactggt gaggctgaga tgggaaggaa
+     1141 actccgacca gctacaggga cattcacgcc cagctatcct tcaacaagct acatcttctg
+     1201 gctatctacg gactgttgtt attagaatac agtctgttta tttttctttc agtttgactg
+     1261 aactaaaaag ggagtaaaat tatgcagcag ataatcgtcc tccacaggag agagttcggt
+     1321 tctcagagga gcaaggtcca gtgaccccta agaaccagca tttcatttat atttgaattt
+     1381 ttgtgtggat tttactgtga atcccacatt tcctttttcc tttttgttcc ccttgagaaa
+     1441 ctgggttatt ttttgctaac tatgccaatt ttgtcaacag gaaacttcac aaaacacacc
+     1501 ctccaattac tgctgactat tctaatgctt ttctgctttg gaatattgga ctttttactc
+     1561 aaaagtgtag aatcaaggca tatctcatag agccttaagt tagaatctta ctcttatgga
+     1621 aggagttatt tcctagaaca ggctgtttgt tcatggtccc agcctctgat gctgctgctt
+     1681 caagatggct gctttatact gcagcaattc cttcagggtt cttgacaaag ccaaggtaca
+     1741 ctttacctcc cagggtgtgg ccatgaggat gccacttctg cagctgcaac tgccctggca
+     1801 ttgaggctgc ttgagtctct catgctgaaa ggttgtcaca cttttctgaa aagctccaag
+     1861 gccatgtggc acgtccagaa gagtcgtggg gggatagaca ggaaggagtc tttcaggaat
+     1921 ataaaatgtg gcagctggct tggtataaat gtgcctgtgg ttccttagca tatctttcaa
+     1981 gaaacactga aacttgacct agtctaggtc aacatgagaa aaacaaaaaa acaaaacaaa
+     2041 acaaaacaaa aaaaaaaaaa caaaaataac aaaaacaaaa ccaaaaacag ttccttcttt
+     2101 acaccaaaaa ggcaaaagac agaatgtgaa ctagccaaaa tcttcctgtg gaagcattgc
+     2161 atgaggttat taagcctaga cagtgcctca ctgcttggaa aataatttcc tatcaaagag
+     2221 taaagccatg gaaaattttg ttctgtccaa gaaactgaac tcccctgtag ttccactgtg
+     2281 gccgctagag ggccccggga agtcagacct cattaagtat ctcagaaact ttgcttctga
+     2341 gtctattttt aggacttggt ggattttggt tctgttcctt ctttgtttta tttgcttttg
+     2401 tttggggttt tttttggtgc ttatattaat actaaaattt ttctaaggaa ctggaatttg
+     2461 gggtatttac tcacaaaaga tgttcatact ttagttaggt cattataatt caactgagac
+     2521 acactttgtc tcatgaaaaa tataggtcag ggttttctgt gttttctagt gtgtgtgtgt
+     2581 gtgtgtgtgt gtgtgtttta cctatttttg cttgagtata aatataacta tgtagcccag
+     2641 gctggcctgg aactcatgat acctctgccc taacctcacc ctctcaagtg ctagggattg
+     2701 cacgtgtgta ttaaccaact cctatgtaga tttttctatg tgaaatttga gtcacattcc
+     2761 ccctgaagat tgtgattttt ttttttagtt aagtcctgtg tgcttagttc acctgggaaa
+     2821 tcccagagga catggccaga cacccacttg atcaaatgag aggaaagcaa tcatgaagct
+     2881 gaggtccaac cttctgaatt gcagtatatt ttctcctggc tgagggaagc tgcatgtctc
+     2941 tttccctgat taaagtagaa catgatgaga atctgcttgg gaaatgagcc accattctaa
+     3001 atgtaccccc ccaccccccg ccttgtgcat gcacaggagg tgtgtgagat ctctgtgctt
+     3061 aaaatattca aaaatctccc tttcctaaag gaaagaatta caatatttta ttatcacagt
+     3121 aaagatcaaa cttggattag atcattcatt ggttacattt tcagtgttaa atctgggtgc
+     3181 tcattttgtg aagcagatgc tctctgctgg gagaataggg gatgatctag tggacatttg
+     3241 ttaagtgtta caggctgatg ccttgtgtcc catgactgat tgatgcagag tagtaatgct
+     3301 gtgaaggggg ttttactcaa gaacttcaga ggctaggaca tctcacactg attttacagc
+     3361 ctttggtgtc tctgttataa tgtgttcaat gataaaatca tgggctgtgt ttttgtaaga
+     3421 gggacgcttc atggtgttat ttgaaaaaaa aaaaaaaggt cccaggtttc gatctgtttg
+     3481 gagtttggag tctaatggtt gcatagataa acaggcgacc aatcacaccc agcagcagtt
+     3541 agctccttac cgcagtaact cagctcatgg actgccctct tgatggattg atgttgtttc
+     3601 ataagctatt attagacaaa gaaccatcac gcaggcctca tgtgagtatg tccagatgag
+     3661 gtctaatgct cagggatata tgtatatgta tctctctgtg gaattacact gtgttctgag
+     3721 gcatcgctct aatgtatggt aacatgatct gtgaattaaa atgttctata cgtggcctaa
+     3781 gactc
+//

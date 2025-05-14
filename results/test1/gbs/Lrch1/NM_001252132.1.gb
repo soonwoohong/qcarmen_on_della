@@ -1,0 +1,295 @@
+LOCUS       NM_001252132            4646 bp    mRNA    linear   ROD 30-APR-2024
+DEFINITION  Mus musculus leucine-rich repeats and calponin homology (CH) domain
+            containing 1 (Lrch1), transcript variant 2, mRNA.
+ACCESSION   NM_001252132
+VERSION     NM_001252132.1
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 4646)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   2  (bases 1 to 4646)
+  AUTHORS   Liu,C., Xu,X., Han,L., Wan,X., Zheng,L., Li,C., Liao,Z., Xiao,J.,
+            Zhong,R., Zheng,X., Wang,Q., Li,Z., Chen,H., Wei,B. and Wang,H.
+  TITLE     LRCH1 deficiency enhances LAT signalosome formation and CD8+ T cell
+            responses against tumors and pathogens
+  JOURNAL   Proc Natl Acad Sci U S A 117 (32), 19388-19398 (2020)
+   PUBMED   32727906
+  REMARK    GeneRIF: LRCH1 deficiency enhances LAT signalosome formation and
+            CD8(+) T cell responses against tumors and pathogens.
+REFERENCE   3  (bases 1 to 4646)
+  AUTHORS   Xu,X., Han,L., Zhao,G., Xue,S., Gao,Y., Xiao,J., Zhang,S., Chen,P.,
+            Wu,Z.Y., Ding,J., Hu,R., Wei,B. and Wang,H.
+  TITLE     LRCH1 interferes with DOCK8-Cdc42-induced T cell migration and
+            ameliorates experimental autoimmune encephalomyelitis
+  JOURNAL   J Exp Med 214 (1), 209-226 (2017)
+   PUBMED   28028151
+  REMARK    GeneRIF: LRCH1 as a novel effector to restrain PKCalpha-DOCK8-Cdc42
+            module-induced T cell migration and ameliorate EAE.
+REFERENCE   4  (bases 1 to 4646)
+  AUTHORS   Koscielny,G., Yaikhom,G., Iyer,V., Meehan,T.F., Morgan,H.,
+            Atienza-Herrero,J., Blake,A., Chen,C.K., Easty,R., Di Fenza,A.,
+            Fiegel,T., Grifiths,M., Horne,A., Karp,N.A., Kurbatova,N.,
+            Mason,J.C., Matthews,P., Oakley,D.J., Qazi,A., Regnart,J., Retha,A.,
+            Santos,L.A., Sneddon,D.J., Warren,J., Westerberg,H., Wilson,R.J.,
+            Melvin,D.G., Smedley,D., Brown,S.D., Flicek,P., Skarnes,W.C.,
+            Mallon,A.M. and Parkinson,H.
+  TITLE     The International Mouse Phenotyping Consortium Web Portal, a unified
+            point of access for knockout mice and related phenotyping data
+  JOURNAL   Nucleic Acids Res 42 (Database issue), D802-D809 (2014)
+   PUBMED   24194600
+REFERENCE   5  (bases 1 to 4646)
+  AUTHORS   Tamplin,O.J., Kinzel,D., Cox,B.J., Bell,C.E., Rossant,J. and
+            Lickert,H.
+  TITLE     Microarray analysis of Foxa2 mutant mouse embryos reveals novel gene
+            expression and inductive roles for the gastrula organizer and its
+            derivatives
+  JOURNAL   BMC Genomics 9, 511 (2008)
+   PUBMED   18973680
+  REMARK    Publication Status: Online-Only
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK143909.1, SRR13948564.411497.1
+            [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMN00849374, SAMN00849375
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria      :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BB612742.1, AK143909.1, AK160965.1 and BC028469.1.
+            Transcript Variant: This variant (2) lacks an alternate in-frame
+            exon in the 3' coding region, compared to variant 1, resulting in
+            an isoform (2) that is shorter than isoform 1.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..4646
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="14"
+                     /map="14 39.39 cM"
+     gene            1..4646
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="leucine-rich repeats and calponin homology (CH)
+                     domain containing 1"
+                     /db_xref="GeneID:380916"
+                     /db_xref="MGI:MGI:2443390"
+     exon            1..494
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             218..2266
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="isoform 2 is encoded by transcript variant 2;
+                     leucine-rich repeat and calponin homology domain-containing
+                     protein 1"
+                     /codon_start=1
+                     /product="leucine-rich repeat and calponin homology
+                     domain-containing protein 1 isoform 2"
+                     /protein_id="NP_001239061.1"
+                     /db_xref="CCDS:CCDS88714.1"
+                     /db_xref="GeneID:380916"
+                     /db_xref="MGI:MGI:2443390"
+                     /translation="MATPGSEPQAFAPALSVTALHPHLHQHHQHHQHHQHHGGTGGTGF
+                     NLPLNRGLERALEEAANSGGLNLSARKLKEFPRTTAPGHDLSDTVRADLSKNRLVEVPM
+                     ELCQFVSLEILNLYHNCIRVIPEAIVNLQMLTHLNLSRNQLSALPACLCGLPLKVLIAS
+                     NNKLGSLPEEIGQLKQLMELDVSCNEITALPQQIGQLKSLRELNVRRNYLKVLPPELVD
+                     LPLVKFDFSCNKVLVIPVCFREMKQLQVLLLENNPLQSPPAQICTKGKVHIFKYLSIQA
+                     CQIKTSDSLYLPTIERPHLHQHVEDSKKDSDSGVGSDNGDKRLSATEPSDEDTVSLNAP
+                     MSNIVEEDQTIKEDACHRLTPTKGEFQPKPSILGDSGISGQEREQLAGRADARHSGLMN
+                     YIKDQAEDCEELLRIEEDAHWHMEELLNSSKDRELDIAMIEQLREAELLQDPNGLSADI
+                     IERSILNLFPMDSGEASEFPDPSLNGQLQLETSPDREVQNDLMLQSNGSQYSPNEIREN
+                     SPSVSPTANITAPFGLKPRSVFLRPQRNLESIDPQFTIRRKMEQMREEKELVEQLRESI
+                     EMRLKVTLHEDLGAALMDGVVLCHLANHVRPRSVASIHVPSPAVPKLSMAKCRRNVENF
+                     LEACRKLGVPEEKLCLPHHILEEKGLVKVGTTVQALLDVTVTKALFT"
+     exon            495..639
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            640..766
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            767..872
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            873..1009
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1010..1137
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1138..1201
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1202..1307
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1308..1423
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1424..1491
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1492..1575
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1576..1665
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1666..1702
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1703..1756
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1757..1829
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1830..1939
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1940..2077
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2078..2155
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2156..4626
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3187..3192
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="hexamer: ATTAAA"
+     polyA_site      3211
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="major polyA site"
+     regulatory      4600..4605
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="hexamer: ATTAAA"
+     polyA_site      4624
+                     /gene="Lrch1"
+                     /gene_synonym="4832412D13Rik; Chdc1; mKIAA1016"
+                     /note="major polyA site"
+ORIGIN
+        1 agacacaggc gcgccaccgc tgccgtcgct gccgccgccg cagcccttgg ctcccccggc
+       61 tggaaacctt ggcgatcgaa ctgctgcctc cacctctgcg ccgcttgccg cccctcccgc
+      121 agtcccgcgg ctttcgaggg agcgctgcgg ggactcggga ccgccgggga aacctgtgac
+      181 cccgcgcagg agcggcgggg cgggggaccg ggagaagatg gcgacgccgg gaagcgaacc
+      241 ccaagctttc gcgcccgctc tctcggtaac cgccctgcac ccgcatctcc accagcacca
+      301 ccaacaccac caacaccacc agcaccacgg aggcaccggc ggcaccggct tcaacctgcc
+      361 cttgaaccgt ggtttggagc gcgcgctgga ggaggcggcc aactctgggg gcttgaacct
+      421 gagcgccagg aagctgaagg agtttcccag gactacggcc ccgggacatg acctctcgga
+      481 cacggttcgg gcagatctat ctaaaaacag actggtggaa gtgccaatgg agctgtgcca
+      541 atttgtatca ctggaaattc ttaacctgta tcacaactgt atcagagtca ttcctgaggc
+      601 cattgttaat ttgcagatgt tgacccacct aaacttgagt cgaaatcagc tgtctgccct
+      661 gcccgcctgc ctgtgtggtc tgcctctcaa agtcttaatc gcaagcaaca acaagctcgg
+      721 atcactgcct gaagagatag gtcagctcaa acagttaatg gagttggatg tgagttgcaa
+      781 cgagatcacg gccttgcccc agcagatagg ccagctgaag tctctgcggg aactcaatgt
+      841 ccgaagaaat taccttaagg ttttaccacc agagctagta gatctcccct tggtaaagtt
+      901 tgacttttcc tgcaacaagg tgctggtgat ccccgtctgc ttcagggaga tgaagcagct
+      961 gcaggtgctc ctgcttgaga acaaccctct gcagtcccct ccggcgcaga tttgcacgaa
+     1021 aggaaaagta cacatattta agtatttgag catacaagca tgccagatta agacaagtga
+     1081 ctctctttac ctccccacca tagagaggcc ccatttacac caacacgtgg aagacagtaa
+     1141 gaaggactcc gactcagggg ttggaagtga caatggagat aagcggttat ctgccaccga
+     1201 gccctctgat gaggacacgg ttagcctcaa tgcgcccatg tcaaacatcg tggaagaaga
+     1261 ccagaccatc aaggaggatg cgtgccatcg gctcacccca actaaaggag aatttcagcc
+     1321 gaagccttcc attttggggg acagcggcat ctcaggacaa gaaagagagc agcttgctgg
+     1381 ccgtgcagat gctcgacact cgggacttat gaactatatt aaggaccagg cagaagactg
+     1441 tgaagagcta ttgcggatag aagaggatgc tcactggcac atggaggaac tactaaattc
+     1501 atccaaagac cgggagctgg atatagcgat gattgagcag ctgagagagg cagagctgct
+     1561 tcaggatccc aacggtctaa gcgcagatat catagagaga agtattttga acctgttccc
+     1621 catggactca ggagaagcct cagaattccc tgatccttca ctcaatggcc agttgcagct
+     1681 ggagacgtct ccagaccgtg aggtgcaaaa tgatctaatg ttacagagta atggaagcca
+     1741 gtattctccc aatgagatac gagagaactc cccttcagtg tctcctactg caaacatcac
+     1801 agctccgttt ggcctgaagc ctcgttcagt gtttctaaga ccgcagagaa acttggaatc
+     1861 tatagaccca cagtttacga tccggaggaa gatggagcag atgagagagg agaaggagct
+     1921 ggtggagcaa ctccgagaga gcatcgagat gaggctgaag gtgacccttc atgaagacct
+     1981 gggggcggca ctcatggatg gtgtcgtcct ctgccacctg gccaaccacg tccgtccgag
+     2041 atctgtcgcc agcatccatg tcccctcacc ggctgttcct aaactcagca tggccaagtg
+     2101 caggaggaac gtggaaaact tcttggaagc gtgcaggaaa cttggcgttc ccgaggaaaa
+     2161 gctctgcctg cctcatcaca tccttgaaga gaaaggcctg gtcaaagtgg gcacgactgt
+     2221 tcaggcactg ttggatgtca ccgtcacaaa agctctattc acatgagacc aagccctttc
+     2281 ctctgggtgg gctcagcctc ttcccagagc agggactctg gactctgctc ctggcacctg
+     2341 tacctgctcc ccaactcacc tccctgccag gtcccggagg aggaactgca ctggcgtggt
+     2401 ttcagcctaa gggaggactc aggacctttt agagttggcc tgcaggtttc aggttgggca
+     2461 ggtgttacct gacagcgggt cagggagctg gcggagaact gagtagcagc acatcattgc
+     2521 ctttcaatcc ccttcatccc ttccacactc accaaccgcc attaccaaat gccaagcaca
+     2581 accatttcac agtgagtcgc gtgcgtctgt tttatcaaaa ccaaactcct tgcagaacca
+     2641 gtagggggag ggggatgcaa tcaggtttct tttttttgcc accaaaattt ttcaagatgt
+     2701 ttcttgagac cattgccttt ctgaaaaact attttcaaca tacaaaaata tttatataaa
+     2761 tgttatttat tagcgagcca ttattcatcc tttggatgca aattgtaaat taggaaacta
+     2821 ttttattact gcttttttgt ggttaaacaa tttattttaa tattataaat actgagttat
+     2881 tttttgagcc tctttggcat gtaggagttc cgggtcttgg tgtgcattct gtagtatata
+     2941 tgattcagga aagaaaaatt aagcaagaaa cacgtgcttc ttctgtggca gacagagaga
+     3001 gctgttttct gagaggtgtt atccaccttt tggtttgtgg aacatcgttc ttatttatat
+     3061 ttctgcattc catccagttt cctacattcc agcagccctc ttgtccccca atataataaa
+     3121 ctgactgaaa tcaagagagc accccaaagt tatttgtaaa tagttaatgt ggaaaaaaaa
+     3181 agacatatta aacttgaaga taaaatgtga agtttttttt tttctggatt catgtttctt
+     3241 tcgctatgca caaaacattc acattttaac acagagaagt gggaagtgtt cagatatgtc
+     3301 ttgaagtata atttttgcac tgtactttat gtcattgagg agcatctagg accagaggta
+     3361 gatgttgaag aaagggatga aaacatggag caggttgaag ttgaccatca agctacaagg
+     3421 gccgtaagag ctcaagtcag gaagccaaca tggacgtaca actgctggtg ttcaaagaac
+     3481 aagagatgcc aaaatgtaga catactcgtt tttattatta tcaagctggt gaattttttt
+     3541 aagagtctgg acttggaagg gtcatggtgt ctggtaggaa acttgggaag tgtgcagctc
+     3601 acagggcagg gcccctggtg ggcagctatg tgcacagcga ggcagactga gagagggtta
+     3661 agtaagtgga gtgtgttagc agctagtagg gggcaggggc aagcacatta ggactagcag
+     3721 ggagccaggc caagaaagga gcacacccca tcctgtcagt gggtgagctt ccttcaagga
+     3781 aggcttcata ggactatgca ggggcagtca cacccacaca cactcaccct gtaggtgtgg
+     3841 gcagataacc cagtcattca tctgtcaagt ttgggaatgc tgactgcact ttgacccctg
+     3901 tacaaagcca ttagcagttt tctagagcat cagttgccac gatggggggg accatcaaga
+     3961 tggatacaaa agaccacagg agggatgagt gtggtccaca cacaccgaca gacactgcct
+     4021 cagggcatgg cagatgggtt ctgagtgtgg gacttcagat tggcagctag tgatacttcc
+     4081 tatcatgtgt actgtgcact ttaacataaa tatatttgaa tatttttctg tactgcacaa
+     4141 atgcctgttt tgtcagatgg catagcagtg taaagatgag agggttttta acagagtata
+     4201 ttcagcagaa gcagaagtca gaggttatct acacaaggat ttagagtgat ggtctagaat
+     4261 gttgtacctt cagggctttg caccccagag tcctgaagta tatttttaca tgtatctttg
+     4321 acaacatgaa gctcagtaac cattattttt ggatattttt tcaaaattaa agtatttctt
+     4381 ttgatattaa tttccagtat tttcatgaaa ttggctgtat catacaaacg gcttcaatat
+     4441 tttgtaaaat gtttttttat gcagatctta tatggataag atgtcttcaa gatccctgta
+     4501 cactatgtct atatgtgcaa tgaaatgtgc atggctggct ggtagtatga taagtagaca
+     4561 gaatgtatat aatgcaaacc cttttattat ttaacagcca ttaaaatttt aaacttgtac
+     4621 caaccaaaaa aaaaaaaaaa aaaaaa
+//

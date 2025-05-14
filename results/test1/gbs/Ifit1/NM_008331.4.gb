@@ -1,0 +1,297 @@
+LOCUS       NM_008331               2642 bp    mRNA    linear   ROD 06-MAY-2025
+DEFINITION  Mus musculus interferon-induced protein with tetratricopeptide
+            repeats 1 (Ifit1), mRNA.
+ACCESSION   NM_008331
+VERSION     NM_008331.4
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2642)
+  AUTHORS   Zhao,T., Jin,K., Wang,X., Su,X., Wang,Y., Gao,M., Luo,W., Yang,H.
+            and Yang,Z.
+  TITLE     GPAT4 sustains endoplasmic reticulum homeostasis in endocardial
+            cells and safeguards heart development
+  JOURNAL   Nat Commun 16 (1), 3345 (2025)
+   PUBMED   40199910
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2642)
+  AUTHORS   Ramirez Reyes,B., Madden,S., Meyer,K.A., Bartsch,B., Wright,A.P.,
+            Constant,D.A. and Nice,T.J.
+  TITLE     Homeostatic antiviral protection of the neonatal gut epithelium by
+            interferon lambda
+  JOURNAL   Cell Rep 44 (2), 115243 (2025)
+   PUBMED   39893635
+REFERENCE   3  (bases 1 to 2642)
+  AUTHORS   Yermalovich,A.V., Mohsenin,Z., Cowdin,M., Giotti,B., Gupta,A.,
+            Feng,A., Golomb,L., Wheeler,D.B., Xu,K., Tsankov,A., Cleaver,O. and
+            Meyerson,M.
+  TITLE     An essential role for Cmtr2 in mammalian embryonic development
+  JOURNAL   Dev Biol 516, 47-58 (2024)
+   PUBMED   39094818
+REFERENCE   4  (bases 1 to 2642)
+  AUTHORS   Imai,T., Lin,J., Kaya,G.G., Ju,E., Kondylis,V., Kelepouras,K.,
+            Liccardi,G., Kim,C. and Pasparakis,M.
+  TITLE     The RIPK1 death domain restrains ZBP1- and TRIF-mediated cell death
+            and inflammation
+  JOURNAL   Immunity 57 (7), 1497-1513 (2024)
+   PUBMED   38744293
+REFERENCE   5  (bases 1 to 2642)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   6  (bases 1 to 2642)
+  AUTHORS   Williams,T.M., Williams,M.E., Kuick,R., Misek,D., McDonagh,K.,
+            Hanash,S. and Innis,J.W.
+  TITLE     Candidate downstream regulated genes of HOX group 13 transcription
+            factors with and without monomeric DNA binding capability
+  JOURNAL   Dev Biol 279 (2), 462-480 (2005)
+   PUBMED   15733672
+REFERENCE   7  (bases 1 to 2642)
+  AUTHORS   Hui,D.J., Terenzi,F., Merrick,W.C. and Sen,G.C.
+  TITLE     Mouse p56 blocks a distinct function of eukaryotic initiation factor
+            3 in translation initiation
+  JOURNAL   J Biol Chem 280 (5), 3433-3440 (2005)
+   PUBMED   15561726
+  REMARK    GeneRIF: block different functions of eIF3 by binding to its
+            different subunits.
+REFERENCE   8  (bases 1 to 2642)
+  AUTHORS   Smith,J.B. and Herschman,H.R.
+  TITLE     The glucocorticoid attenuated response genes GARG-16, GARG-39, and
+            GARG-49/IRG2 encode inducible proteins containing multiple
+            tetratricopeptide repeat domains
+  JOURNAL   Arch Biochem Biophys 330 (2), 290-300 (1996)
+   PUBMED   8660659
+REFERENCE   9  (bases 1 to 2642)
+  AUTHORS   Smith,J.B. and Herschman,H.R.
+  TITLE     Glucocorticoid-attenuated response genes encode intercellular
+            mediators, including a new C-X-C chemokine
+  JOURNAL   J Biol Chem 270 (28), 16756-16765 (1995)
+   PUBMED   7622488
+REFERENCE   10  (bases 1 to 2642)
+  AUTHORS   Bluyssen,H.A., Vlietstra,R.J., Faber,P.W., Smit,E.M., Hagemeijer,A.
+            and Trapman,J.
+  TITLE     Structure, chromosome localization, and regulation of expression of
+            the interferon-regulated mouse Ifi54/Ifi56 gene family
+  JOURNAL   Genomics 24 (1), 137-148 (1994)
+   PUBMED   7896268
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK153184.1, AK151983.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849374,
+            SAMN00849375 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC016791.23.
+            On Apr 11, 2024 this sequence version replaced NM_008331.3.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..2642
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="19"
+                     /map="19 29.78 cM"
+     gene            1..2642
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="interferon-induced protein with tetratricopeptide
+                     repeats 1"
+                     /db_xref="GeneID:15957"
+                     /db_xref="MGI:MGI:99450"
+     exon            1..101
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             97..1488
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="interferon-induced 56 kDa protein;
+                     glucocorticoid-attenuated response gene 16 protein"
+                     /codon_start=1
+                     /product="interferon-induced protein with tetratricopeptide
+                     repeats 1"
+                     /protein_id="NP_032357.2"
+                     /db_xref="CCDS:CCDS29766.1"
+                     /db_xref="GeneID:15957"
+                     /db_xref="MGI:MGI:99450"
+                     /translation="MGENADGDQVMENLLQLRCHFTWKLLFENNDIPDLEVRISEQVQF
+                     LDIKNPLGMHNLLAYVRHLKGQQDEALQSLKEAEALIQSEQLSKRSLATWGNCAWLHYH
+                     RGSLAEAQIYLDKVEKVCKEFSSPFRYRLECAEMDCEEGWALLKCGGGNYKQAMACFAK
+                     ALKVEPENPEYNTGYAVVAYRQDLDDNFISLEPLRKAVRLNPEDPYLKVLLALKLQDLG
+                     EHVEAEAHIEEALSSTSCQSYVIRYAAKYFRRKHRVDKALHLLNRALQASPSSGYLHYQ
+                     KGLCYKQQISQLRTSRNRQPRRQDNVQELAQQAIHEFQETLKLRPTFEMAYVCMAEVQA
+                     EIHQYEEAERNFQKALNNKTLVAHIEQDIHLRYGRFLQFHKQSEDKAITLYLKGLKVEE
+                     KSFAWRKLLTALEKVAERRVCQNVHLVESTSLLGLVYKLKGQEKNALFYYEKALRLTGE
+                     MNPAF"
+     misc_feature    196..198
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="Interaction with PPP-RNA. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (Q64282.2); other
+                     site"
+     misc_feature    220..222
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="Interaction with PPP-RNA. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (Q64282.2); other
+                     site"
+     misc_feature    250..351
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: TPR 1"
+     misc_feature    370..474
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: TPR 2"
+     misc_feature    502..609
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: TPR 3"
+     misc_feature    538..540
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="Interaction with PPP-RNA. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (Q64282.2); other
+                     site"
+     misc_feature    616..717
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: TPR 4"
+     misc_feature    646..648
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="Interaction with PPP-RNA. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (Q64282.2); other
+                     site"
+     misc_feature    721..819
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: TPR 5"
+     misc_feature    820..921
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: TPR 6"
+     misc_feature    823..825
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="Interaction with PPP-RNA. /evidence=ECO:0000250;
+                     propagated from UniProtKB/Swiss-Prot (Q64282.2); other
+                     site"
+     misc_feature    835..855
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: Interaction with the 5'-triphosphate group of
+                     PPP-RNA. /evidence=ECO:0000250"
+     misc_feature    937..939
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="Interaction with the 5'-triphosphate group of
+                     PPP-RNA. /evidence=ECO:0000250; propagated from
+                     UniProtKB/Swiss-Prot (Q64282.2); other site"
+     misc_feature    976..1080
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: TPR 7"
+     misc_feature    1081..1182
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: TPR 8"
+     misc_feature    1195..1299
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: TPR 9"
+     misc_feature    1372..1473
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64282.2);
+                     Region: TPR 10"
+     exon            102..2642
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2623..2628
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="hexamer: AATAAA"
+     polyA_site      2642
+                     /gene="Ifit1"
+                     /gene_synonym="GARG-16; IFI-56K; Ifi56; ISG56; P56"
+                     /note="major polyA site"
+ORIGIN
+        1 gtgacagtct gcaagagagc agagagtcaa ggcaggtttc tgaggagttc tgctctgctg
+       61 aaaacccaga gaacagctac cacctttaca gcaaccatgg gagagaatgc tgatggtgac
+      121 caggtcatgg agaatctgct tcagctgaga tgtcacttca catggaagct gctatttgaa
+      181 aataatgaca tacctgattt ggaagtgaga atctcagagc aggtccagtt ccttgacatc
+      241 aagaacccat tggggatgca caacctcctg gcctacgtga ggcacctgaa aggccagcag
+      301 gacgaagccc tgcagagctt gaaagaagct gaagccttga tccagagcga gcagctgagc
+      361 aagagaagcc tggcgacctg gggcaactgt gcctggctgc attaccacag gggcagcttg
+      421 gcagaagccc agatctacct ggacaaggtg gagaaggtgt gcaaggaatt ttcaagtccc
+      481 ttccgctaca ggctggagtg tgctgagatg gactgtgagg aaggctgggc cttgctgaag
+      541 tgtggaggag gaaattataa acaagccatg gcctgctttg cgaaggctct gaaagtggag
+      601 ccagaaaacc ctgagtacaa cactggctat gcagtcgtag cctatcgcca agatttagat
+      661 gacaacttta tttctctaga acctttgagg aaggctgtcc ggttaaatcc agaagatcca
+      721 taccttaaag ttctccttgc cctaaagctt caggatttag gagaacatgt tgaagcagaa
+      781 gcacacattg aagaagccct cagcagcaca tcttgccaaa gctatgtcat tcgctatgca
+      841 gccaaatatt tccgtaggaa acatcgcgta gacaaagctc ttcatcttct aaacagggcc
+      901 ttgcaggcat caccttcctc tggctactta cattatcaaa aagggctctg ctacaagcaa
+      961 caaatctccc aactgaggac atcccgaaac aggcagccca gaaggcagga caatgtgcaa
+     1021 gaattggcac aacaggccat tcatgaattt caagagactt tgaaactgag gcccacattt
+     1081 gagatggcct atgtttgcat ggctgaagtg caggcagaaa ttcaccagta tgaagaagca
+     1141 gagagaaatt tccagaaggc actgaacaac aagaccctcg tggctcacat agagcaggat
+     1201 attcacctcc gctatggccg tttcctacag tttcataagc agtcagaaga caaggcaatc
+     1261 accctctact taaaaggtct aaaagtggaa gagaagtcct ttgcttggag gaaactactg
+     1321 actgctttgg agaaagtggc tgaaagacgt gtttgtcaga atgttcatct tgtagagagt
+     1381 accagccttc ttgggctagt ctacaaactg aaaggacaag agaaaaatgc tctgttttac
+     1441 tatgagaagg cactgaggct cactggggaa atgaaccctg cattctgaat gcagctcacc
+     1501 tctgtgacgt taatatactc acaaccaagt gttccaatgc tccttcctga tttcttttcc
+     1561 caggtctgtt ttgttgttgt tgttgttcgt tttctttctg aaatgccaag tagcaaggta
+     1621 cattttctcc tgtgacttct ttctggtctt tctgaccctg tctagcaggc aattccatcc
+     1681 caaggataca tactcactta aagatcacaa ctgattcctg ctgttttgga ctcctgtgag
+     1741 ctgtagaatc acacaacctt tttccttatg tctgtgcctt tggaacagat atcttccacc
+     1801 ctttgctaat gtcctggaca aaaaagtctt tgccaaagaa ggtatttttt ttttaatgtc
+     1861 accggaaatg cttattacca tacaatttca gagcaaaaca aatgagcaaa gaagaaagtt
+     1921 tgaaagcaaa agaggtcaca cattactgga aagatactaa gaaccaagaa gacttttggc
+     1981 ttactagaga attaaaatga aaaccctcct taggtagtaa agtctgaaaa ttacataaat
+     2041 aacttctttc aatatttata tgctaaaagt attcattgaa agtgaccaaa atagttaaag
+     2101 ccaaaaccaa caaaaaaaag aaagaaagaa agaaagagag aaaagaaaag aaaagaaaag
+     2161 aaaagaaaag aaaagaaaaa aaagaaaaga aaagaaaaga aaaaaagaag aagaaagaaa
+     2221 aaaaaagaaa gcgacccaca aataacaaat ttggtgtagt ctattaatgt tgtgcattat
+     2281 aaaggatgca cctctatgtt tgagcagttt cttggttatc ttttatcctc agcttgatat
+     2341 atcctgggac atctgaaaag agctgcttgc accacactag cttgcaggca tattgtggca
+     2401 cttttatcct ggattcctga ctgttgtcgt atgacacagt caactgtgag tgcttccatc
+     2461 cctacgcagg tagtcttggc ctatatatga aatcttgctg tgcatgtgcc aatgaatgaa
+     2521 ccagcaagca gaattactcc atgattccta cccagtttcc tgccttgact tttctgccct
+     2581 gagtttcctc cctgatggat tatgatctct aagtgtaagt caaataaaca tattcccctc
+     2641 aa
+//
