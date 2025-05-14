@@ -1,28 +1,26 @@
-from pathlib import Path
+
 import pickle
 import typing
 import csv
+import os
 
-from latch.types.file import LatchFile
-from latch.types.directory import LatchDir
-from latch.resources.tasks import small_task
 
-@small_task
 def write_task(
-    target_obj: LatchFile,
-    output_dir: LatchDir,
-    dt_string: typing.Optional[str] = None,
-) -> typing.Tuple[LatchFile, LatchFile]:
+    project_name: str):
     """
     Writes to CSV files.
     """
     # Start by unpickling primer designs object
-    target_path = Path(target_obj).resolve()
+
+    target_path = "./results/" + project_name + "/targets.pkl"
     with open(target_path, "rb") as f: targets = pickle.load(f)
 
     # Write primers and crRNAs to file
     # Now, output as a file
-    with open("/root/final.csv", mode='w') as output_file:
+    output_dir = "./results/" + project_name + "/final_results/"
+    os.makedirs(output_dir, exist_ok=True)
+
+    with open(output_dir+"final.csv", mode='w') as output_file:
         output_writer = csv.writer(output_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         
         # Header row
@@ -45,7 +43,7 @@ def write_task(
     output_file.close()
 
     # Now, we want just the primer output
-    with open("/root/primers_only.csv", mode="w") as primer_file:
+    with open(output_dir+"primers_only.csv", mode="w") as primer_file:
         output_writer = csv.writer(primer_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         # Header row
         output_writer.writerow([
@@ -76,7 +74,3 @@ def write_task(
 
     primer_file.close()
     
-    # return LatchFile("/root/final.csv"), LatchFile("/root/primers_only.csv")
-    outdir_path = output_dir.remote_path
-    return LatchFile("/root/final.csv", f"{outdir_path}/{dt_string}/results/crRNAs.csv"),\
-        LatchFile("/root/primers_only.csv", f"{outdir_path}/{dt_string}/results/primers_only.csv")

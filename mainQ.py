@@ -7,9 +7,9 @@ import os
 from wf.process_inputs import input_task
 from wf.search_gbs import gene_search_task
 from wf.design_crrnas import adapt_task
-#from wf.design_primers import primer_task
-#from wf.add_mods import mod_task
-#from wf.write_files import write_task
+from wf.design_primers import primer_task
+from wf.add_mods import mod_task
+from wf.write_files import write_task
 
 
 def main():
@@ -42,11 +42,12 @@ def main():
                      ncbi_key = ncbi_key,
                      organism=organism_species)
     adapt_task(project_name = project_name)
-    adapt_task(project_name="test1")
 
-    #primer_obj = primer_task(target_obj=target_obj, gb_dir=gb_dir, adapt_dir=adapt_dir)
-    #mod_obj = mod_task(primer_obj=primer_obj, target_obj=target_obj, gb_dir=gb_dir)
-    #write_task(target_obj=mod_obj, dt_string=dt_string)
+    primer_task(project_name = project_name, timeout= 3600) # timeout in seconds
+
+    mod_task(project_name = project_name)
+
+    write_task(project_name = project_name)
 
 if __name__ == "__main__":
     main()

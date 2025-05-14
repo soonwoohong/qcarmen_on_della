@@ -4,9 +4,6 @@ from pathlib import Path
 import pickle
 from typing import Optional
 
-from latch.types.file import LatchFile
-from latch.types.directory import LatchDir
-from latch.resources.tasks import medium_task
 
 from Bio import SeqIO
 from Bio.Seq import Seq
@@ -15,23 +12,18 @@ from .lib.search_lib import read_gbs
 from .lib.primer_lib import design_candidates
 from .lib.parallelization_lib import run_parallel_processes
 
-@medium_task
 def primer_task(
-    target_obj: LatchFile,
-    output_dir: LatchDir,
-    gb_dir: LatchDir,
-    adapt_dir: LatchDir,
+    project_name: str,
     # Timeout in seconds (set to 1 hour by default)
-    timeout: int = 3600,
-    dt_string: Optional[str] = None,
-) -> LatchFile:
+    timeout: int = 3600
+):
     """
     Designs primers given a set of crRNA candidates and all sequences.
 
     Design processes are all parallelized using multiprocessing.
     """
     # Start by unpickling target object
-    target_path = Path(target_obj).resolve()
+    target_path = "./results/" + project_name + "/targets.pkl"
     with open(target_path, "rb") as f:
         target = pickle.load(f)
 
@@ -42,10 +34,10 @@ def primer_task(
             all_targets.append(target_group)
 
     # Get genbank files
-    gb_path = Path(gb_dir).resolve()
+    gb_path = "./results/" + project_name + "/gbs/"
 
     # Get guides
-    adapt_path = Path(adapt_dir).resolve()
+    adapt_path = "./results/" + project_name + "/adapt_designs/"
 
     # Loop through each of the targets and their respective isoforms
     target_data = []
@@ -68,11 +60,10 @@ def primer_task(
     print("Design process complete.", design_res)
 
     # Pickle the design result
-    designs_pickled = "/root/primer_designs.pkl"
+    designs_pickled = "./results/" + project_name + "/primer_designs.pkl"
     with open(designs_pickled, "wb") as f:
         pickle.dump(design_res.copy(), f)
 
-    return LatchFile(designs_pickled, f"{output_dir.remote_path}/{dt_string}/tmp/primer_designs.pkl")
 
 def design_function(params):
     try:

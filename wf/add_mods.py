@@ -2,38 +2,35 @@ from pathlib import Path
 import pickle
 import typing
 
-from latch.types.file import LatchFile
-from latch.types.directory import LatchDir
-from latch.resources.tasks import small_task
+
 
 from .lib.mod_lib import design_gen1, add_t7_promoter
 from .lib.search_lib import read_gbs
 
-@small_task
 def mod_task(
-    primer_obj: LatchFile,
-    target_obj: LatchFile,
-    output_dir: LatchDir,
-    gb_dir: LatchDir,
-    dt_string: typing.Optional[str] = None,
-) -> LatchFile:
+    project_name: str
+):
     """
     Adds T7 promoter, 3' blockers, and required mismatches for Gen1 primers.
 
     Starts with blockers. Then the T7 promoters.
     """
-    # Start by unpickling primer designs object
-    primer_path = Path(primer_obj).resolve()
-    with open(primer_path, "rb") as f: primers = pickle.load(f)
+
 
     # Start by unpickling primer designs object
-    target_path = Path(target_obj).resolve()
-    with open(target_path, "rb") as f: targets = pickle.load(f)
+    primer_path = "./results/" + project_name + "/primer_designs.pkl"
+    with open(primer_path, "rb") as f: primers = pickle.load(f)
+
+    # Unpickle target object
+    target_path = "./results/" + project_name + "/targets.pkl"
+    with open(target_path, "rb") as f:
+        targets = pickle.load(f)
+
 
     print("Primers:", primers)
 
     # Get genbank files
-    gb_path = Path(gb_dir).resolve()
+    gb_path = "./results/" + project_name + "/gbs"
 
     # Loop through each of the targets and their respective isoforms
     for gene_key in targets.keys():
@@ -60,11 +57,11 @@ def mod_task(
     print("Targets:", targets)
 
     # Pickle the design result
-    targets_pickled = "/root/targets.pkl"
+    targets_pickled = "./results/" + project_name + "/targets.pkl"
     with open(targets_pickled, "wb") as f:
         pickle.dump(targets.copy(), f)
 
-    return LatchFile(targets_pickled, f"{output_dir.remote_path}/{dt_string}/tmp/targets.pkl")
+
 
 # Mods with blocker/mismatch and T7 promoter if forward primer
 def get_modded(primers, all_seqs, direction=1):
