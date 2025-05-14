@@ -15,9 +15,11 @@ def get_gbs(
     gene_name,
     organism,
     ncbi_key: str,
+    user_email: str
 ):
     print("Searching for", gene_name)
     Entrez.api_key = ncbi_key
+    Entrez.email = user_email
     # The base query
     # Build your query string exactly as before
     query = (

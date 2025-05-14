@@ -13,9 +13,11 @@ from .lib.search_lib import get_gbs, save_gbs
 
 def gene_search_task(
     project_name: str,
+    user_email: str,
     ncbi_key: typing.Optional[str] = None,
     genbank_dir: typing.Optional[str] = None,
-    organism: typing.Optional[str] = "Homo sapiens",
+    organism: typing.Optional[str] = "Homo sapiens"
+
 ) :
     """
     Find Genbank files for each gene and return a directory of FASTAs and a 
@@ -42,7 +44,7 @@ def gene_search_task(
         gb_path = target[target_key]["gb_dir"]
         if gb_path is None:
             # Get genbank files
-            gbs = get_gbs(target_key, organism, ncbi_key)
+            gbs = get_gbs(target_key, organism, ncbi_key, user_email)
             # Write these to fasta files
             SeqIO.write(gbs, fasta_dir + target_key + ".fasta", "fasta")
             # Save the genbank files
