@@ -1,0 +1,314 @@
+LOCUS       NM_013606               2424 bp    mRNA    linear   ROD 27-APR-2025
+DEFINITION  Mus musculus MX dynamin-like GTPase 2 (Mx2), transcript variant 1,
+            mRNA.
+ACCESSION   NM_013606
+VERSION     NM_013606.1
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2424)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   2  (bases 1 to 2424)
+  AUTHORS   Imbert,A., Rompais,M., Selloum,M., Castelli,F., Mouton-Barbosa,E.,
+            Brandolini-Bunlon,M., Chu-Van,E., Joly,C., Hirschler,A., Roger,P.,
+            Burger,T., Leblanc,S., Sorg,T., Ouzia,S., Vandenbrouck,Y.,
+            Medigue,C., Junot,C., Ferro,M., Pujos-Guillot,E., de Peredo,A.G.,
+            Fenaille,F., Carapito,C., Herault,Y. and Thevenot,E.A.
+  TITLE     ProMetIS, deep phenotyping of mouse models by combined proteomics
+            and metabolomics analysis
+  JOURNAL   Sci Data 8 (1), 311 (2021)
+   PUBMED   34862403
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2424)
+  AUTHORS   Nurnberger,C., Zimmermann,V., Gerhardt,M. and Staeheli,P.
+  TITLE     Influenza Virus Susceptibility of Wild-Derived CAST/EiJ Mice Results
+            from Two Amino Acid Changes in the MX1 Restriction Factor
+  JOURNAL   J Virol 90 (23), 10682-10692 (2016)
+   PUBMED   27654285
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 2424)
+  AUTHORS   Kong,J., Xu,B., Wei,W., Wang,X., Xie,W. and Yu,X.F.
+  TITLE     Characterization of the amino-terminal domain of Mx2/MxB-dependent
+            interaction with the HIV-1 capsid
+  JOURNAL   Protein Cell 5 (12), 954-957 (2014)
+   PUBMED   25363729
+  REMARK    GeneRIF: The amino-terminal domain of Mx2/MxB-dependent interaction
+            with the HIV-1 capsid has been characterized.
+REFERENCE   5  (bases 1 to 2424)
+  AUTHORS   Lee,S.H. and Vidal,S.M.
+  TITLE     Functional diversity of Mx proteins: variations on a theme of host
+            resistance to infection
+  JOURNAL   Genome Res 12 (4), 527-530 (2002)
+   PUBMED   11932237
+  REMARK    Review article Erratum:[Genome Res 2002 Jun;12(6):1012]
+REFERENCE   6  (bases 1 to 2424)
+  AUTHORS   Jin,H.K., Yoshimatsu,K., Takada,A., Ogino,M., Asano,A., Arikawa,J.
+            and Watanabe,T.
+  TITLE     Mouse Mx2 protein inhibits hantavirus but not influenza virus
+            replication
+  JOURNAL   Arch Virol 146 (1), 41-49 (2001)
+   PUBMED   11266216
+REFERENCE   7  (bases 1 to 2424)
+  AUTHORS   Jin,H.K., Takada,A., Kon,Y., Haller,O. and Watanabe,T.
+  TITLE     Identification of the murine Mx2 gene: interferon-induced expression
+            of the Mx2 protein from the feral mouse gene confers resistance to
+            vesicular stomatitis virus
+  JOURNAL   J Virol 73 (6), 4925-4930 (1999)
+   PUBMED   10233954
+REFERENCE   8  (bases 1 to 2424)
+  AUTHORS   Zurcher,T., Pavlovic,J. and Staeheli,P.
+  TITLE     Mouse Mx2 protein inhibits vesicular stomatitis virus but not
+            influenza virus
+  JOURNAL   Virology 187 (2), 796-800 (1992)
+   PUBMED   1312277
+REFERENCE   9  (bases 1 to 2424)
+  AUTHORS   Aebi,M., Fah,J., Hurt,N., Samuel,C.E., Thomis,D., Bazzigher,L.,
+            Pavlovic,J., Haller,O. and Staeheli,P.
+  TITLE     cDNA structures and regulation of two interferon-induced human Mx
+            proteins
+  JOURNAL   Mol Cell Biol 9 (11), 5062-5072 (1989)
+   PUBMED   2481229
+REFERENCE   10  (bases 1 to 2424)
+  AUTHORS   Staeheli,P. and Sutcliffe,J.G.
+  TITLE     Identification of a second interferon-regulated murine Mx gene
+  JOURNAL   Mol Cell Biol 8 (10), 4524-4528 (1988)
+   PUBMED   2460745
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: KX774217.1, BC007127.1 [ECO:0000332]
+            RNAseq introns :: partial sample support SAMN00849380, SAMN00849385
+            [ECO:0000350]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            polymorphic pseudogene      :: PMID: 2460745, 10233954
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AB029920.1.
+            On Jul 25, 2007 this sequence version replaced XR_035745.1.
+            Summary: This gene encodes a member of the Mx protein family of
+            large GTPases, and functions in the innate immunity system.
+            Interferon alpha/beta treatment or viral infection induces
+            expression of this protein, which subsequently accumulates in the
+            cytoplasm and inhibits viral replication. It has been shown to
+            confer resistance to vesicular stomatitis virus, a member of the
+            rhabdovirus family, but not to influenza virus. This gene produces
+            a functional protein in some feral mouse strains, whereas some
+            inbred mouse strains including the strain of the reference genome,
+            C57BL/6J, contain a frameshift that inactivates this gene product.
+            [provided by RefSeq, Jul 2008].
+            Transcript Variant: This variant (1) encodes the functional
+            protein. This variant is not expressed in the mouse reference
+            genome strain.
+            Sequence Note: This RefSeq record was created to represent the
+            transcript and the full-length, functional protein that is
+            expressed in several strains. It does not contain a one nucleotide
+            insertion that causes a frameshift in the CDS of several strains,
+            including the strain of the reference genome, C57BL/6J.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2424
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="NJL"
+                     /db_xref="taxon:10090"
+                     /chromosome="16"
+                     /map="16 57.51 cM"
+     gene            1..2424
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="MX dynamin-like GTPase 2"
+                     /db_xref="GeneID:17858"
+                     /db_xref="MGI:MGI:97244"
+     exon            1..91
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            92..203
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    114..116
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="upstream in-frame stop codon"
+     CDS             120..2087
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="myxovirus resistance protein 2; myxovirus (influenza
+                     virus) resistance 2"
+                     /codon_start=1
+                     /product="interferon-induced GTP-binding protein Mx2"
+                     /protein_id="NP_038634.1"
+                     /db_xref="GeneID:17858"
+                     /db_xref="MGI:MGI:97244"
+                     /translation="MVLSTEENTGVDSVNLPSGETGLGEKDQESVNNLCSQYEEKVRPC
+                     IDLIDSLRALGVEQDLALPAIAVIGDQSSGKSSVLEALSGVALPRGSGIVTRCPLVLKL
+                     RKLNEGEEWRGKVSYDDIEVELSDPSEVEEAINKGQNFIAGVGLGISDKLISLDVSSPN
+                     VPDLTLIDLPGITRVAVGNQPADIGRQIKRLIKTYIQKQETINLVVVPSNVDIATTEAL
+                     SMAQEVDPEGDRTIGILTKPDLVDRGTEDKVVDVVRNLVYHLKKGYMIVKCRGQQDIQE
+                     QLSLTEALQNEQIFFKEHPHFRVLLEDGKATVPCLAERLTAELILHICKSLPLLENQIK
+                     ESHQSASEELQKYGMDIPEDDSEKTFFLIEKINAFNQDITALVQGEENVAEGECRLFTR
+                     LRKEFLSWSKEIEKNFAKGYAVLYNEVWAFEKQYRGRELPGFVNYKTFENIIRRQIKTL
+                     EEPAIEMLHTVTEIVRAAFTSVSEKNFSEFYNLHRTTKSKLEDIRLEQEKEAEMSIRLH
+                     FKMEQIIYCQDQIYRGALQKVREEEAEEEKKTKHGTSSSSQSQDLQTSSMAEIFQHLNA
+                     YRQEAHNRISSHVPLIIQYFILKMFAERLQKGMLQLLQDKDSCSWLLKEQSDTSEKRKF
+                     LKERLARLAQARRRLAKFPG"
+     misc_feature    120..203
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9WVP9.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    327..350
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9WVP9.2);
+                     Region: G1 motif.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01055"
+     misc_feature    402..410
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9WVP9.2);
+                     Region: G2 motif.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01055"
+     misc_feature    630..641
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9WVP9.2);
+                     Region: G3 motif.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01055"
+     misc_feature    837..848
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9WVP9.2);
+                     Region: G4 motif.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01055"
+     misc_feature    933..944
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9WVP9.2);
+                     Region: G5 motif.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU01055"
+     misc_feature    1743..1805
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q9WVP9.2);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            204..396
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            397..534
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            535..689
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            690..828
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            829..1027
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1028..1106
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1107..1229
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1230..1369
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1370..1530
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1531..1607
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1608..1856
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1857..2415
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2353..2358
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="hexamer: AATAAA"
+     polyA_site      2378
+                     /gene="Mx2"
+                     /gene_synonym="Mx-2"
+                     /note="major polyA site"
+ORIGIN
+        1 acactccgtc tccaagccgg gaggggtgag tattgcacag gattctgtgg aaggatagag
+       61 gataccttct aaggcttctt tgtagacact gagtacccaa ctgagagaag aaataaaaga
+      121 tggttcttag cacagaagaa aacacaggcg ttgattcagt caacttaccc agtggagaga
+      181 cgggcctagg agagaaagac caggagtctg tgaacaatct ctgcagtcag tatgaggaga
+      241 aggtgcggcc ctgcattgac ctcatcgact ccctgcgggc tctgggtgtg gagcaggacc
+      301 tggccctgcc tgccatcgct gtcattgggg accagagttc agggaagagc tctgtgctgg
+      361 aagcactgtc tggagtggcc ctccccagag gcagtggtat tgtcaccaga tgccctctgg
+      421 tgctgaaatt gaggaagctg aatgagggag aggagtggag aggcaaagtc tcctatgatg
+      481 acatcgaagt ggagctctct gatccttcag aggtggaaga ggccatcaac aagggtcaga
+      541 acttcattgc tggggtaggt ctggggatca gtgataagct cattagcctg gatgtcagct
+      601 ccccaaatgt cccagacctg actctcattg acctgcctgg aattaccagg gtggctgtag
+      661 gcaaccagcc tgcagacata ggacgccaga tcaagagact catcaagaca tacatccaaa
+      721 aacaggagac catcaacctg gtggtggtcc ccagcaatgt ggacattgcc accacagagg
+      781 ctctgagcat ggctcaggag gtggaccctg aaggggatag gaccataggg atcttgacca
+      841 agcccgatct ggtggacaga ggtactgaag acaaggtcgt ggatgtggtg cggaacctgg
+      901 tgtaccatct gaagaagggc tacatgatag tcaagtgcag aggccagcag gacatccaag
+      961 agcagctgag cctgactgag gctcttcaga atgagcaaat cttcttcaag gaacaccctc
+     1021 atttcagagt tcttctggag gatgggaagg ccacagtgcc ctgcctggca gagagactga
+     1081 ccgcagagct catcttacac atctgtaaat ctcttcctct gctagaaaat caaataaagg
+     1141 aaagtcacca gagtgcaagt gaggagctgc agaagtacgg tatggacata ccagaagatg
+     1201 acagtgaaaa aacgttcttc ctgattgaaa aaatcaatgc ttttaaccag gacatcactg
+     1261 ccctagtaca aggggaagag aatgtggcag agggagaatg tcgcctattc accaggctcc
+     1321 gaaaagagtt cttgtcctgg agtaaggaga tcgaaaagaa tttcgcaaaa ggttatgctg
+     1381 ttttatataa tgaagtctgg gcatttgaaa agcagtaccg tggacgagaa ttgccagggt
+     1441 ttgtgaatta caaaacattt gagaacatta taagaagaca aatcaaaacc ctggaagaac
+     1501 cagctataga aatgctgcac acggtcactg aaattgtacg agctgccttt acaagtgttt
+     1561 ctgagaaaaa tttttctgag ttttataacc tccacagaac taccaagtcc aaacttgaag
+     1621 acatcagatt agaacaagaa aaggaagcag agatgtcaat ccgactccac ttcaagatgg
+     1681 aacaaattat ctactgccag gaccagattt acagaggagc cttgcagaag gtcagagagg
+     1741 aggaagctga ggaggagaag aagacaaagc atggcacttc cagttcctct cagtcccaag
+     1801 atttacagac ctcatccatg gctgagatct tccagcatct gaatgcctac cgccaagagg
+     1861 ctcacaaccg catctccagc cacgttccct tgatcatcca gtatttcatc ctgaaaatgt
+     1921 ttgctgagcg gctgcagaag ggcatgctcc agctcctgca ggacaaggat tcctgcagct
+     1981 ggctcctgaa ggagcagagt gacacaagcg agaagaggaa gttcctgaag gagaggctgg
+     2041 caaggctggc ccaggctcgg cgccggctag ccaaattccc tggttaagct ggctctgtcc
+     2101 ttccctgtgt ttcctggatt gtgattcagg gacagaaggg ctcctgcctt tcctggtagc
+     2161 tataccacca gcctttatgc tctgataagt gctagcactc agatttgaag gagctttctg
+     2221 ctcactctga gataggaaga gaaagaggct ctcaaagctc agcaagtaga tgggtagagg
+     2281 aagccacttt gctaataaga caacggcttc acctgagtac tcttcttgcc caccatttag
+     2341 cacactgcca gaaataaata tttgatgtac aaatgggagc tgcctgttac attccttaat
+     2401 aaaccacttt tctttaaaaa aaaa
+//

@@ -1,0 +1,200 @@
+LOCUS       NM_015783                756 bp    mRNA    linear   ROD 06-MAY-2025
+DEFINITION  Mus musculus ISG15 ubiquitin-like modifier (Isg15), mRNA.
+ACCESSION   NM_015783
+VERSION     NM_015783.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 756)
+  AUTHORS   Zhao,T., Jin,K., Wang,X., Su,X., Wang,Y., Gao,M., Luo,W., Yang,H.
+            and Yang,Z.
+  TITLE     GPAT4 sustains endoplasmic reticulum homeostasis in endocardial
+            cells and safeguards heart development
+  JOURNAL   Nat Commun 16 (1), 3345 (2025)
+   PUBMED   40199910
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 756)
+  AUTHORS   Ramirez Reyes,B., Madden,S., Meyer,K.A., Bartsch,B., Wright,A.P.,
+            Constant,D.A. and Nice,T.J.
+  TITLE     Homeostatic antiviral protection of the neonatal gut epithelium by
+            interferon lambda
+  JOURNAL   Cell Rep 44 (2), 115243 (2025)
+   PUBMED   39893635
+REFERENCE   3  (bases 1 to 756)
+  AUTHORS   Wei,W., Gao,X., Qian,J., Li,L., Zhao,C., Xu,L., Zhu,Y., Liu,Z.,
+            Liu,N., Wang,X., Jin,Z., Liu,B., Xu,L., Dong,J., Zhang,S., Wang,J.,
+            Zhang,Y., Yu,Y., Yan,Z., Yang,Y., Lu,J., Fang,Y., Yuan,N. and
+            Wang,J.
+  TITLE     Beclin 1 prevents ISG15-mediated cytokine storms to secure fetal
+            hematopoiesis and survival
+  JOURNAL   J Clin Invest 135 (3), e177375 (2025)
+   PUBMED   39589832
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 756)
+  AUTHORS   Zerad,L., Gacem,N., Gayda,F., Day,L., Sinigaglia,K., Richard,L.,
+            Parisot,M., Cagnard,N., Mathis,S., Bole-Feysot,C., O'Connell,M.A.,
+            Pingault,V., Dambroise,E., Keegan,L.P., Vallat,J.M. and Bondurand,N.
+  TITLE     Overexpression of Egr1 Transcription Regulator Contributes to
+            Schwann Cell Differentiation Defects in Neural Crest-Specific Adar1
+            Knockout Mice
+  JOURNAL   Cells 13 (23), 1952 (2024)
+   PUBMED   39682701
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 756)
+  AUTHORS   Cui,N., Liu,C., Tang,X., Song,L., Xiao,Z., Wang,C., Wu,Y., Zhou,Y.,
+            Peng,C., Liu,Y., Zheng,L., Liu,X., Huang,K. and Chen,H.
+  TITLE     ISG15 accelerates acute kidney injury and the subsequent AKI-to-CKD
+            transition by promoting TGFbetaR1 ISGylation
+  JOURNAL   Theranostics 14 (11), 4536-4553 (2024)
+   PUBMED   39113797
+  REMARK    GeneRIF: ISG15 accelerates acute kidney injury and the subsequent
+            AKI-to-CKD transition by promoting TGFbetaR1 ISGylation. Publication
+            Status: Online-Only
+REFERENCE   6  (bases 1 to 756)
+  AUTHORS   Liu,M., Reimschuessel,R. and Hassel,B.A.
+  TITLE     Molecular cloning of the fish interferon stimulated gene, 15 kDa
+            (ISG15) orthologue: a ubiquitin-like gene induced by nephrotoxic
+            damage
+  JOURNAL   Gene 298 (2), 129-139 (2002)
+   PUBMED   12426101
+REFERENCE   7  (bases 1 to 756)
+  AUTHORS   Ritchie,K.J., Malakhov,M.P., Hetherington,C.J., Zhou,L.,
+            Little,M.T., Malakhova,O.A., Sipe,J.C., Orkin,S.H. and Zhang,D.E.
+  TITLE     Dysregulation of protein modification by ISG15 results in brain cell
+            injury
+  JOURNAL   Genes Dev 16 (17), 2207-2212 (2002)
+   PUBMED   12208842
+  REMARK    GeneRIF: UBP43 plays a critical role in maintaining the homeostatic
+            balance of ISG15-conjugated protein, and that regulation of cellular
+            levels of ISG15 protein modification is essential for brain cell
+            function.
+REFERENCE   8  (bases 1 to 756)
+  AUTHORS   Malakhova,O., Malakhov,M., Hetherington,C. and Zhang,D.E.
+  TITLE     Lipopolysaccharide activates the expression of ISG15-specific
+            protease UBP43 via interferon regulatory factor 3
+  JOURNAL   J Biol Chem 277 (17), 14703-14711 (2002)
+   PUBMED   11854279
+  REMARK    GeneRIF: lipopolysaccharide activation of expression via interferon
+            regulatory factor 3
+REFERENCE   9  (bases 1 to 756)
+  AUTHORS   Malakhov,M.P., Malakhova,O.A., Kim,K.I., Ritchie,K.J. and Zhang,D.E.
+  TITLE     UBP43 (USP18) specifically removes ISG15 from conjugated proteins
+  JOURNAL   J Biol Chem 277 (12), 9976-9981 (2002)
+   PUBMED   11788588
+  REMARK    GeneRIF: UBP43 (USP18) specifically removes ISG15 from conjugated
+            proteins
+REFERENCE   10  (bases 1 to 756)
+  AUTHORS   Hamerman,J.A., Hayashi,F., Schroeder,L.A., Gygi,S.P., Haas,A.L.,
+            Hampson,L., Coughlin,P., Aebersold,R. and Aderem,A.
+  TITLE     Serpin 2a is induced in activated macrophages and conjugates to a
+            ubiquitin homolog
+  JOURNAL   J Immunol 168 (5), 2415-2423 (2002)
+   PUBMED   11859133
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AI117472.1, BC031424.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849374,
+            SAMN00849375 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            CT998563.5.
+            On or before Apr 18, 2009 this sequence version replaced
+            XM_001471685.1, XM_001471686.1, NM_015783.2.
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..756
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="4"
+                     /map="4 88.61 cM"
+     gene            1..756
+                     /gene="Isg15"
+                     /gene_synonym="100038882; G1p2; IGI15; IP17; Irfp; UCRP"
+                     /note="ISG15 ubiquitin-like modifier"
+                     /db_xref="GeneID:100038882"
+                     /db_xref="MGI:MGI:1855694"
+     exon            1..113
+                     /gene="Isg15"
+                     /gene_synonym="100038882; G1p2; IGI15; IP17; Irfp; UCRP"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             111..596
+                     /gene="Isg15"
+                     /gene_synonym="100038882; G1p2; IGI15; IP17; Irfp; UCRP"
+                     /note="interferon, alpha-inducible protein;
+                     interferon-induced 15-KDa protein; ubiquitin cross-reactive
+                     protein; interferon-stimulated protein 15;
+                     interferon-induced 15 kDa protein; interferon-induced 17
+                     kDa protein; interferon-stimulated protein (15 kDa)"
+                     /codon_start=1
+                     /product="ubiquitin-like protein ISG15"
+                     /protein_id="NP_056598.2"
+                     /db_xref="CCDS:CCDS51405.1"
+                     /db_xref="GeneID:100038882"
+                     /db_xref="MGI:MGI:1855694"
+                     /translation="MAWDLKVKMLGGNDFLVSVTNSMTVSELKKQIAQKIGVPAFQQRL
+                     AHQTAVLQDGLTLSSLGLGPSSTVMLVVQNCSEPLSILVRNERGHSNIYEVFLTQTVDT
+                     LKKKVSQREQVHEDQFWLSFEGRPMEDKELLGEYGLKPQCTVIKHLRLRGGGGDQCA"
+     mat_peptide     111..575
+                     /gene="Isg15"
+                     /gene_synonym="100038882; G1p2; IGI15; IP17; Irfp; UCRP"
+                     /product="Ubiquitin-like protein ISG15. /id=PRO_0000035988"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64339.4)"
+     misc_feature    558..575
+                     /gene="Isg15"
+                     /gene_synonym="100038882; G1p2; IGI15; IP17; Irfp; UCRP"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64339.4);
+                     Region: LRLRGG. /evidence=ECO:0000250"
+     misc_feature    561..575
+                     /gene="Isg15"
+                     /gene_synonym="100038882; G1p2; IGI15; IP17; Irfp; UCRP"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64339.4);
+                     Region: Involved in the ligation of specific target
+                     proteins. /evidence=ECO:0000250"
+     misc_feature    561..563
+                     /gene="Isg15"
+                     /gene_synonym="100038882; G1p2; IGI15; IP17; Irfp; UCRP"
+                     /note="Interacts with activating enzyme.
+                     /evidence=ECO:0000250; propagated from UniProtKB/Swiss-Prot
+                     (Q64339.4); other site"
+     exon            114..756
+                     /gene="Isg15"
+                     /gene_synonym="100038882; G1p2; IGI15; IP17; Irfp; UCRP"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      734..739
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Isg15"
+                     /gene_synonym="100038882; G1p2; IGI15; IP17; Irfp; UCRP"
+                     /note="hexamer: AATAAA"
+     polyA_site      754
+                     /gene="Isg15"
+                     /gene_synonym="100038882; G1p2; IGI15; IP17; Irfp; UCRP"
+                     /note="major polyA site"
+ORIGIN
+        1 agtcgaccca gtctctgact ctgagagtcg atccagtctc tgactgtgag agcaagcagc
+       61 cagaagcaga ctccttaatt ccaggggacc tagagctaga gcctgcagca atggcctggg
+      121 acctaaaggt gaagatgctg gggggtaacg atttcctggt gtccgtgact aactccatga
+      181 cggtgtcaga actgaagaag cagattgccc agaagattgg tgtgccggct ttccagcagc
+      241 gcctggccca ccaaactgca gtgctccagg acggtcttac cctttccagt ctgggtctgg
+      301 gtcccagcag cacagtgatg ctagtggtac agaactgcag cgagcctctg agcatcctgg
+      361 tgaggaacga aaggggccac agcaacatct atgaggtctt tctgacgcag actgtagaca
+      421 cgcttaagaa gaaggtgtcc cagcgggaac aagtccacga agaccagttc tggctgagct
+      481 tcgagggaag gcccatggag gacaaggagc tgctggggga gtatggccta aagccccagt
+      541 gcacagtgat caagcatttg cgcctgaggg gtgggggagg ggaccagtgt gcctaaggcc
+      601 cccatccaga gccagtgttg gttataaaag atgatggggg ggggggtatg gaggactttt
+      661 gggatagcat tggaaatgta aacgaggaaa atacctaatt agaaaaaata tcaaaaaaaa
+      721 aaaaagatga tgcaataaaa agctctgcct cttgtt
+//

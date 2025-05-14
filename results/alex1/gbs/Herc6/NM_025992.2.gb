@@ -1,0 +1,434 @@
+LOCUS       NM_025992               5279 bp    mRNA    linear   ROD 01-AUG-2024
+DEFINITION  Mus musculus hect domain and RLD 6 (Herc6), mRNA.
+ACCESSION   NM_025992
+VERSION     NM_025992.2
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 5279)
+  AUTHORS   Qin,Y., Wang,M., Meng,X., Wang,M., Jiang,H., Gao,Y., Li,J., Zhao,C.,
+            Han,C., Zhao,W. and Zheng,X.
+  TITLE     ISGylation by HERCs facilitates STING activation
+  JOURNAL   Cell Rep 43 (5), 114135 (2024)
+   PUBMED   38652662
+REFERENCE   2  (bases 1 to 5279)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   3  (bases 1 to 5279)
+  AUTHORS   Qin,Y., Meng,X., Wang,M., Liang,W., Xu,R., Chen,J., Song,H., Fu,Y.,
+            Li,J., Gao,C., Jia,M., Zhao,C. and Zhao,W.
+  TITLE     Posttranslational ISGylation of NLRP3 by HERC enzymes facilitates
+            inflammasome activation in models of inflammation
+  JOURNAL   J Clin Invest 133 (20), e161935 (2023)
+   PUBMED   37651190
+  REMARK    GeneRIF: Posttranslational ISGylation of NLRP3 by HERC enzymes
+            facilitates inflammasome activation in models of inflammation.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 5279)
+  AUTHORS   Du,X., Sheng,J., Chen,Y., He,S., Yang,Y., Huang,Y., Fu,Y., Lie,L.,
+            Han,Z., Zhu,B., Liu,H., Wen,Q., Zhou,X., Zhou,C., Hu,S. and Ma,L.
+  TITLE     The E3 ligase HERC5 promotes antimycobacterial responses in
+            macrophages by ISGylating the phosphatase PTEN
+  JOURNAL   Sci Signal 16 (788), eabm1756 (2023)
+   PUBMED   37279284
+  REMARK    GeneRIF: The E3 ligase HERC5 promotes antimycobacterial responses in
+            macrophages by ISGylating the phosphatase PTEN.
+REFERENCE   5  (bases 1 to 5279)
+  AUTHORS   Suzuki,T., Kikuguchi,C., Nishijima,S., Nagashima,T., Takahashi,A.,
+            Okada,M. and Yamamoto,T.
+  TITLE     Postnatal liver functional maturation requires Cnot complex-mediated
+            decay of mRNAs encoding cell cycle and immature liver genes
+  JOURNAL   Development 146 (4) (2019)
+   PUBMED   30733279
+  REMARK    Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 5279)
+  AUTHORS   Nagamachi,A., Matsui,H., Asou,H., Ozaki,Y., Aki,D., Kanai,A.,
+            Takubo,K., Suda,T., Nakamura,T., Wolff,L., Honda,H. and Inaba,T.
+  TITLE     Haploinsufficiency of SAMD9L, an endosome fusion facilitator, causes
+            myeloid malignancies in mice mimicking human diseases with monosomy
+            7
+  JOURNAL   Cancer Cell 24 (3), 305-317 (2013)
+   PUBMED   24029230
+REFERENCE   7  (bases 1 to 5279)
+  AUTHORS   Archambaud,C., Nahori,M.A., Soubigou,G., Becavin,C., Laval,L.,
+            Lechat,P., Smokvina,T., Langella,P., Lecuit,M. and Cossart,P.
+  TITLE     Impact of lactobacilli on orally acquired listeriosis
+  JOURNAL   Proc Natl Acad Sci U S A 109 (41), 16684-16689 (2012)
+   PUBMED   23012479
+REFERENCE   8  (bases 1 to 5279)
+  AUTHORS   Ketscher,L., Basters,A., Prinz,M. and Knobeloch,K.P.
+  TITLE     mHERC6 is the essential ISG15 E3 ligase in the murine system
+  JOURNAL   Biochem Biophys Res Commun 417 (1), 135-140 (2012)
+   PUBMED   22138649
+  REMARK    GeneRIF: mHERC6 is essential for endogenous murine ISGylation and
+            thus represents the dominant ISG15 E3 ligase in mice.
+REFERENCE   9  (bases 1 to 5279)
+  AUTHORS   Oudshoorn,D., van Boheemen,S., Sanchez-Aparicio,M.T., Rajsbaum,R.,
+            Garcia-Sastre,A. and Versteeg,G.A.
+  TITLE     HERC6 is the main E3 ligase for global ISG15 conjugation in mouse
+            cells
+  JOURNAL   PLoS One 7 (1), e29870 (2012)
+   PUBMED   22272257
+  REMARK    GeneRIF: Data show that the HerC6 N-terminal RCC1-like domain (RLD)
+            allows ISG15 conjugation.
+REFERENCE   10  (bases 1 to 5279)
+  AUTHORS   Tang,Y., Zhong,G., Zhu,L., Liu,X., Shan,Y., Feng,H., Bu,Z., Chen,H.
+            and Wang,C.
+  TITLE     Herc5 attenuates influenza A virus by catalyzing ISGylation of viral
+            NS1 protein
+  JOURNAL   J Immunol 184 (10), 5777-5790 (2010)
+   PUBMED   20385878
+  REMARK    GeneRIF: Expression of the Herc5-mediated ubiquitin-like protein
+            ISGylation system can distinctly potentiate interferon-beta-induced
+            antiviral effects against influenza A virus.
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK147960.1, SRR17253014.3684761.1
+            [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849382,
+            SAMN00849383 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC142212.4 and AC127307.3.
+            On Jul 9, 2009 this sequence version replaced NM_025992.1.
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..5279
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="6"
+                     /map="6 27.82 cM"
+     gene            1..5279
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="hect domain and RLD 6"
+                     /db_xref="GeneID:67138"
+                     /db_xref="MGI:MGI:1914388"
+     exon            1..241
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             46..3057
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="hect domain and RLD 5"
+                     /codon_start=1
+                     /product="E3 ISG15--protein ligase Herc6"
+                     /protein_id="NP_080268.1"
+                     /db_xref="CCDS:CCDS51796.1"
+                     /db_xref="GeneID:67138"
+                     /db_xref="MGI:MGI:1914388"
+                     /translation="MYFSWAAGSRKPRRLKAGTSGIELLQAASGEHHSLLLFSNHRVYS
+                     CGDNSWGQLGQRRDQSTERPEPIQALNDLHVDLVSCGKEHSVAVCHKGKVFAWGAGSEG
+                     QLGIGEFKEISFMPTKIKALAGIKIIQVSCGHYHSLALSEDGHVFSWGRNSEGQLGLGK
+                     NSRSQAIPQKVKSLEGIPLAQVAAGGTHSFALSLTGTSFGWGSNRSGQLALSGNKVKEQ
+                     IYKPHSIGALKNLSVIYISCGYEHTAVLTEEGQVFTFGGNSSGQLQPSPRSGQRGPQLI
+                     EGIGGRVSQIECASYHTIAYVYTTGQVVSLGRGPSHTSNPTHQEAPAENSDITCLLAAE
+                     DLVDIEVKDIFAGAHANFVTTRRVSHTRSTGVSMKILPEIIRINQSLVKKWRAANKRKD
+                     REGAKREISLIFSSSACLTASFLKKRDAGENNLIDVDLKLARDVFKKLTTEKWISSLIT
+                     TCLEEYLLRDLPYSSPHQEALLVFLLLPECSIMQDPKNWKTLAFEFAKAIHKMGPQSLA
+                     FLRTCWASLEVSSLNILVQMLKKAIISQIQYGVATEQYITNIKVLLEVIKEVHKANCQL
+                     PESAFIINELSGIFNFDAEAGRMFIRHNDLDCTESSDMVVFSDFLFVFDLPSKIKLMKC
+                     DSFVKLMSEVMAFPEKMSSPPYLILKVRRSHLVEDTLRQLRQVEDFDLRKQLSVGFINE
+                     IRPEAGGVSSEFFHCIFEEMTDPKYEMFIYPEKGSSMWFPVNPKFEKSSYFLFGILCGL
+                     SLHNLKVINLPFPLALYKKLLNQKPSLEDLKELSLPLGRNLQEVLNCEAGDIEELHMYF
+                     SIYWDQKDVDLIPDGISVPVNETNKRDYVSKYVDYIFNISIKTIYEEFHRGFYKVCNWD
+                     IIRQFQPEELMTAIIGNATCDWKQFENNSKYKDGYDKSHPTILLFWKAFHDLTLDEKKK
+                     FLLFLTGCDRLHVKGLQNEGIVFRCSETFSEEDNPRSLTCHRMLDLPKYSSMRRMKEAL
+                     QVAINNSTGFVSQE"
+     misc_feature    163..318
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="propagated from UniProtKB/Swiss-Prot (F2Z461.1);
+                     Region: RCC1 1"
+     misc_feature    319..477
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="propagated from UniProtKB/Swiss-Prot (F2Z461.1);
+                     Region: RCC1 2"
+     misc_feature    481..636
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="propagated from UniProtKB/Swiss-Prot (F2Z461.1);
+                     Region: RCC1 3"
+     misc_feature    640..801
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="propagated from UniProtKB/Swiss-Prot (F2Z461.1);
+                     Region: RCC1 4"
+     misc_feature    802..954
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="propagated from UniProtKB/Swiss-Prot (F2Z461.1);
+                     Region: RCC1 5"
+     misc_feature    826..888
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="propagated from UniProtKB/Swiss-Prot (F2Z461.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            242..401
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            402..478
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            479..706
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            707..801
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            802..929
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            930..1066
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1067..1140
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1141..1259
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1260..1319
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1320..1413
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1414..1603
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1604..1758
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1759..1863
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1864..1971
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1972..2109
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2110..2253
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2254..2420
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2421..2484
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2485..2555
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2556..2739
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2740..2842
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2843..5279
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3195..3200
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="hexamer: AATAAA"
+     regulatory      3202..3207
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="hexamer: TATAAA"
+     polyA_site      3220
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+     polyA_site      3227
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="major polyA site"
+     regulatory      4758..4763
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+                     /note="hexamer: CATAAA"
+     polyA_site      4775
+                     /gene="Herc6"
+                     /gene_synonym="1700121D12Rik; 2510038N07Rik; 4930427L17Rik;
+                     CEB1; Herc5"
+ORIGIN
+        1 gcccatctga cataccagag ccgcgggtgg ctgtgcaccg cagggatgta tttcagctgg
+       61 gctgcaggaa gccggaagcc tcggcgcctg aaggcgggaa ccagcggcat tgaactcttg
+      121 caggcagcca gcggggaaca ccactcgctc ctactgttca gcaaccacag ggtgtattcc
+      181 tgcggggaca acagctgggg acagctgggc cagaggagag accagagtac cgaaaggcca
+      241 gaaccaattc aggcactgaa tgatctgcat gttgacctgg tgagctgtgg gaaggaacac
+      301 tctgtggctg tctgccacaa aggaaaggtc ttcgcttggg gagccggttc tgaagggcag
+      361 ctggggattg gagaatttaa ggaaataagc tttatgccta cgaaaataaa agctctggct
+      421 ggcataaaaa taatccaagt ttcctgtgga cactaccact ctttggcctt atcagaagat
+      481 ggccacgtgt tttcatgggg aaggaacagt gaaggacaac tgggcctggg gaagaattcc
+      541 cgttctcaag ctattccaca gaaggtgaag tctctggagg ggatcccact ggctcaggtt
+      601 gctgcaggtg gcacacacag ttttgctctg tctctcacgg ggacatcatt tggctggggg
+      661 agcaacagat ctgggcagtt ggctctcagc gggaacaaag ttaaagaaca aatctacaag
+      721 ccgcattcaa ttggtgccct gaagaatctg agtgtgattt atattagctg tggttatgag
+      781 catactgcag tgcttactga ggagggacaa gtgtttacat ttggaggcaa tagctctgga
+      841 caactacagc ccagccccag gagtggacaa agaggcccac aactcataga aggaattggt
+      901 ggccgtgttt cacagataga gtgcgcaagt tatcacacca ttgcatatgt ctacaccact
+      961 ggtcaggtgg tatctttagg ccgtggacca agtcacacaa gcaacccaac tcatcaggag
+     1021 gcccccgcag agaactctga tattacctgc ctgctagctg cagaggacct tgtggatatt
+     1081 gaagtcaaag acatttttgc tggagcacac gccaactttg tgacaactcg tcgggtatca
+     1141 catactaggt ctacaggtgt ttccatgaaa atcctgccag aaataatccg aatcaaccag
+     1201 tctctggtaa agaaatggag agcagcaaat aaaagaaaag atcgtgaagg cgccaaaaga
+     1261 gaaatcagct tgatattttc atcttctgct tgtttgacag cgagctttct gaagaaaaga
+     1321 gatgctggag agaataatct cattgatgtg gacttaaaac tggcaagaga tgtcttcaag
+     1381 aagttaacaa cagagaaatg gatttcttct ttgataacca cgtgtcttga ggagtatctg
+     1441 ctcagagatc ttccatacag ttctccacac caagaagctc tacttgtttt tcttttgctc
+     1501 ccagaatgtt ccattatgca ggatcctaag aactggaaga ccctggcatt tgaatttgca
+     1561 aaagctattc ataaaatggg tccacagtca ttagcattcc tgagaacgtg ttgggcatct
+     1621 ttggaagttt cttcactgaa catactggtt cagatgctaa agaaagccat catctctcaa
+     1681 atacagtatg gagttgcaac ggagcagtat attactaata ttaaagttct tttagaagtg
+     1741 ataaaagaag tgcataaggc taactgtcaa cttccagaaa gtgccttcat cataaatgag
+     1801 ctttctggca tctttaactt tgatgcagag gcaggaagaa tgttcatacg gcataacgat
+     1861 ctggactgta cagaatcctc agatatggtt gttttcagtg attttctatt tgtctttgat
+     1921 ttgccatcca aaattaaact aatgaaatgt gactcatttg taaaactgat gtctgaagtc
+     1981 atggcatttc cagaaaagat gagctcccca ccatacctta tactgaaagt cagacgaagt
+     2041 cacctggtgg aagacacatt gcgtcaatta agacaagtgg aagactttga ccttaggaag
+     2101 caactatcgg ttggatttat taatgaaatt cgtcctgagg ctgggggagt gagttcagag
+     2161 ttcttccact gtatatttga agagatgaca gaccccaaat atgaaatgtt catatatcct
+     2221 gaaaagggtt ccagcatgtg gtttccagtc aatcccaagt ttgagaagag cagctatttc
+     2281 ctatttggga tcttatgtgg actctcccta cataacttaa aggttatcaa ccttcctttc
+     2341 ccactggctt tatataaaaa acttttgaac caaaagccat ctttggaaga cttaaaagaa
+     2401 cttagtcttc ccttggggag gaatttgcaa gaagttctaa attgtgaggc tggtgatatt
+     2461 gaagaacttc acatgtattt ttctatatac tgggatcaaa aagatgttga tttaattcca
+     2521 gatgggatct ctgtgcctgt gaatgaaacc aacaagagag actatgtgtc taagtatgtt
+     2581 gattacattt ttaacatctc tataaagacg atttatgaag aatttcatag aggattttac
+     2641 aaagtgtgta actgggatat aattaggcaa ttccagcccg aagaactaat gacagcaata
+     2701 attggaaatg ctacttgtga ctggaaacaa tttgaaaata attcaaagta taaagatgga
+     2761 tatgacaaat cacacccaac tattctgctg ttttggaagg ctttccatga cttaactttg
+     2821 gatgaaaaga aaaaattcct cttgtttctt acaggatgtg ataggctgca tgtgaaaggc
+     2881 ctacagaatg aaggaatagt attccggtgt tctgaaacct tcagtgaaga agataaccca
+     2941 agatcattga catgtcacag gatgctagac ctacctaagt attcctcaat gcgaaggatg
+     3001 aaggaagcac ttcaggttgc aatcaacaat agcacgggat ttgtctcaca ggaatgatgc
+     3061 agaaacattc acctcccagc agttcacagc ctcgggaact aggtgtttca ctttgggatt
+     3121 cttctgtctt tccttaatct aagtagggac aagaggttaa aggattttac ttgaattgca
+     3181 cagtttttga gataaataaa ttataaatta atactttagt gaaaaaattc tgtaaaacat
+     3241 ttgctgcatt cttaactttg atgcttttga atgtttgttt tggctgaaat atttcctgaa
+     3301 caacaatgtt catttaataa tatactaaat atttaaaatg ttcaatattg tgagctaaag
+     3361 agagagctca atgtttaaga tcactggctg ctcttccaga ggaccagggc tcagttccca
+     3421 gcacccacaa tggctactca cctctcgtct ttaactccag tcctaaggga tccaacaccc
+     3481 tcctctggcc tccaagacat tccatggata tggtacacag atatacatgc caccaaaaca
+     3541 ctcaaacacc taaattaaaa aaacaaataa aataaaatag tgtttattta aagatttatg
+     3601 gtacctataa taaactatta gtttgaaaat attaagaaac catgcttgca aagctttcaa
+     3661 cgtgtttttg aagcatatag gtgcatattt tgtattaagg aatataatta gagttgtgat
+     3721 tttagaaaat tctaaatgat ttattttcaa cttctaagtg ttgacattta ttattcatca
+     3781 aaggtactta tacttagtac agtgttccaa aatacattct aaacatagat aatgttattt
+     3841 tagtaaaata ctgaaaacaa tcaagaactc atacctactc atggttggca aaatgggaag
+     3901 aagttgaaat atgtcttatt atgatgctat agagtaaatt aatgaagcaa tgtaactgct
+     3961 atggaaaatg accaatacat cttgtatact agttctactt aatgttagaa cttaatttga
+     4021 attacacagc tttgaaataa tttcataaat ataatttgtc ataagaatga catatatgct
+     4081 gctgtgacaa tcactcatca taaaagttcc atttctgtaa agatgttgta tctttataga
+     4141 cttatcagac tttatatgtg agatgtttac tggactccaa agaaaccaaa taagctaatt
+     4201 aaaaatagat catttaaaga aaataaaatg attgtcatca attgctacaa caaaagcaaa
+     4261 tgaatcgtta gaagagggaa tacgcttcag ctaattctcg gattccaaca ttgctccagt
+     4321 accagacaaa gatgtcacag agagaggaaa ccatagatat cttacgtgaa cagacaccaa
+     4381 aatccttccc tacattttaa tatacttaga acatccaata caatatagag tgtggtgcct
+     4441 cacaaccaag tgggaattaa cctggagatg cacttaaaaa tcaactacat ctcaacagac
+     4501 tgataggaaa gaatgtccat atagtacctc agaatagaca gaaaagtaac tgagcaaaat
+     4561 gtagcaccta gtcatgtatg agaaagccaa caaggcctaa aggaaactgc caatttgata
+     4621 aaacctagat acgtttgact tcttaatggc aaaagactaa atgctgccca ctggcaagaa
+     4681 gatgggaagg cctatcatgt acatataaca ttgtattcag gatatgaatt tatattataa
+     4741 ataatgacaa taaaaaacat aaattcaaaa ccaaagaaca aaaagcctta ttttcagatt
+     4801 atattaatca catagaagag tcttaaaaag cacattaaat aaatgtagaa agagctcagg
+     4861 actcaagatc acaaacacac agtgaattgg aaaatcattg tcatctatca tatgaaaaat
+     4921 tggaaataac agagagtaat tttaataagt ttttaaaata ttttataatg aaaactatat
+     4981 tgtttaaaga aactaatgaa gtcttaaatc aatatgtata aaaagatcag atttactgat
+     5041 agcgacatgc tattattcca aggtttgtgg gtatgtgtgt gtatatggta tgtatttgtg
+     5101 tgtatctttg catgtgtgcg tggtgtttat gtgtgcatat ctgtgtctct gtatgtgtgt
+     5161 ctgtatttct gtgtgtatgt ctgtgtgtgt ggtatgtgtc cgactgtcta tgtctgtgta
+     5221 tgagacttac tgtgatgctt attgtttaca gggaatgttt ggtcttagac ctagaaaag
+//

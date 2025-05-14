@@ -1,0 +1,135 @@
+LOCUS       NM_172603               1371 bp    mRNA    linear   ROD 28-APR-2025
+DEFINITION  Mus musculus PHD finger protein 11A (Phf11a), mRNA.
+ACCESSION   NM_172603
+VERSION     NM_172603.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1371)
+  AUTHORS   Gong,Y., Handa,N., Kowalczykowski,S.C. and de Lange,T.
+  TITLE     PHF11 promotes DSB resection, ATR signaling, and HR
+  JOURNAL   Genes Dev 31 (1), 46-58 (2017)
+   PUBMED   28115467
+REFERENCE   2  (bases 1 to 1371)
+  AUTHORS   Zhang,Y., Dean,C., Chessum,L., Nguyen,D., Stewart,M., Taylor,M.,
+            Cookson,W.O. and Moffatt,M.F.
+  TITLE     Functional analysis of a novel ENU-induced PHD finger 11 (Phf11)
+            mouse mutant
+  JOURNAL   Mamm Genome 25 (11-12), 573-582 (2014)
+   PUBMED   25091723
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: EU155109.1, AK077176.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMN00849375, SAMN00849380
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria      :: based on expression, longest protein
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BY162942.1 and EU155109.1.
+            On Aug 20, 2009 this sequence version replaced NM_172603.2.
+FEATURES             Location/Qualifiers
+     source          1..1371
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="14"
+                     /map="14 31.48 cM"
+     gene            1..1371
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /note="PHD finger protein 11A"
+                     /db_xref="GeneID:219131"
+                     /db_xref="MGI:MGI:1918441"
+     exon            1..79
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             37..918
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /note="PHD finger protein 11"
+                     /codon_start=1
+                     /product="PHD finger protein 11A"
+                     /protein_id="NP_766191.1"
+                     /db_xref="CCDS:CCDS27169.1"
+                     /db_xref="GeneID:219131"
+                     /db_xref="MGI:MGI:1918441"
+                     /translation="MAQEKPGCSNPVPNGDCPIIEKMEKRTCALCPEGHEWSQIYFSPS
+                     ANIVAHENCLLYSSGLVECEAPDLPNTVRNFDVKSVKKEIGRGRRLKCSFCKNKGATMG
+                     YDLQSCTKNYHLSCAMEDHAILQVDEDHGTYKLFCQKHAPEGQEPTQRDAAVKAPFLKK
+                     CQEAGLLNVLLEYILEKMDLIHGRLLNETASESDYEGIETLLFGCGLFGDTLRKFQEVI
+                     NSKACEWEERQRLMKQQLEALADLQQNLCSFQENGDLDCSSSTSGSLLPPEDHQVRCQE
+                     SPEVQAGSGDSL"
+     misc_feature    820..915
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8BVM9.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            80..201
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /inference="alignment:Splign:2.1.0"
+     exon            202..309
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /inference="alignment:Splign:2.1.0"
+     exon            310..443
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /inference="alignment:Splign:2.1.0"
+     exon            444..493
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /inference="alignment:Splign:2.1.0"
+     exon            494..625
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /inference="alignment:Splign:2.1.0"
+     exon            626..697
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /inference="alignment:Splign:2.1.0"
+     exon            698..1354
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1334..1339
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /note="hexamer: AATAAA"
+     polyA_site      1354
+                     /gene="Phf11a"
+                     /gene_synonym="4933417L10Rik; Phf11; Phf11l"
+                     /note="major polyA site"
+ORIGIN
+        1 agaggcactt caaggactgc aagaccacac caagccatgg cccaagagaa gccagggtgc
+       61 tctaacccag ttcccaatgg tgactgtcca atcatagaga agatggaaaa aaggacatgt
+      121 gccctgtgcc ctgaaggcca tgagtggagt caaatatact tttcaccatc agcgaatata
+      181 gttgctcatg aaaactgttt gctgtattca tcaggactgg tggagtgtga ggctcctgat
+      241 ctacctaata cagttagaaa ctttgatgtc aaatctgtaa agaaagagat cgggagagga
+      301 agaagattga aatgctcatt ttgtaaaaac aaaggagcca ccatgggata tgatttacag
+      361 tcctgcacca agaattacca cttatcctgt gccatggaag accacgcaat tctacaagtt
+      421 gatgaagatc atggcactta caaattattt tgtcaaaaac atgctccaga gggtcaagaa
+      481 cccacacaac gtgatgcagc tgtcaaagct cctttcctta agaaatgcca ggaagcagga
+      541 cttcttaatg ttttacttga atacatacta gaaaaaatgg atttgattca tggaagactc
+      601 ctgaatgaga ctgcctcaga gtcagactat gaagggatcg agaccttact gtttggctgt
+      661 ggattgtttg gagacacact aagaaaattc caagaagtaa tcaatagtaa agcttgtgaa
+      721 tgggaagaaa ggcaaaggct gatgaagcag cagcttgagg cacttgcaga cttacaacaa
+      781 aacttgtgct catttcaaga aaatggggac ctggactgct caagttctac atcaggatcc
+      841 ttgctacctc ctgaggacca ccaggtcaga tgccaggagt ctcctgaagt gcaagcaggc
+      901 tcaggagata gcctgtgaca gatccacagt gtcctccaac tctgacctgc tactgctcat
+      961 ccatgctcca tacctgactg ggtgtttctt gtctcctctc ttctcatctc acttgtcctg
+     1021 ctttcccctg atagtaaaag ctgctcctca ggaaaactgg atggggcctc catgttctcc
+     1081 aaggatcgag gaagtcttcc tgcctaccct gcccacccca gtcaagggca gcaacaccag
+     1141 agctttgctc agccttaaat ggaatcttag agctttctct tgcttctgct gctcctacag
+     1201 atggcctcat catggtctcc actcagtatt aataactcca tcagcataga gcaaactcaa
+     1261 cactgtgcat tgcacactga taccctgggt ttatgctcac tatcatacca gattgccaat
+     1321 atttagcaca cttaataaat gcttgtcaaa accaaaaaaa aaaaaaaaaa a
+//

@@ -1,0 +1,395 @@
+LOCUS       NM_001403780            3590 bp    mRNA    linear   ROD 25-APR-2025
+DEFINITION  Mus musculus adhesion G protein-coupled receptor G1 (Adgrg1),
+            transcript variant 15, mRNA.
+ACCESSION   NM_001403780
+VERSION     NM_001403780.1
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 3590)
+  AUTHORS   Olaniru,O.E., Toczyska,K., Guccio,N., Giera,S., Piao,X.,
+            King,A.J.F., Jones,P.M. and Persaud,S.J.
+  TITLE     Spatiotemporal profiling of adhesion G protein-coupled receptors in
+            developing mouse and human pancreas reveals a role for GPR56 in
+            islet development
+  JOURNAL   Cell Mol Life Sci 82 (1), 129 (2025)
+   PUBMED   40137991
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 3590)
+  AUTHORS   Lin,H., Ma,C., Zhuang,X., Liu,S., Liu,D., Zhang,M., Lu,Y., Zhou,G.,
+            Zhang,C., Wang,T., Zhang,Z., Lv,L., Zhang,D., Ruan,X.Z., Xu,Y.,
+            Chai,R., Yu,X., Sun,J.P. and Chu,B.
+  TITLE     Sensing steroid hormone 17alpha-hydroxypregnenolone by GPR56 enables
+            protection from ferroptosis-induced liver injury
+  JOURNAL   Cell Metab 36 (11), 2402-2418 (2024)
+   PUBMED   39389061
+REFERENCE   3  (bases 1 to 3590)
+  AUTHORS   Wu,J., Wang,Z., Cai,M., Wang,X., Lo,B., Li,Q., He,J.C., Lee,K. and
+            Fu,J.
+  TITLE     GPR56 Promotes Diabetic Kidney Disease Through eNOS Regulation in
+            Glomerular Endothelial Cells
+  JOURNAL   Diabetes 72 (11), 1652-1663 (2023)
+   PUBMED   37579299
+  REMARK    GeneRIF: GPR56 Promotes Diabetic Kidney Disease Through eNOS
+            Regulation in Glomerular Endothelial Cells.
+REFERENCE   4  (bases 1 to 3590)
+  AUTHORS   Liu,D., Zhang,P., Zhang,K., Bi,C., Li,L., Xu,Y., Zhang,T. and
+            Zhang,J.
+  TITLE     Role of GPR56 in Platelet Activation and Arterial Thrombosis
+  JOURNAL   Thromb Haemost 123 (3), 295-306 (2023)
+   PUBMED   36402131
+  REMARK    GeneRIF: Role of GPR56 in Platelet Activation and Arterial
+            Thrombosis.
+REFERENCE   5  (bases 1 to 3590)
+  AUTHORS   Nojima,Y., Toriyama,M., Tago,K., Mizuno,N., Morishita,K. and Itoh,H.
+  TITLE     GPR56 C-terminal fragment mediates signal received by N-terminal
+            fragment of another adhesion GPCR Latrophilin1 in neurons
+  JOURNAL   Genes Cells 28 (2), 83-96 (2023)
+   PUBMED   36453010
+  REMARK    GeneRIF: GPR56 C-terminal fragment mediates signal received by
+            N-terminal fragment of another adhesion GPCR Latrophilin1 in
+            neurons.
+REFERENCE   6  (bases 1 to 3590)
+  AUTHORS   Blackshaw,S., Harpavat,S., Trimarchi,J., Cai,L., Huang,H., Kuo,W.P.,
+            Weber,G., Lee,K., Fraioli,R.E., Cho,S.H., Yung,R., Asch,E.,
+            Ohno-Machado,L., Wong,W.H. and Cepko,C.L.
+  TITLE     Genomic analysis of mouse retinal development
+  JOURNAL   PLoS Biol 2 (9), E247 (2004)
+   PUBMED   15226823
+REFERENCE   7  (bases 1 to 3590)
+  AUTHORS   Piao,X., Hill,R.S., Bodell,A., Chang,B.S., Basel-Vanagaite,L.,
+            Straussberg,R., Dobyns,W.B., Qasrawi,B., Winter,R.M., Innes,A.M.,
+            Voit,T., Ross,M.E., Michaud,J.L., Descarie,J.C., Barkovich,A.J. and
+            Walsh,C.A.
+  TITLE     G protein-coupled receptor-dependent development of human frontal
+            cortex
+  JOURNAL   Science 303 (5666), 2033-2036 (2004)
+   PUBMED   15044805
+  REMARK    GeneRIF: preferential expression in neuronal progenitor cells of the
+            cerebral cortical ventricular and subventricular zones duing periods
+            of neurogenesis
+REFERENCE   8  (bases 1 to 3590)
+  AUTHORS   Terskikh,A.V., Easterday,M.C., Li,L., Hood,L., Kornblum,H.I.,
+            Geschwind,D.H. and Weissman,I.L.
+  TITLE     From hematopoiesis to neuropoiesis: evidence of overlapping genetic
+            programs
+  JOURNAL   Proc Natl Acad Sci U S A 98 (14), 7934-7939 (2001)
+   PUBMED   11438738
+REFERENCE   9  (bases 1 to 3590)
+  AUTHORS   Phillips,R.L., Ernst,R.E., Brunk,B., Ivanova,N., Mahan,M.A.,
+            Deanehan,J.K., Moore,K.A., Overton,G.C. and Lemischka,I.R.
+  TITLE     The genetic program of hematopoietic stem cells
+  JOURNAL   Science 288 (5471), 1635-1640 (2000)
+   PUBMED   10834841
+REFERENCE   10  (bases 1 to 3590)
+  AUTHORS   Liu,M., Parker,R.M., Darby,K., Eyre,H.J., Copeland,N.G.,
+            Crawford,J., Gilbert,D.J., Sutherland,G.R., Jenkins,N.A. and
+            Herzog,H.
+  TITLE     GPR56, a novel secretin-like human G-protein-coupled receptor gene
+  JOURNAL   Genomics 55 (3), 296-305 (1999)
+   PUBMED   10049584
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR9219380.82587.1,
+            SRR7345562.871587.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849374,
+            SAMN00849375 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            CDS uses downstream in-frame AUG :: upstream AUG and CDS extension
+            is not conserved
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC103935.10.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..3590
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="8"
+                     /map="8 47.12 cM"
+     gene            1..3590
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="adhesion G protein-coupled receptor G1"
+                     /db_xref="GeneID:14766"
+                     /db_xref="MGI:MGI:1340051"
+     exon            1..301
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    124..126
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="upstream in-frame stop codon"
+     misc_feature    235..237
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="upstream_AUG_codon; putative N-terminal extension:
+                     MAVCFTQGDHFTMTSKERLSLAGRSI"
+     misc_feature    271..273
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="upstream_AUG_codon; putative N-terminal extension:
+                     MTSKERLSLAGRSI"
+     exon            302..376
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             313..2376
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /EC_number="2.7.11.25"
+                     /note="isoform c precursor is encoded by transcript variant
+                     15; G-protein coupled receptor 56; serpentine receptor
+                     cyt28; secretin receptor"
+                     /codon_start=1
+                     /product="adhesion G-protein coupled receptor G1 isoform c
+                     precursor"
+                     /protein_id="NP_001390709.1"
+                     /db_xref="GeneID:14766"
+                     /db_xref="MGI:MGI:1340051"
+                     /translation="MAVQVLRQMVYFLLSLFSLVQGAHSGSPREDFRFCGQRNQTQQST
+                     LHYDQSSEPHIFVWNTEETLTIRAPFLAAPDIPRFFPEPRGLYHFCLYWSRHTGRLHLR
+                     YGKHDYLLSSQASRLLCFQKQEQSLKQGAPLIATSVSSWQIPQNTSLPGAPSFIFSFHN
+                     APHKVSHNASVDMCDLKKELQQLSRYLQHPQKAAKRPTAAFISQQLQSLESKLTSVSFL
+                     GDTLSFEEDRVNATVWKLPPTAGLEDLHIHSQKEEEQSEVQAYSLLLPRAVFQQTRGRR
+                     RDDAKRLLVVDFSSQALFQDKNSSQVLGEKVLGIVVQNTKVTNLSDPVVLTFQHQPQPK
+                     NVTLQCVFWVEDPASSSTGSWSSAGCETVSRDTQTSCLCNHLTYFAVLMVSSTEVEATH
+                     KHYLTLLSYVGCVISALACVFTIAAYLCSRRKSRDYTIKVHMNLLSAVFLLDVSFLLSE
+                     PVALTGSEAACRTSAMFLHFSLLACLSWMGLEGYNLYRLVVEVFGTYVPGYLLKLSIVG
+                     WGFPVFLVTLVALVDVNNYGPIILAVRRTPERVTYPSMCWIRDSLVSYVTNLGLFSLVF
+                     LFNLAMLATMVVQILRLRPHSQNWPHVLTLLGLSLVLGLPWALVFFSFASGTFQLVILY
+                     LFSIITSFQGFLIFLWYWSMRFQAQGGPSPLKNNSDSAKLPISSGSTSSSRI"
+     sig_peptide     313..387
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="/evidence=ECO:0000250|UniProtKB:Q9Y653; propagated
+                     from UniProtKB/Swiss-Prot (Q8K209.1)"
+     mat_peptide     388..2373
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /product="Adhesion G-protein coupled receptor G1.
+                     /id=PRO_0000012882"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8K209.1)"
+     misc_feature    427..429
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17576745; propagated from
+                     UniProtKB/Swiss-Prot (Q8K209.1); glycosylation site"
+     misc_feature    754..756
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17576745; propagated from
+                     UniProtKB/Swiss-Prot (Q8K209.1); glycosylation site"
+     misc_feature    823..825
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17576745; propagated from
+                     UniProtKB/Swiss-Prot (Q8K209.1); glycosylation site"
+     misc_feature    1012..1014
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17576745; propagated from
+                     UniProtKB/Swiss-Prot (Q8K209.1); glycosylation site"
+     misc_feature    1219..1221
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17576745; propagated from
+                     UniProtKB/Swiss-Prot (Q8K209.1); glycosylation site"
+     misc_feature    1282..1284
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17576745; propagated from
+                     UniProtKB/Swiss-Prot (Q8K209.1); glycosylation site"
+     misc_feature    1333..1335
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:17576745; propagated from
+                     UniProtKB/Swiss-Prot (Q8K209.1); glycosylation site"
+     misc_feature    1348..1497
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8K209.1);
+                     Region: GPS.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00098"
+     misc_feature    1456..1461
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="Cleavage, by autolysis.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00098; propagated
+                     from UniProtKB/Swiss-Prot (Q8K209.1); cleavage site"
+     misc_feature    1519..1581
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8K209.1);
+                     transmembrane region"
+     misc_feature    1639..1701
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8K209.1);
+                     transmembrane region"
+     misc_feature    1726..1788
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8K209.1);
+                     transmembrane region"
+     misc_feature    1849..1911
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8K209.1);
+                     transmembrane region"
+     misc_feature    2023..2085
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8K209.1);
+                     transmembrane region"
+     misc_feature    2122..2184
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8K209.1);
+                     transmembrane region"
+     misc_feature    2203..2265
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8K209.1);
+                     transmembrane region"
+     misc_feature    2302..2373
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q8K209.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            377..799
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            800..932
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            933..1080
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1081..1212
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1213..1329
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1330..1375
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1376..1479
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1480..1598
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1599..1867
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1868..1976
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1977..2245
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2246..3590
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3543..3548
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="hexamer: AATAAA"
+     polyA_site      3590
+                     /gene="Adgrg1"
+                     /gene_synonym="Cyt28; Gpr56; TM7LN4; TM7XN1"
+                     /note="major polyA site"
+ORIGIN
+        1 aaacagcctg gagagccatc aggaagtggt taggggtggc cacactccct acctctccag
+       61 ctgaacattt ttgagtctca gctgtcacag cataggtctc agagaagggt agtgggagat
+      121 aactagacaa ggagaattgg aaataccaca gccttgggaa gagccagaga ggagctgaga
+      181 tccattgtca cctgggtaag ttcatgcaga cccttggact ggggtcttgc gcagatggca
+      241 gtctgcttca cccaaggaga ccatttcact atgacttcta aagagaggct ctcactagca
+      301 ggtaggagta taatggctgt ccaggtgctg cggcagatgg tctacttcct actgagtctg
+      361 ttttctctgg tgcaaggtgc acacagtggc agcccccgag aagacttccg cttctgtggc
+      421 cagcggaacc agacccaaca gagcaccctc cactatgatc aatcttcaga gcctcacatc
+      481 tttgtgtgga acacagagga gaccctcaca attcgtgccc ccttcctggc agccccagat
+      541 attccccgct tcttcccaga gcctagaggg ctctatcact tctgcctcta ctggagtcgc
+      601 cacactggga gactccactt gcgctatggc aagcatgact acctgcttag tagccaagcc
+      661 tccagactcc tctgcttcca gaaacaggag cagagcctga agcagggagc cccgctgatc
+      721 gccacctctg tcagctcctg gcagattccc cagaacacca gcctgcctgg ggctccgagc
+      781 ttcatcttct ccttccacaa tgccccacac aaggtctccc acaatgcatc tgtggacatg
+      841 tgtgatctca agaaggaatt gcagcagctt agcaggtacc tgcagcaccc tcaaaaggct
+      901 gccaagcggc ccaccgcagc gttcatcagc cagcagttac agagcctgga gtcaaagctg
+      961 acctctgtga gcttcctggg agacacatta tcctttgagg aggaccgggt caatgctaca
+     1021 gtgtggaagc tgccacccac agccggtcta gaggatctgc atatccactc ccagaaggag
+     1081 gaggagcaga gtgaggtcca ggcatactcg ctgttgcttc cccgggccgt attccagcag
+     1141 accagaggcc gtcgccggga tgacgccaag aggctcctgg tagtagactt cagcagccaa
+     1201 gctttgttcc aggacaagaa ttctagccaa gtcctgggtg agaaggtctt gggtattgtc
+     1261 gtgcagaaca ccaaagtcac caacctctca gatccggtgg tactcacctt ccagcaccag
+     1321 cctcagccaa aaaatgtgac tctgcagtgc gtgttctggg ttgaagaccc ggcatcaagc
+     1381 agcacaggga gctggagcag tgcaggctgc gagacagtga gcagagacac acagacatcc
+     1441 tgcctgtgca accacctgac ctactttgca gtgctgatgg tgtcatccac agaggtagaa
+     1501 gccactcaca aacactacct cacgctcctg tcctacgtgg gctgtgtcat ctctgctctg
+     1561 gcttgtgtct tcactattgc tgcctacctc tgctccagga ggaagtcacg tgactacacc
+     1621 atcaaagtcc acatgaacct gctgtccgct gtcttcctgc tggacgtgag cttcctgctc
+     1681 agcgagcctg tggcactgac gggctccgaa gcagcctgtc gcaccagtgc catgttcctg
+     1741 cacttctccc tgcttgcctg cctctcctgg atgggcctcg agggctacaa tctctaccga
+     1801 ctggtggtgg aggtcttcgg tacctatgtg cccggctatc tgctcaagct gagcatcgtg
+     1861 ggctggggtt ttcctgtctt cctggtcact ctggtggcgt tggtggatgt gaataactac
+     1921 ggccccatta tcctagctgt gcgccggact ccggaacgtg tcacctaccc ctctatgtgc
+     1981 tggatccggg actccctggt gagctatgtc accaacctgg gcctcttcag tctggtgttc
+     2041 ctgttcaacc tggctatgct ggccaccatg gtggtgcaga tcctgcggct tcgcccgcac
+     2101 agccagaact ggccccacgt gctgaccctg ctgggcctca gcctggtcct tggcctcccc
+     2161 tgggccttgg tcttcttttc ctttgcttcc ggcaccttcc agcttgtcat cctctacctc
+     2221 ttcagcatca taacttcctt ccaaggcttc ctcatcttcc tgtggtactg gtccatgcgg
+     2281 ttccaggccc aaggcggccc ctcccctctg aagaacaact cagacagcgc caaactcccc
+     2341 atcagctccg gcagcacctc ctccagccgc atctaagcca ccgccacacc tcccctccgg
+     2401 gaggacacat gcatggcgtc cgctcacgat gtctgtggcc cagtgctgtg cccacccagc
+     2461 ctttgttggt tagtggcata ctagagaagg ccctggtcct tgaaggcgta gggctgttgc
+     2521 tctggtaggt agatacctag cttgccttgg ggacgactct ggtcctcaaa gggctcagaa
+     2581 gcacactgcc attctgtttg tggggccgtt tcagtctgga gctaaggcct tgtctttctg
+     2641 gccacctctg ggtccagctg ttgctgctgg gtgttgagac ctgcagaccc aagctggggt
+     2701 tagatctcga aggaggctga cacatccggc ctgagacaca gctaactgtc ttgacttgct
+     2761 gctctgtctc tgtggtcacc atgcagatcc cgagggtggc actgggggta aatgttctgg
+     2821 gagaaggttt ggaggcagag caccttagga gctgagcatc tcccccagcc tttctgcaaa
+     2881 ccctcctctt cattccccat ccccaacccc tcctctgtgt tcccctaacc ctccacctga
+     2941 agcctggggt cctagaccaa tgctgtgatt tggggtggta gttcccagca gtttcctggt
+     3001 gccagctatc aacttctgtc tgttgtgtgg gctttggcct ctgactcagg gcaggtttct
+     3061 gtctgagccc tctctccaag ctgcctcacc tttgctcgca cctcagaggg acctccatct
+     3121 ctcctgaagc ctcctccctc tggcaagtac tgggatacag ccaccctttc aacccagcac
+     3181 tctgaagacc aagacagccc cctctggtga cactggccaa gcttgatctt tttcctaaga
+     3241 agtggtcttc agatccctgc aggtcgctca gaagacactg ggctgcctag tgtgaattct
+     3301 gtcctactaa cgtacagtga gcagctcctc acccccaccc ccgcaaaagc tctcaccaag
+     3361 tcctggagtg tcaggcaggg ggctggaaat ccaggaggac ttcctgcaaa aggcagcatt
+     3421 tcatcttgac ctcagccttc aggttgggga gaatgttctt tttaaatacc agttcatttg
+     3481 tcttttgata ttaaagctct ttatagagag tctggaaact gtaggcgatt gtcgagaaga
+     3541 gaaataaaaa tgagctgtta tctaatgcca tggcaaagca gcacagtttg
+//

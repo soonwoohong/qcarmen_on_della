@@ -1,0 +1,214 @@
+LOCUS       NM_001252601            1780 bp    mRNA    linear   ROD 06-MAY-2025
+DEFINITION  Mus musculus interferon regulatory factor 7 (Irf7), transcript
+            variant 3, mRNA.
+ACCESSION   NM_001252601
+VERSION     NM_001252601.1
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1780)
+  AUTHORS   Zhao,T., Jin,K., Wang,X., Su,X., Wang,Y., Gao,M., Luo,W., Yang,H.
+            and Yang,Z.
+  TITLE     GPAT4 sustains endoplasmic reticulum homeostasis in endocardial
+            cells and safeguards heart development
+  JOURNAL   Nat Commun 16 (1), 3345 (2025)
+   PUBMED   40199910
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1780)
+  AUTHORS   Sepahpour,T., Alshaweesh,J., Azodi,N., Singh,K., Ireland,D.D.C.,
+            Valanezhad,F., Nakamura,R., Satoskar,A.R., Dey,R., Hamano,S.,
+            Nakhasi,H.L. and Gannavaram,S.
+  TITLE     Downregulation of IRF7-mediated type-I interferon response by
+            LmCen-/- parasites is necessary for protective immunity
+  JOURNAL   NPJ Vaccines 9 (1), 250 (2024)
+   PUBMED   39702382
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1780)
+  AUTHORS   Wang,C., Khatun,M.S., Ellsworth,C.R., Chen,Z., Islamuddin,M.,
+            Nisperuza Vidal,A.K., Afaque Alam,M., Liu,S., Mccombs,J.E.,
+            Maness,N.J., Blair,R.V., Kolls,J.K. and Qin,X.
+  TITLE     Deficiency of Tlr7 and Irf7 in mice increases the severity of
+            COVID-19 through the reduced interferon production
+  JOURNAL   Commun Biol 7 (1), 1162 (2024)
+   PUBMED   39289468
+  REMARK    GeneRIF: Deficiency of Tlr7 and Irf7 in mice increases the severity
+            of COVID-19 through the reduced interferon production. Publication
+            Status: Online-Only
+REFERENCE   4  (bases 1 to 1780)
+  AUTHORS   Kim,H., Choi,I.A., Umemoto,A., Bae,S., Kaneko,K., Mizuno,M.,
+            Giannopoulou,E., Pannellini,T., Deng,L. and Park-Min,K.H.
+  TITLE     SREBP2 restricts osteoclast differentiation and activity by
+            regulating IRF7 and limits inflammatory bone erosion
+  JOURNAL   Bone Res 12 (1), 48 (2024)
+   PUBMED   39191742
+  REMARK    GeneRIF: SREBP2 restricts osteoclast differentiation and activity by
+            regulating IRF7 and limits inflammatory bone erosion. Publication
+            Status: Online-Only
+REFERENCE   5  (bases 1 to 1780)
+  AUTHORS   Carus-Cadavieco,M., Gonzalez de la Fuente,S., Berenguer Lopez,I.,
+            Serrano-Lope,M.A., Aguado,B., Guix,F., Palomer,E. and Dotti,C.G.
+  TITLE     Loss of Cldn5 -and increase in Irf7-in the hippocampus and cerebral
+            cortex of diabetic mice at the early symptomatic stage
+  JOURNAL   Nutr Diabetes 14 (1), 64 (2024)
+   PUBMED   39147772
+  REMARK    GeneRIF: Loss of Cldn5 -and increase in Irf7-in the hippocampus and
+            cerebral cortex of diabetic mice at the early symptomatic stage.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 1780)
+  AUTHORS   Yoshida,H., Okabe,Y., Kawane,K., Fukuyama,H. and Nagata,S.
+  TITLE     Lethal anemia caused by interferon-beta produced in mouse embryos
+            carrying undigested DNA
+  JOURNAL   Nat Immunol 6 (1), 49-56 (2005)
+   PUBMED   15568025
+REFERENCE   7  (bases 1 to 1780)
+  AUTHORS   Honda,K., Yanai,H., Mizutani,T., Negishi,H., Shimada,N., Suzuki,N.,
+            Ohba,Y., Takaoka,A., Yeh,W.C. and Taniguchi,T.
+  TITLE     Role of a transductional-transcriptional processor complex involving
+            MyD88 and IRF-7 in Toll-like receptor signaling
+  JOURNAL   Proc Natl Acad Sci U S A 101 (43), 15416-15421 (2004)
+   PUBMED   15492225
+  REMARK    GeneRIF: transcription factor IRF-7 interacts with MyD88 to form a
+            complex in the cytoplasm
+REFERENCE   8  (bases 1 to 1780)
+  AUTHORS   Kawai,T., Sato,S., Ishii,K.J., Coban,C., Hemmi,H., Yamamoto,M.,
+            Terai,K., Matsuda,M., Inoue,J., Uematsu,S., Takeuchi,O. and Akira,S.
+  TITLE     Interferon-alpha induction through Toll-like receptors involves a
+            direct interaction of IRF7 with MyD88 and TRAF6
+  JOURNAL   Nat Immunol 5 (10), 1061-1068 (2004)
+   PUBMED   15361868
+  REMARK    GeneRIF: TLR-mediated IFN-alpha induction requires the formation of
+            a complex consisting of MyD88, TRAF6 and IRF7 as well as
+            TRAF6-dependent ubiquitination.
+REFERENCE   9  (bases 1 to 1780)
+  AUTHORS   Wang,Y.X., Zhang,C.L., Yu,R.T., Cho,H.K., Nelson,M.C.,
+            Bayuga-Ocampo,C.R., Ham,J., Kang,H. and Evans,R.M.
+  TITLE     Regulation of muscle fiber type and running endurance by PPARdelta
+  JOURNAL   PLoS Biol 2 (10), e294 (2004)
+   PUBMED   15328533
+  REMARK    Erratum:[PLoS Biol. 2005 Jan;3(1):e61]
+REFERENCE   10  (bases 1 to 1780)
+  AUTHORS   Hoebe,K., Du,X., Goode,J., Mann,N. and Beutler,B.
+  TITLE     Lps2: a new locus required for responses to lipopolysaccharide,
+            revealed by germline mutagenesis and phenotypic screening
+  JOURNAL   J Endotoxin Res 9 (4), 250-255 (2003)
+   PUBMED   12935356
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK002830.1, SRR13422592.320963.1
+            [ECO:0000332]
+            RNAseq introns :: mixed/partial sample support SAMN00849374,
+            SAMN00849375 [ECO:0000350]
+            ##Evidence-Data-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BY155234.1, AK002830.1, DT923384.1, AK151470.1 and BQ033099.1.
+            Transcript Variant: This variant (3) uses a different splice site
+            in the coding region, compared to variant 1. The resulting protein
+            (isoform 3) is shorter when it is compared to isoform 1.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..1780
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="7"
+                     /map="7 86.57 cM"
+     gene            1..1780
+                     /gene="Irf7"
+                     /note="interferon regulatory factor 7"
+                     /db_xref="GeneID:54123"
+                     /db_xref="MGI:MGI:1859212"
+     exon            1..35
+                     /gene="Irf7"
+                     /inference="alignment:Splign:2.1.0"
+     exon            36..457
+                     /gene="Irf7"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    411..413
+                     /gene="Irf7"
+                     /note="upstream in-frame stop codon"
+     CDS             444..1721
+                     /gene="Irf7"
+                     /note="isoform 3 is encoded by transcript variant 3; IRF-7"
+                     /codon_start=1
+                     /product="interferon regulatory factor 7 isoform 3"
+                     /protein_id="NP_001239530.1"
+                     /db_xref="CCDS:CCDS57594.1"
+                     /db_xref="GeneID:54123"
+                     /db_xref="MGI:MGI:1859212"
+                     /translation="MAEVRGVQRVLFGDWLLGEVSSGQYEGLQWLNEARTVFRVPWKHF
+                     GRRDLDEEDAQIFKAWAVARGRWPPSGVNLPPPEAEAAERRERRGWKTNFRCALHSTGR
+                     FILRQDNSGDPVDPHKVYELSRELGSTVGPATENREEVSLSNALPTQVLQYSHILESES
+                     GADPVPPQAPGQEQDRVYEEPYAAWQVEAVPSPRPQQPALTERSLGFLDVTIMYKGRTV
+                     LQAVVGHPRCVFLYSPMAPAVRTSEPQPVIFPSPAELPDQKQLHYTETLLQHVSPGLQL
+                     ELRGPSLWALRMGKCKVYWEVGSPMGTTGPSTPPQLLERNRHTPIFDFSTFFRELEEFR
+                     ARRRQGSPHYTIYLGFGQDLSAGRPKEKTLILVKLEPWVCKAYLEGVQREGVSSLDSSS
+                     LGLCLSSTNSLYEDIEHFLMDLGQWP"
+     exon            458..620
+                     /gene="Irf7"
+                     /inference="alignment:Splign:2.1.0"
+     exon            621..837
+                     /gene="Irf7"
+                     /inference="alignment:Splign:2.1.0"
+     exon            838..896
+                     /gene="Irf7"
+                     /inference="alignment:Splign:2.1.0"
+     exon            897..963
+                     /gene="Irf7"
+                     /inference="alignment:Splign:2.1.0"
+     exon            964..1056
+                     /gene="Irf7"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1057..1446
+                     /gene="Irf7"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1447..1565
+                     /gene="Irf7"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1566..1763
+                     /gene="Irf7"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1740..1745
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Irf7"
+                     /note="hexamer: AATAAA"
+     polyA_site      1763
+                     /gene="Irf7"
+                     /note="major polyA site"
+ORIGIN
+        1 tgagataaaa cccgtcccgg cggctccggt accagggtcc agcctgtgac agcccatcca
+       61 ggctcggacg ctggattaac acctgtgaca tcacgtgtgc gctcccgcta catctgtagt
+      121 cacatctaca gccaccttgg cagaggaatc tacactgagt tctgaaccta ggtgaccaca
+      181 agttctcaaa cctcatctgt gaccctcaac accctaatac ctgggtcaca cttgtgaaac
+      241 tgaaattcct acctgttacc aacacttgta acgtttaaaa cacatttgtg aaacttggtc
+      301 acactatctg tggctacaac ctaaaaccat agaggcaccc aaggggcctt atttgcaata
+      361 gctgactgct ccagtgacta caaggcatca cagagtagta gcatctactt tgattctccc
+      421 agactgcctg tgtagacgga gcaatggctg aagtgagggg ggtccagcga gtgctgtttg
+      481 gagactggct attgggggag gtcagcagcg gccagtacga ggggctgcag tggctgaacg
+      541 aggctcgcac agtcttccgc gtaccctgga agcatttcgg tcgtagggat ctggatgaag
+      601 aagatgcaca gatcttcaag gcctgggctg tggcccgagg gaggtggcca cctagtggag
+      661 ttaacctgcc acccccagag gctgaggctg ctgagcgaag agagcgaaga ggctggaaga
+      721 ccaacttccg ctgtgcactc cacagcacag ggcgttttat cttgcgccaa gacaattcag
+      781 gggatccagt tgatccgcat aaggtgtacg aacttagccg ggagcttgga tctactgtgg
+      841 gcccagccac ggaaaatagg gaagaagtga gcctcagcaa tgctctgccc acacaggttc
+      901 tgcagtacag ccacatactg gaatccgagt ctggggcaga ccccgtccca ccacaggctc
+      961 ctggccagga gcaagaccgt gtttacgagg aaccctatgc agcatggcag gtggaagctg
+     1021 tccccagtcc caggcctcaa cagccagctc tcaccgagcg cagccttggg ttcctggatg
+     1081 tgaccatcat gtacaagggc cgcacagtgc tacaggcagt ggtggggcac cccagatgcg
+     1141 tgttcctgta cagccccatg gccccagcag taagaacttc agagccccag ccggtgatct
+     1201 ttcccagtcc tgctgagctc ccagatcaga agcagctgca ctacacagag acgcttctcc
+     1261 agcatgtgtc tcccggcctt cagctggagc ttcgaggacc gtcactgtgg gccctgcgta
+     1321 tgggcaagtg caaggtgtac tgggaggtag gcagccctat gggcactacc ggcccctcca
+     1381 ccccacccca gctgctggag cgcaaccgcc acacccccat cttcgacttc agcactttct
+     1441 tccgagaact ggaggagttt cgggctcgga ggcggcaagg gtcaccacac tacaccatct
+     1501 acctgggttt tgggcaagac ttgtcagcag ggaggcccaa ggagaagacc ctgatcctgg
+     1561 tgaagctgga gccatgggta tgcaaggcat acctggaggg cgtgcagcgt gagggtgtgt
+     1621 cctccctgga cagcagcagt ctcggcttgt gcttgtctag caccaacagt ctctacgaag
+     1681 acatcgaaca cttcctcatg gacctgggtc agtggccttg actcagaatc ccaactccca
+     1741 ataaatagtt caaaatcagt ggaaaaaaaa aaaaaaaaaa
+//

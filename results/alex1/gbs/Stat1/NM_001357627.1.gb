@@ -1,0 +1,450 @@
+LOCUS       NM_001357627            5131 bp    mRNA    linear   ROD 06-MAY-2025
+DEFINITION  Mus musculus signal transducer and activator of transcription 1
+            (Stat1), transcript variant 4, mRNA.
+ACCESSION   NM_001357627
+VERSION     NM_001357627.1
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 5131)
+  AUTHORS   Zhao,T., Jin,K., Wang,X., Su,X., Wang,Y., Gao,M., Luo,W., Yang,H.
+            and Yang,Z.
+  TITLE     GPAT4 sustains endoplasmic reticulum homeostasis in endocardial
+            cells and safeguards heart development
+  JOURNAL   Nat Commun 16 (1), 3345 (2025)
+   PUBMED   40199910
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 5131)
+  AUTHORS   Zhang,J., Gao,J., Zeng,X., Wang,Z., Chen,C., Rong,C., Li,S., Cai,L.,
+            Wang,L., Zhang,L. and Tian,Z.
+  TITLE     A novel Cdc42-YAP-fibronectin signaling axis regulates ameloblast
+            differentiation during early enamel formation
+  JOURNAL   Biochim Biophys Acta Mol Basis Dis 1871 (2), 167570 (2025)
+   PUBMED   39547518
+REFERENCE   3  (bases 1 to 5131)
+  AUTHORS   Solomon,A., Bossel Ben-Moshe,N., Hoffman,D., Trzebanski,S.,
+            Yehezkel,D., Vainman,L., Netea,M.G. and Avraham,R.
+  TITLE     Early and delayed STAT1-dependent responses drive local trained
+            immunity of macrophages in the spleen
+  JOURNAL   Elife 13, 100922 (2025)
+   PUBMED   39819562
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 5131)
+  AUTHORS   Jena,K.K., Mambu,J., Boehmer,D., Sposito,B., Millet,V., de Sousa
+            Casal,J., Muendlein,H.I., Spreafico,R., Fenouil,R., Spinelli,L.,
+            Wurbel,S., Riquier,C., Galland,F., Naquet,P., Chasson,L., Elkins,M.,
+            Mitsialis,V., Ketelut-Carneiro,N., Bugda Gwilt,K., Thiagarajah,J.R.,
+            Ruan,H.B., Lin,Z., Lien,E., Shao,F., Chou,J., Poltorak,A.,
+            Ordovas-Montanes,J., Fitzgerald,K.A., Snapper,S.B., Broggi,A. and
+            Zanoni,I.
+  TITLE     Type III interferons induce pyroptosis in gut epithelial cells and
+            impair mucosal repair
+  JOURNAL   Cell 187 (26), 7533-7550 (2024)
+   PUBMED   39500322
+REFERENCE   5  (bases 1 to 5131)
+  AUTHORS   Strobl,K., Klufa,J., Jin,R., Artner-Gent,L., Krauss,D., Novoszel,P.,
+            Strobl,J., Stary,G., Vujic,I., Griss,J., Holcmann,M., Farlik,M.,
+            Homey,B., Sibilia,M. and Bauer,T.
+  TITLE     JAK-STAT1 as therapeutic target for EGFR deficiency-associated
+            inflammation and scarring alopecia
+  JOURNAL   EMBO Mol Med 16 (12), 3142-3168 (2024)
+   PUBMED   39521937
+REFERENCE   6  (bases 1 to 5131)
+  AUTHORS   Novak,U., Harpur,A.G., Paradiso,L., Kanagasundaram,V.,
+            Jaworowski,A., Wilks,A.F. and Hamilton,J.A.
+  TITLE     Colony-stimulating factor 1-induced STAT1 and STAT3 activation is
+            accompanied by phosphorylation of Tyk2 in macrophages and Tyk2 and
+            JAK1 in fibroblasts
+  JOURNAL   Blood 86 (8), 2948-2956 (1995)
+   PUBMED   7579387
+REFERENCE   7  (bases 1 to 5131)
+  AUTHORS   Finidori,J. and Kelly,P.A.
+  TITLE     Cytokine receptor signalling through two novel families of
+            transducer molecules: Janus kinases, and signal transducers and
+            activators of transcription
+  JOURNAL   J Endocrinol 147 (1), 11-23 (1995)
+   PUBMED   7490523
+  REMARK    Review article
+REFERENCE   8  (bases 1 to 5131)
+  AUTHORS   Harroch,S., Gothelf,Y., Revel,M. and Chebath,J.
+  TITLE     5' upstream sequences of MyD88, an IL-6 primary response gene in M1
+            cells: detection of functional IRF-1 and Stat factors binding sites
+  JOURNAL   Nucleic Acids Res 23 (17), 3539-3546 (1995)
+   PUBMED   7567467
+REFERENCE   9  (bases 1 to 5131)
+  AUTHORS   Matsuda,T. and Hirano,T.
+  TITLE     Association of p72 tyrosine kinase with Stat factors and its
+            activation by interleukin-3, interleukin-6, and granulocyte
+            colony-stimulating factor
+  JOURNAL   Blood 83 (12), 3457-3461 (1994)
+   PUBMED   7515712
+REFERENCE   10  (bases 1 to 5131)
+  AUTHORS   Zhong,Z., Wen,Z. and Darnell,J.E. Jr.
+  TITLE     Stat3 and Stat4: members of the family of signal transducers and
+            activators of transcription
+  JOURNAL   Proc Natl Acad Sci U S A 91 (11), 4806-4810 (1994)
+   PUBMED   7545930
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660815.16280.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849375,
+            SAMN00849380 [ECO:0000348]
+            ##Evidence-Data-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC123752.8.
+            On Nov 4, 2017 this sequence version replaced XM_006495811.3.
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..5131
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="1"
+                     /map="1 26.81 cM"
+     gene            1..5131
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="signal transducer and activator of transcription 1"
+                     /db_xref="GeneID:20846"
+                     /db_xref="MGI:MGI:103063"
+     exon            1..186
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            187..310
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    266..268
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="upstream in-frame stop codon"
+     exon            311..441
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             314..2563
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="isoform 2 is encoded by transcript variant 4"
+                     /codon_start=1
+                     /product="signal transducer and activator of transcription
+                     1 isoform 2"
+                     /protein_id="NP_001344556.1"
+                     /db_xref="CCDS:CCDS56628.1"
+                     /db_xref="GeneID:20846"
+                     /db_xref="MGI:MGI:103063"
+                     /translation="MSQWFELQQLDSKFLEQVHQLYDDSFPMEIRQYLAQWLEKQDWEH
+                     AAYDVSFATIRFHDLLSQLDDQYSRFSLENNFLLQHNIRKSKRNLQDNFQEDPVQMSMI
+                     IYNCLKEERKILENAQRFNQAQEGNIQNTVMLDKQKELDSKVRNVKDQVMCIEQEIKTL
+                     EELQDEYDFKCKTSQNREGEANGVAKSDQKQEQLLLHKMFLMLDNKRKEIIHKIRELLN
+                     SIELTQNTLINDELVEWKRRQQSACIGGPPNACLDQLQSWFTIVAETLQQIRQQLKKLE
+                     ELEQKFTYEPDPITKNKQVLSDRTFLLFQQLIQSSFVVERQPCMPTHPQRPLVLKTGVQ
+                     FTVKLRLLVKLQELNYNLKVKVSFDKDVNEKNTVKGFRKFNILGTHTKVMNMEESTNGS
+                     LAAEFRHLQLKEQKNAGNRTNEGPLIVTEELHSLSFETQLCQPGLVIDLETTSLPVVVI
+                     SNVSQLPSGWASILWYNMLVTEPRNLSFFLNPPCAWWSQLSEVLSWQFSSVTKRGLNAD
+                     QLSMLGEKLLGPNAGPDGLIPWTRFCKENINDKNFSFWPWIDTILELIKKHLLCLWNDG
+                     CIMGFISKERERALLKDQQPGTFLLRFSESSREGAITFTWVERSQNGGEPDFHAVEPYT
+                     KKELSAVTFPDIIRNYKVMAAENIPENPLKYLYPNIDKDHAFGKYYSRPKEAPEPMELD
+                     DPKRTGYIKTELISVSEVHPSRLQTTDNLLPMSPEEFDEMSRIVGPEFDSMMSTV"
+     misc_feature    317..319
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="N-acetylserine.
+                     /evidence=ECO:0000250|UniProtKB:P42224; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); acetylation site"
+     misc_feature    653..655
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="N6-methyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P42224; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); methylation site"
+     misc_feature    836..838
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="N6-methyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P42224; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); methylation site"
+     misc_feature    1199..1201
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="N6-methyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P42224; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); methylation site"
+     misc_feature    1409..1411
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="N6-methyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P42224; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); methylation site"
+     misc_feature    1886..1888
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="N6-methyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P42224; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); methylation site"
+     misc_feature    2222..2224
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="N6-methyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P42224; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); methylation site"
+     misc_feature    2306..2308
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="N6-methyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P42224; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); methylation site"
+     misc_feature    2414..2416
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="Phosphotyrosine, by JAK1, JAK2 or TYK2.
+                     /evidence=ECO:0000269|PubMed:19088846,
+                     ECO:0000269|PubMed:22065572, ECO:0000269|PubMed:38621137;
+                     propagated from UniProtKB/Swiss-Prot (P42225.1);
+                     phosphorylation site"
+     misc_feature    2435..2437
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="Phosphoserine, by IKKE.
+                     /evidence=ECO:0000269|PubMed:17332413,
+                     ECO:0000269|PubMed:22065572; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); phosphorylation site"
+     misc_feature    2483..2485
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="Required for recruitment of EP300/p300.
+                     /evidence=ECO:0000250|UniProtKB:P42224; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); other site"
+     misc_feature    2492..2494
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="Phosphoserine, by CaMK2 and MAPK14.
+                     /evidence=ECO:0000269|PubMed:11972023,
+                     ECO:0000269|PubMed:22065572, ECO:0000269|PubMed:38621137;
+                     propagated from UniProtKB/Swiss-Prot (P42225.1);
+                     phosphorylation site"
+     misc_feature    2543..2545
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="Phosphoserine, by IKKE.
+                     /evidence=ECO:0000305|PubMed:17332413; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); phosphorylation site"
+     misc_feature    2555..2557
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="Phosphothreonine, by IKKB.
+                     /evidence=ECO:0000269|PubMed:38621137; propagated from
+                     UniProtKB/Swiss-Prot (P42225.1); phosphorylation site"
+     exon            442..586
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            587..685
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            686..775
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            776..854
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            855..946
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            947..1098
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1099..1257
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1258..1350
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1351..1410
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1411..1440
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1441..1534
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1535..1576
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1577..1660
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1661..1759
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1760..1895
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1896..1945
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1946..2040
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2041..2186
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2187..2372
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2373..2448
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2449..2548
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2549..5131
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      3280..3285
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="hexamer: AATAAA"
+     polyA_site      3303
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="major polyA site"
+     regulatory      4170..4175
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="hexamer: TATAAA"
+     polyA_site      4190
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+     regulatory      5110..5115
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+                     /note="hexamer: AATAAA"
+     polyA_site      5129
+                     /gene="Stat1"
+                     /gene_synonym="2010005J02Rik"
+ORIGIN
+        1 aggaggcggg acgccctcta gccttttttc ctgcccggta ctttcggttt tcagcgccga
+       61 gtctgtcaaa gctccctgga gacctccggg accgcgcccc tcagacccac ttgggacact
+      121 gctgagcggc gcagagagat ttgcccagac tcgagctcct gcgtgcagtg agtgagtgag
+      181 agccagtcgt ttcagctctg ctccataccc tgagccggcg ccacgccgcc gcgcatgcaa
+      241 ctggcatata acttgctgtg tgtggtgatt gcttgtgttg aatcccgaac ctgcacccgg
+      301 agacagccca aggatgtcac agtggttcga gcttcagcag ctggactcca agttcctgga
+      361 gcaggtccac cagctgtacg atgacagttt ccccatggaa atcagacagt acctggccca
+      421 gtggctggaa aagcaagact gggagcacgc tgcctatgat gtctcgtttg cgaccatccg
+      481 cttccatgac ctcctctcac agctggacga ccagtacagc cgcttttctc tggagaataa
+      541 tttcttgttg cagcacaaca tacggaaaag caagcgtaat ctccaggata acttccaaga
+      601 agatcccgta cagatgtcca tgatcatcta caactgtctg aaggaagaaa ggaagatttt
+      661 ggaaaatgcc caaagattta atcaggccca ggagggaaat attcagaaca ctgtgatgtt
+      721 agataaacag aaggagctgg acagtaaagt cagaaatgtg aaggatcaag tcatgtgcat
+      781 agagcaggaa atcaagaccc tagaagaatt acaagatgaa tatgacttta aatgcaaaac
+      841 ctctcagaac agagaaggtg aagccaatgg tgtggcgaag agcgaccaaa aacaggaaca
+      901 gctgctgctc cacaagatgt ttttaatgct tgacaataag agaaaggaga taattcacaa
+      961 aatcagagag ttgctgaatt ccatcgagct cactcagaac actctgatta atgacgagct
+     1021 cgtggagtgg aagcgaaggc agcagagcgc ctgcatcggg ggaccgccca acgcctgcct
+     1081 ggatcagctg caaagctggt tcaccattgt tgcagagacc ctgcagcaga tccgtcagca
+     1141 gcttaaaaag ctggaggagt tggaacagaa attcacctat gagcccgacc ctattacaaa
+     1201 aaacaagcag gtgttgtcag atcgaacctt cctcctcttc cagcagctca ttcagagctc
+     1261 cttcgtggta gaacgacagc cgtgcatgcc cactcacccg cagaggcccc tggtcttgaa
+     1321 gactggggta cagttcactg tcaagctgag actgttggtg aaattgcaag agctgaacta
+     1381 taacttgaaa gtgaaagtct catttgacaa agatgtgaac gagaaaaaca cagttaaagg
+     1441 atttcggaag ttcaacatct tgggtacgca cacaaaagtg atgaacatgg aagaatccac
+     1501 caacggaagt ctggcagctg agttccgaca cctgcaactg aaggaacaga aaaacgctgg
+     1561 gaacagaact aatgaggggc ctctcattgt caccgaagaa cttcactctc ttagctttga
+     1621 aacccagttg tgccagccag gcttggtgat tgacctggag accacctctc ttcctgtcgt
+     1681 ggtgatctcc aacgtcagcc agctccccag tggctgggcg tctatcctgt ggtacaacat
+     1741 gctggtgaca gagcccagga atctctcctt cttcctgaac cccccgtgcg cgtggtggtc
+     1801 ccagctctca gaggtgttga gttggcagtt ttcatcagtc accaagagag gtctgaacgc
+     1861 agaccagctg agcatgctgg gagagaagct gctgggccct aatgctggcc ctgatggtct
+     1921 tattccatgg acaaggtttt gtaaggaaaa tattaatgat aaaaatttct ccttctggcc
+     1981 ttggattgac accatcctag agctcattaa gaagcacctg ctgtgcctct ggaatgatgg
+     2041 gtgcattatg ggcttcatca gcaaggagcg agaacgcgct ctgctcaagg accagcagcc
+     2101 agggacgttc ctgcttagat tcagtgagag ctcccgggaa ggggccatca cattcacatg
+     2161 ggtggaacgg tcccagaacg gaggtgaacc tgacttccat gccgtggagc cctacacgaa
+     2221 aaaagaactt tcagctgtta ctttcccaga tattattcgc aactacaaag tcatggctgc
+     2281 cgagaacata ccagagaatc ccctgaagta tctgtacccc aatattgaca aagaccacgc
+     2341 ctttgggaag tattattcca gaccaaagga agcaccagaa ccgatggagc ttgacgaccc
+     2401 taagcgaact ggatacatca agactgagtt gatttctgtg tctgaagtcc acccttctag
+     2461 acttcagacc acagacaacc tgcttcccat gtctccagag gagtttgatg agatgtcccg
+     2521 gatagtgggc cccgaatttg acagtatgat gagcacagta taaacacgaa tttctctctg
+     2581 gcgacatttt tttcccatct gtgattcctt cctgctactg ttccttcata tgcagtattt
+     2641 ctagggaaat gcaagaaaga aagagcatca catttgctga gcactgctgg tagaaagtgg
+     2701 atatttctct aattagaaac ctgttactct gaaggacttc atgcatctta ctgaaggtga
+     2761 aatggaaagt cacttaacac aaaatggatt ttgtaaacaa agaccaagag atccacccaa
+     2821 gcaccaggac tagagtgcga gtatttgggg caaggtgagg agaacggtca ctttagtaat
+     2881 ggtctgtaat cagtgcccaa gtgctgcaca tcactggaaa gagacatact tatgggggag
+     2941 gggccttctt gatggaggaa tgtttctgtc ccgggagaca ttggcacttc ccctctcctg
+     3001 gatggccgga agtcttccac tgttttacat atggcacagt tcaaagtcaa ctttagatcc
+     3061 aatgctctat caaactatag tgggcatcct tcatgtgagt gggaagaaaa caaccgtgct
+     3121 ccttactgca gcttctgcca aggcatggtt gctctcctca gggactagct ttgttggtgg
+     3181 caatggctac acaaaactaa acaccaacag aagtaagacc attttcatga gtactccatc
+     3241 aagttaaagg gtttttgttg tctttttggt catggattga ataaaattgt ctttgcacat
+     3301 ccattaaggg ggccagcttt cttaaagcaa tttttctttt tttttaacta aaattagata
+     3361 taggtgaact catgtttttt agtgggctga acttatcggt tttagctggt tgtcttaatt
+     3421 agccataaac ttggagaaag cagtgacttc ttgaatcctt agccaaatat gagtatcaga
+     3481 taattttatt attttttttt cgagacaggg tttctctgtg tagccctggc tattctggaa
+     3541 ctcactctgt agatcaggct ggcctggaac tcagaaatcc gcctgtctct gcctcccgag
+     3601 tgctgggatt aaaggtgtgc accaccaatg cctggtgaga taactttaaa gaactcccta
+     3661 taaatgcatg agaaccactg ttactgatga atgtggtttt ttgacaacta cattcacaaa
+     3721 tggcctgtct tgtgttttgt caccgttttg agggatgatg ttttgtggca cgtgtgtgat
+     3781 cacagcctga tggttctggt cgtgggttgg ttcttctggg ccagctttca cagactgctg
+     3841 cgcagctgca cctacagtgc tgccccataa tactgtttca ctttggtgaa gatcagccca
+     3901 ccttacaccc cgagtgcagg tgtgaaccac ggtaagtgtg cacagtcctt agggaaaaca
+     3961 gggacgcaga ggcctgcctc ctctcttttc catgccaaaa tgaaatgacc aagaaacaaa
+     4021 acatttaaaa agttgtttct aaatgctgag acctaaccat tgcttatata ctgttgtctg
+     4081 ttgaaacagt ttgttacaat ttcattctgt tgaactaggt gagactttaa gaaatgttga
+     4141 aattatgtta atttcctatt attatttaat ataaagatat ttaaaatgtc tagtgttatg
+     4201 agttggttta atatatatct catgtatgta tcagtcctat tttaagcgct ttttaaaaaa
+     4261 gacttgttta ggtatatatt ttatgtatat gggtgtttta tctgaatgta tggacaccag
+     4321 aagagagcac tgggtcccat gagactacag tcaaatggga tcacagtcag atgcaatttt
+     4381 gagctgccat gtgggtgctg ggatttgaac tcagggcctc tggaagaaca gccagtgctt
+     4441 ttaactgctg aaccatctct tgggacgcct atgggtccta ttttaaagga agaccgatat
+     4501 ttcccaagtg tcacccttgc ttactctact gcagacacag gaactatggc agtttaaggt
+     4561 aggtcagcgg gcaggcccag cggtgaggcc tctctgaggt agaggcctgg ggatcaggcg
+     4621 tttagtcatt caaggccggc agggctccat gggatcacat ccaagtcagg gcaagacatc
+     4681 cacttacact ttcaggtagc tgcctgttag acgtcaccaa gcatgtccta gcttaagtat
+     4741 gacgaggatg gcattttcta agtacagagc atatatgtag cacttgggat aagctgatct
+     4801 agggacttcc tgaggcggca gagcttaaag tggactccat tgactgcttg gagactactg
+     4861 tggaatgaag gcatgtctca gtaaacagaa caaacctgtg gcatctgtct gcctcaggga
+     4921 ggcatcagac aaagctggaa aggatttaga aaattctttt acctactctg ggagctggga
+     4981 ggctgtcctt catcccgagg gcattattta tctgaaggca tcttttgttt aagattcatt
+     5041 catttgttcc tcaaatatgt tcagtgcctg ccttgcacca ggcactattc tagatgcgtt
+     5101 gaaggcacta ataaaagaaa tgcctcacag t
+//

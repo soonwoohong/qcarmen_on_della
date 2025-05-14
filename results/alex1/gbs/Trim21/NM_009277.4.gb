@@ -1,0 +1,257 @@
+LOCUS       NM_009277               2790 bp    mRNA    linear   ROD 28-APR-2025
+DEFINITION  Mus musculus tripartite motif-containing 21 (Trim21), transcript
+            variant 1, mRNA.
+ACCESSION   NM_009277
+VERSION     NM_009277.4
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2790)
+  AUTHORS   Mehlmann,L.M., Uliasz,T.F., Yee,S.P., Kaback,D. and Lowther,K.M.
+  TITLE     Generation and Characterization of a TRIM21 Overexpressing Mouse
+            Line
+  JOURNAL   Genesis 62 (5), e23616 (2024)
+   PUBMED   39487578
+REFERENCE   2  (bases 1 to 2790)
+  AUTHORS   Yang,L., Hu,C., Chen,X., Zhang,J., Feng,Z., Xiao,Y., He,W., Cui,T.,
+            Zhang,X., Yang,Y., Zhang,Y. and Yan,Y.
+  TITLE     Upregulated expression of ubiquitin ligase TRIM21 promotes PKM2
+            nuclear translocation and astrocyte activation in experimental
+            autoimmune encephalomyelitis
+  JOURNAL   Elife 13, 98181 (2024)
+   PUBMED   39264698
+  REMARK    GeneRIF: Upregulated expression of ubiquitin ligase TRIM21 promotes
+            PKM2 nuclear translocation and astrocyte activation in experimental
+            autoimmune encephalomyelitis. Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2790)
+  AUTHORS   Guo,Y.Y., Gao,Y., Zhao,Y.L., Xie,C., Gan,H., Cheng,X., Yang,L.P.,
+            Hu,J., Shu,H.B., Zhong,B., Lin,D. and Yao,J.
+  TITLE     Viral infection and spread are inhibited by the polyubiquitination
+            and downregulation of TRPV2 channel by the interferon-stimulated
+            gene TRIM21
+  JOURNAL   Cell Rep 43 (4), 114095 (2024)
+   PUBMED   38613787
+  REMARK    GeneRIF: Viral infection and spread are inhibited by the
+            polyubiquitination and downregulation of TRPV2 channel by the
+            interferon-stimulated gene TRIM21.
+REFERENCE   4  (bases 1 to 2790)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   5  (bases 1 to 2790)
+  AUTHORS   Lin,M., Xian,H., Chen,Z., Wang,S., Liu,M., Liang,W., Tang,Q.,
+            Liu,Y., Huang,W., Che,D., Guo,C., Idiiatullina,E., Fang,R.,
+            Al-Azab,M., Chang,J., Wang,R., Li,X., Zuo,X., Zhang,Y., Zhao,J.,
+            Tang,Y., Jin,S., He,Z., Feng,D., Lu,L., Zhang,K., Wu,Y., Bai,F.,
+            Lew,A.M., Cui,J., Wu,Y., Gu,X. and Zhang,Y.
+  TITLE     MCM8-mediated mitophagy protects vascular health in response to
+            nitric oxide signaling in a mouse model of Kawasaki disease
+  JOURNAL   Nat Cardiovasc Res 2 (8), 778-792 (2023)
+   PUBMED   39195969
+REFERENCE   6  (bases 1 to 2790)
+  AUTHORS   Keeble,A.H., Khan,Z., Forster,A. and James,L.C.
+  TITLE     TRIM21 is an IgG receptor that is structurally, thermodynamically,
+            and kinetically conserved
+  JOURNAL   Proc Natl Acad Sci U S A 105 (16), 6045-6050 (2008)
+   PUBMED   18420815
+  REMARK    GeneRIF: TRIM21 is a previously undescribed type of IgG receptor
+            based on a non-Ig scaffold whose interaction at the fundamental
+            level-structural, thermodynamic, and kinetic-is evolutionarily
+            conserved.
+REFERENCE   7  (bases 1 to 2790)
+  AUTHORS   Uchil,P.D., Quinlan,B.D., Chan,W.T., Luna,J.M. and Mothes,W.
+  TITLE     TRIM E3 ligases interfere with early and late stages of the
+            retroviral life cycle
+  JOURNAL   PLoS Pathog 4 (2), e16 (2008)
+   PUBMED   18248090
+REFERENCE   8  (bases 1 to 2790)
+  AUTHORS   Kong,H.J., Anderson,D.E., Lee,C.H., Jang,M.K., Tamura,T., Tailor,P.,
+            Cho,H.K., Cheong,J., Xiong,H., Morse,H.C. 3rd and Ozato,K.
+  TITLE     Cutting edge: autoantigen Ro52 is an interferon inducible E3 ligase
+            that ubiquitinates IRF-8 and enhances cytokine expression in
+            macrophages
+  JOURNAL   J Immunol 179 (1), 26-30 (2007)
+   PUBMED   17579016
+  REMARK    GeneRIF: Ro52 is an E3 ligase for interferon regulatory factor
+            (IRF)-8 that acts in a non-degradation pathway of ubiquitination and
+            contributes to the elicitation of innate immunity in macrophages.
+REFERENCE   9  (bases 1 to 2790)
+  AUTHORS   Reymond,A., Meroni,G., Fantozzi,A., Merla,G., Cairo,S., Luzi,L.,
+            Riganelli,D., Zanaria,E., Messali,S., Cainarca,S., Guffanti,A.,
+            Minucci,S., Pelicci,P.G. and Ballabio,A.
+  TITLE     The tripartite motif family identifies cell compartments
+  JOURNAL   EMBO J 20 (9), 2140-2151 (2001)
+   PUBMED   11331580
+REFERENCE   10  (bases 1 to 2790)
+  AUTHORS   Keech,C.L., Gordon,T.P. and McCluskey,J.
+  TITLE     Structural differences between the human and mouse 52-kD Ro
+            autoantigens associated with poorly conserved autoantibody activity
+            across species
+  JOURNAL   Clin Exp Immunol 104 (2), 255-263 (1996)
+   PUBMED   8625517
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK171489.1, AK141294.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMN00849374, SAMN00849375
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            CJ051157.1, AK171489.1 and BB681113.1.
+            On Jan 18, 2014 this sequence version replaced NM_009277.3.
+            Transcript Variant: This variant (1) represents the longer
+            transcript. Variants 1 and 2 encode the same protein.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2790
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="7"
+                     /map="7 54.76 cM"
+     gene            1..2790
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /note="tripartite motif-containing 21"
+                     /db_xref="GeneID:20821"
+                     /db_xref="MGI:MGI:106657"
+     exon            1..94
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    92..94
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /note="upstream in-frame stop codon"
+     exon            95..163
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            164..595
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             200..1588
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /EC_number="2.3.2.27"
+                     /note="Sjogren syndrome antigen A1; tripartite motif
+                     protein 21; 52 kDa Ro protein; 52kD Ro/SSA autoantigen;
+                     SS-A; ro(SS-A); sjoegren syndrome type A antigen;
+                     tripartite motif-containing protein 21; 52 kDa
+                     ribonucleoprotein autoantigen Ro/SS-A; RING-type E3
+                     ubiquitin transferase TRIM21"
+                     /codon_start=1
+                     /product="E3 ubiquitin-protein ligase TRIM21"
+                     /protein_id="NP_033303.3"
+                     /db_xref="CCDS:CCDS40051.1"
+                     /db_xref="GeneID:20821"
+                     /db_xref="MGI:MGI:106657"
+                     /translation="MSLEKMWEEVTCSICLDPMVEPMSIECGHCFCKECIFEVGKNGGS
+                     SCPECRQQFLLRNLRPNRHIANMVENLKQIAQNTKKSTQETHCMKHGEKLHLFCEEDGQ
+                     ALCWVCAQSGKHRDHTRVPIEEAAKVYQEKIHVALEKLRKGKELAEKMEMDLTMQRTDW
+                     KRNIDTQKSRIHAEFALQNSLLAQEEQRQLQRLEKDQREYLRLLGKKEAELAEKNQALQ
+                     ELISELERRIRGSELELLQEVRIILERSGSWNLDTLDIDAPDLTSTCPVPGRKKMLRTC
+                     WVHITLDRNTANSWLIISKDRRQVRMGDTHQNVSDNEERFSNYPMVLGAQRFSSGKMYW
+                     EVDVTQKEAWDLGVCRDSVQRKGQFSLSPENGFWTIWLWQDSYEAGTSPQTTLHIQVPP
+                     CQIGIFVDYEAGVVSFYNITDHGSLIYTFSECVFAGPLRPFFNVGFNYSGGNAAPLKLC
+                     PLKM"
+     exon            596..691
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            692..922
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            923..945
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            946..1046
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1047..2790
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2769..2774
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /note="hexamer: AATAAA"
+     polyA_site      2788
+                     /gene="Trim21"
+                     /gene_synonym="Ro52; Ssa1"
+                     /note="major polyA site"
+ORIGIN
+        1 ctgcctctga gaggaaactg aaagtgaaat ttggactgca ggcttgcaaa agcgaagctg
+       61 ggagcacata actaaagctg aggaccctgg ttagaaactc ggtttcccct tctgcctggc
+      121 ttgctcagtg ggtgaggccg gaggagaggc tcctgtcatt cagattccac ggcagatatc
+      181 accctctaca acctcaaaaa tgtctctgga aaagatgtgg gaggaggtca cctgttctat
+      241 ctgcctggat cccatggtgg agcctatgag tatcgaatgt ggccattgct tttgcaagga
+      301 atgcattttt gaagttggga agaatggggg cagttcatgt cccgagtgcc ggcaacagtt
+      361 tctgctccga aacctcaggc ccaatagaca tatagccaac atggtggaaa accttaaaca
+      421 gatagcccag aataccaaga agagtaccca ggaaacgcac tgcatgaagc atggagagaa
+      481 gcttcaccta ttctgtgagg aagatgggca ggccctttgc tgggtgtgtg cccagtctgg
+      541 gaaacaccgg gaccacacca gggtccctat tgaagaggct gctaaggtat accaggagaa
+      601 gatccacgtg gctttagaaa aactgagaaa ggggaaagag ttggccgaga agatggaaat
+      661 ggatctcacg atgcaaagaa cagactggaa gaggaacatt gacacccaga agtcgaggat
+      721 tcacgcagag ttcgcacttc agaatagctt gctggctcag gaggagcaga ggcagctgca
+      781 gaggctggag aaggatcaaa gggagtacct gagactcctg gggaagaagg aggctgagct
+      841 ggctgagaag aaccaggccc tgcaggagct gatctcagag ctggagagga ggattcgtgg
+      901 ttcagagctg gagctactgc aggaggtgag gatcatcctg gaaaggagtg gatcctggaa
+      961 cctggacacg ttagatattg acgccccaga cctaacaagc acatgccctg tgccagggcg
+     1021 gaagaagatg ctgaggacat gttgggttca tattactctg gatcgcaaca ccgccaactc
+     1081 atggctcatc atctcaaagg atcggagaca agtgaggatg ggagacaccc atcagaacgt
+     1141 gtctgacaat gaggagaggt ttagtaatta ccccatggtg ctaggtgccc agagattctc
+     1201 ctctgggaag atgtactggg aggtagatgt gactcaaaag gaggcctggg atctgggggt
+     1261 ttgcagagat tctgttcaga ggaaagggca gttttcactc agtcccgaga atggcttctg
+     1321 gaccatttgg ttatggcaag acagctatga ggctggtacc agtcctcaga ccaccctcca
+     1381 cattcaagta cctccatgcc aaattgggat ctttgtggac tatgaggctg gcgttgtctc
+     1441 cttctacaac ataactgacc atggctccct catttacacc ttctcggagt gtgtttttgc
+     1501 tggacctctg cgacctttct tcaatgttgg tttcaattat agtgggggaa atgcagcgcc
+     1561 tctaaagctc tgtccactaa agatgtgatg gtcaggagcc agtgcctact gacggtactt
+     1621 cccggacact tacctcctcc ctgtcctgat caagatccag tgactcctgg ggaccatttc
+     1681 tggatactgc tgctcacttc ctgttggtgt tcttcagcca tgcacttggt cattttgacc
+     1741 catctagttg gaactaccct aaaccctcat ctctttaaag gagtcagggt cccaggatga
+     1801 aggtatcagc tggacataac tgaaagtcaa tgtcaaatga ccttcaccat caatatacct
+     1861 gacatagatt ccgcaatgat tcctcaatga aacagactcc tcacattgga cccaaactca
+     1921 tctaaaagac aaacaaacat ttctgccttt atgtgacttc ctttgttttc tctgtccttg
+     1981 gttgttacct ttggctagat acctgtctac tcctatatct tttgtggctt gcagaaggac
+     2041 ttcctagaaa ttgtgcttga actatcctgt tcagttatta ttggtaaaat atatatatat
+     2101 atatatatat atatatatat atatgcatac atatgtctta acattataca tcttctggtt
+     2161 tggtttgttg ttttgttgtt actgggggat tttagggttt tattgttcgt tgtttgtttg
+     2221 ttttccctcc ctggaatgct ctatgcactt cttctgtaaa cccaggtcaa gaatatcttc
+     2281 tatgggaaca aatgaaagcc aggataaagt agtgaaagtg gttcagacaa gagctgaatg
+     2341 ttacactgac agtatgctca gtatccccag tgatagccaa agtctgggtg ctgtgctggg
+     2401 tctggtcagt gaacccctgc tgttgactct cacaaggcta caacagctgt gctcagacac
+     2461 tgcctgctgt cattttgtgg atatgttggt ttctgattcc attgccttga agaaagtgaa
+     2521 attagtagct gaactagtat acaaatattt tgaaagcttc aaaaatacta cctggagatt
+     2581 tatgttacat agttaataaa ccccttattc tccactgaat ggaattggga ggtttcatac
+     2641 tatctcagct ttcccccata gccaataaca aatggtctgg atacaagtgt ctttgttaca
+     2701 taaaagttac cttgagaaag atctccaagt attggttcca attctgaata atatgtcttt
+     2761 taagatcaaa taaagcctgt tgattttcct
+//

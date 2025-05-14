@@ -1,0 +1,240 @@
+LOCUS       NM_001159418            2343 bp    mRNA    linear   ROD 03-APR-2025
+DEFINITION  Mus musculus interferon regulatory factor 9 (Irf9), transcript
+            variant 2, mRNA.
+ACCESSION   NM_001159418
+VERSION     NM_001159418.1
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2343)
+  AUTHORS   Chavez,C., Lin,K., Malveaux,A., Gorin,A., Brizuela,S., Cheng,Q.J.
+            and Hoffmann,A.
+  TITLE     IRF1 cooperates with ISGF3 or GAF to form innate immune de novo
+            enhancers in macrophages
+  JOURNAL   Sci Signal 18 (868), eado8860 (2025)
+   PUBMED   39772531
+REFERENCE   2  (bases 1 to 2343)
+  AUTHORS   Lercher,A., Cheong,J.G., Bale,M.J., Jiang,C., Hoffmann,H.H.,
+            Ashbrook,A.W., Lewy,T., Yin,Y.S., Quirk,C., DeGrace,E.J.,
+            Chiriboga,L., Rosenberg,B.R., Josefowicz,S.Z. and Rice,C.M.
+  TITLE     Antiviral innate immune memory in alveolar macrophages following
+            SARS-CoV-2 infection ameliorates secondary influenza A virus disease
+  JOURNAL   Immunity 57 (11), 2530-2546 (2024)
+   PUBMED   39353439
+REFERENCE   3  (bases 1 to 2343)
+  AUTHORS   Fortelny,N., Farlik,M., Fife,V., Gorki,A.D., Lassnig,C., Maurer,B.,
+            Meissl,K., Dolezal,M., Boccuni,L., Ravi Sundar Jose Geetha,A.,
+            Akagha,M.J., Karjalainen,A., Shoebridge,S., Farhat,A., Mann,U.,
+            Jain,R., Tikoo,S., Zila,N., Esser-Skala,W., Krausgruber,T.,
+            Sitnik,K., Penz,T., Hladik,A., Suske,T., Zahalka,S.,
+            Senekowitsch,M., Barreca,D., Halbritter,F., Macho-Maschler,S.,
+            Weninger,W., Neubauer,H.A., Moriggl,R., Knapp,S., Sexl,V.,
+            Strobl,B., Decker,T., Muller,M. and Bock,C.
+  TITLE     JAK-STAT signaling maintains homeostasis in T cells and macrophages
+  JOURNAL   Nat Immunol 25 (5), 847-859 (2024)
+   PUBMED   38658806
+REFERENCE   4  (bases 1 to 2343)
+  AUTHORS   Lan,C., Zhou,X., Shen,X., Lin,Y., Chen,X., Lin,J., Zhang,Y.,
+            Zheng,L. and Yan,S.
+  TITLE     Suppression of IRF9 Promotes Osteoclast Differentiation by Decreased
+            Ferroptosis via STAT3 Activation
+  JOURNAL   Inflammation 47 (1), 99-113 (2024)
+   PUBMED   37804406
+  REMARK    GeneRIF: Suppression of IRF9 Promotes Osteoclast Differentiation by
+            Decreased Ferroptosis via STAT3 Activation. Erratum:[Inflammation.
+            2024 Oct;47(5):1884-1886. doi: 10.1007/s10753-024-02001-w. PMID:
+            38488993]
+REFERENCE   5  (bases 1 to 2343)
+  AUTHORS   Zhao,Q., Shao,T., Zhu,Y., Zong,G., Zhang,J., Tang,S., Lin,Y., Ma,H.,
+            Jiang,Z., Xu,Y., Wu,X. and Zhang,T.
+  TITLE     An MRTF-A-ZEB1-IRF9 axis contributes to fibroblast-myofibroblast
+            transition and renal fibrosis
+  JOURNAL   Exp Mol Med 55 (5), 987-998 (2023)
+   PUBMED   37121967
+  REMARK    GeneRIF: An MRTF-A-ZEB1-IRF9 axis contributes to
+            fibroblast-myofibroblast transition and renal fibrosis.
+REFERENCE   6  (bases 1 to 2343)
+  AUTHORS   Weihua,X., Lindner,D.J. and Kalvakolanu,D.V.
+  TITLE     The interferon-inducible murine p48 (ISGF3gamma) gene is regulated
+            by protooncogene c-myc
+  JOURNAL   Proc Natl Acad Sci U S A 94 (14), 7227-7232 (1997)
+   PUBMED   9207073
+REFERENCE   7  (bases 1 to 2343)
+  AUTHORS   Weihua,X., Kolla,V. and Kalvakolanu,D.V.
+  TITLE     Interferon gamma-induced transcription of the murine ISGF3gamma
+            (p48) gene is mediated by novel factors
+  JOURNAL   Proc Natl Acad Sci U S A 94 (1), 103-108 (1997)
+   PUBMED   8990168
+REFERENCE   8  (bases 1 to 2343)
+  AUTHORS   Suhara,W., Yoneyama,M., Yonekawa,H. and Fujita,T.
+  TITLE     Structure of mouse interferon stimulated gene factor 3 gamma (ISGF3
+            gamma/p48) cDNA and chromosomal localization of the gene
+  JOURNAL   J Biochem 119 (2), 231-234 (1996)
+   PUBMED   8882710
+REFERENCE   9  (bases 1 to 2343)
+  AUTHORS   Kimura,T., Kadokawa,Y., Harada,H., Matsumoto,M., Sato,M.,
+            Kashiwazaki,Y., Tarutani,M., Tan,R.S., Takasugi,T., Matsuyama,T.,
+            Mak,T.W., Noguchi,S. and Taniguchi,T.
+  TITLE     Essential and non-redundant roles of p48 (ISGF3 gamma) and IRF-1 in
+            both type I and type II interferon responses, as revealed by gene
+            targeting studies
+  JOURNAL   Genes Cells 1 (1), 115-124 (1996)
+   PUBMED   9078371
+REFERENCE   10  (bases 1 to 2343)
+  AUTHORS   Kawakami,T., Matsumoto,M., Sato,M., Harada,H., Taniguchi,T. and
+            Kitagawa,M.
+  TITLE     Possible involvement of the transcription factor ISGF3 gamma in
+            virus-induced expression of the IFN-beta gene
+  JOURNAL   FEBS Lett 358 (3), 225-229 (1995)
+   PUBMED   7843405
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC012968.1, SRR13861859.5186927.1
+            [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849375,
+            SAMN00849377 [ECO:0000348]
+            ##Evidence-Data-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC174678.2, U51992.2 and BY761438.1.
+            Transcript Variant: This variant (2) differs in the 5' UTR and 5'
+            coding region, compared to variant 1, resulting in an isoform (2)
+            with a distinct and shorter N-terminus, compared to isoform 1.
+            Sequence Note: This RefSeq record was created from transcript and
+            genomic sequence data to make the sequence consistent with the
+            reference genome assembly. The genomic coordinates used for the
+            transcript record were based on transcript alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2343
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="14"
+                     /map="14 28.19 cM"
+     gene            1..2343
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /note="interferon regulatory factor 9"
+                     /db_xref="GeneID:16391"
+                     /db_xref="MGI:MGI:107587"
+     exon            1..143
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    85..87
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /note="upstream in-frame stop codon"
+     CDS             91..1344
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /note="isoform 2 is encoded by transcript variant 2; ISGF-3
+                     gamma; ISGF3 p48 subunit; interferon-stimulated gene factor
+                     3 gamma; transcriptional regulator ISGF3 subunit gamma;
+                     IFN-alpha-responsive transcription factor subunit;
+                     interferon dependent positive acting transcription factor 3
+                     gamma"
+                     /codon_start=1
+                     /product="interferon regulatory factor 9 isoform 2"
+                     /protein_id="NP_001152890.1"
+                     /db_xref="CCDS:CCDS49497.1"
+                     /db_xref="GeneID:16391"
+                     /db_xref="MGI:MGI:107587"
+                     /translation="MSETLQLIKTKCLRFPFRMASGKVRCTRKLRSWIVEQVESGHFPG
+                     VCWDDAAKTMFRIPWKHAGKQDFREDQDAAIFKAWALFKEKHKDGDIGHPAVWKTRLRC
+                     ALNKSSEFEEVPERGRMDVAEPYKVYRILPAGTLPNQPRNQKSPCKRSISCVSPEREEN
+                     MENGRTNGVVNHSDSGSNIGGGGNGSNRSDSNSNCNSELEEGAGTTEATIREDPVFLEH
+                     QLPLNSDYSLLLTFIYGGRVVGKTQVHSLDCRLVAERSDSESSMEQVEFPKPDPLEPTQ
+                     HLLNQLDRGVLVASNSRGLFVQRLCPIPISWNAPEAPPGPGPHLLPSNKCVELFKTTYF
+                     CRDLAQYFQGQGPPPKFQATLHFWEESPGSSHSQENLITVQMEQAFARHLLEKIPEEEK
+                     AALFLLQHTEQSPSALGH"
+     exon            144..324
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /inference="alignment:Splign:2.1.0"
+     exon            325..508
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /inference="alignment:Splign:2.1.0"
+     exon            509..582
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /inference="alignment:Splign:2.1.0"
+     exon            583..703
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /inference="alignment:Splign:2.1.0"
+     exon            704..775
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /inference="alignment:Splign:2.1.0"
+     exon            776..1117
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1118..1233
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1234..2343
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2319..2324
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /note="hexamer: ATTAAA"
+     polyA_site      2343
+                     /gene="Irf9"
+                     /gene_synonym="Irf-9; Isgf3g; p48"
+                     /note="major polyA site"
+ORIGIN
+        1 cttaggagca aatgttgcct ctgtagatgc ttgggagcta aaactctgcc acaaggaaca
+       61 agtcattaag ggaattctcc taaataatac atgtctgaaa cacttcaact tatcaagacc
+      121 aaatgtctga ggtttccttt caggatggcc tcaggcaaag tacgctgcac ccgaaagctg
+      181 cggagctgga tcgtggagca ggtggagagt ggccatttcc caggggtgtg ctgggacgat
+      241 gcagccaaga ccatgttccg gattccctgg aagcatgcag gcaagcaaga cttccgagag
+      301 gaccaggatg ctgccatatt caaggcttgg gcactgttta aggaaaagca caaagatggg
+      361 gacataggac accccgctgt ctggaagact cgcctacgct gtgccctcaa caagagttcc
+      421 gaatttgagg aggttcccga gagaggtcgt atggatgttg ctgaacccta caaagtatat
+      481 cgaatactgc cagcaggaac cctccctaac caaccacgga accagaaatc accatgcaag
+      541 cgaagtatca gttgtgtgtc acctgagagg gaagaaaata tggaaaatgg gaggaccaat
+      601 ggcgttgtaa accactcaga cagtggcagc aacataggcg gtggtggcaa tggcagcaac
+      661 aggagcgaca gcaacagcaa ctgcaactct gagctagagg agggagctgg cacaactgag
+      721 gccaccatta gagaggaccc agtgttcctg gagcatcaac ttcctctgaa ctcagactac
+      781 tcgctgctgc tcaccttcat ctatggtggc cgagtggtgg gtaagaccca ggtgcacagc
+      841 ctagactgtc ggctcgtggc tgagcgctca gactcggaga gcagcatgga gcaggtggag
+      901 tttcccaaac ccgacccact ggagcctacc cagcacctgc tgaatcagct tgacagaggc
+      961 gtcctggtgg ccagcaattc cagaggcctc tttgttcagc gcctttgccc catccccatc
+     1021 tcctggaatg caccagaggc cccacccggg cctggtcctc atctgctgcc cagcaataag
+     1081 tgtgtggagc tcttcaagac cacctacttc tgtagagatt tggcccagta cttccagggc
+     1141 caggggcccc cacccaagtt ccaagcaacc ctacatttct gggaggagag tcctggctct
+     1201 agccatagcc aagagaatct catcacagtg cagatggagc aggcctttgc ccgacattta
+     1261 ctggagaaga ttccagaaga ggagaaagct gccttgttcc tgttacagca cacagagcag
+     1321 tcaccctctg ctctgggaca ctgatcgtcg cgtctccatg gaaatagact tgttctccac
+     1381 actcttggtc ggcctgcttc tgtgatggtt cttatcaccg tgtgttatcc agcatggcca
+     1441 agagaaagtg caagggtgat gtttctcctt acaaattgag tttgcgaggc agacttgttg
+     1501 aggatacttg taatctcagc acttggaaga cagaccaaat ggttatgagc tcaaagacaa
+     1561 cctggaagag acttttatct cctttttttt aaagctatat tctctctcag ctccaaggaa
+     1621 ctggaaagtt ccaaagggtg tgatctcaga gggaattgta tgctcctccc agtcccaaac
+     1681 tctaaatcta agcactttat atattttatc tcccagtcct cactagactg aaataaaatt
+     1741 tagctgggtg aggtattaca tagttggcac atgtgagaca agaggcaaga agactgtgag
+     1801 ttcaaattca aggccagtct tggtgacact gtctccaaaa aaaataaata aaaagcttcc
+     1861 taagagcggc tggagagatg gctcggtgat taagagcact gactgccctt ctgaagatcc
+     1921 tgagttcaaa tcccagcaac cacatggttg ctcacacctg tcttcagaca ccctcttctg
+     1981 gtgtgtctga agacagctac agtatactta catataataa taaataactc tttgggccag
+     2041 agatcagcct ccatccgctc acatgttgac tacttggtcc tcagtggaac cacttgggat
+     2101 gactagaggt gtggggttgt tggttgagtt gtgtcactgg ccatgggctt taaggtttcc
+     2161 aaagaccctt gccattccta gctagcacac tctctctgtg tctcatgctt ataagtcaga
+     2221 tgtaaactct caacctcagc tccatgcttg cctgcctcct gctttgttct ctgttgtgat
+     2281 ggtcatggac cctaaacctt tagaaatgtg agctccaaat taaattttgc cttttctaag
+     2341 tta
+//

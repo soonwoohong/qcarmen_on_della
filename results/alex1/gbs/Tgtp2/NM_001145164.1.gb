@@ -1,0 +1,154 @@
+LOCUS       NM_001145164            2816 bp    mRNA    linear   ROD 27-APR-2025
+DEFINITION  Mus musculus T cell specific GTPase 2 (Tgtp2), mRNA.
+ACCESSION   NM_001145164
+VERSION     NM_001145164.1
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2816)
+  AUTHORS   Khaminets,A., Hunn,J.P., Konen-Waisman,S., Zhao,Y.O., Preukschat,D.,
+            Coers,J., Boyle,J.P., Ong,Y.C., Boothroyd,J.C., Reichmann,G. and
+            Howard,J.C.
+  TITLE     Coordinated loading of IRG resistance GTPases on to the Toxoplasma
+            gondii parasitophorous vacuole
+  JOURNAL   Cell Microbiol 12 (7), 939-961 (2010)
+   PUBMED   20109161
+REFERENCE   2  (bases 1 to 2816)
+  AUTHORS   Carlow,D.A., Marth,J., Clark-Lewis,I. and Teh,H.S.
+  TITLE     Isolation of a gene encoding a developmentally regulated T
+            cell-specific protein with a guanine nucleotide triphosphate-binding
+            motif
+  JOURNAL   J Immunol 154 (4), 1724-1734 (1995)
+   PUBMED   7836757
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK088858.1, AK172580.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN01164135
+            [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AL645688.12.
+            On or before Feb 15, 2015 this sequence version replaced
+            XM_011251340.1, XM_006537467.1, XR_031267.1.
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+FEATURES             Location/Qualifiers
+     source          1..2816
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="11"
+                     /map="11 29.06 cM"
+     gene            1..2816
+                     /gene="Tgtp2"
+                     /gene_synonym="100039796; TGTP"
+                     /note="T cell specific GTPase 2"
+                     /db_xref="GeneID:100039796"
+                     /db_xref="MGI:MGI:3710083"
+     exon            1..250
+                     /gene="Tgtp2"
+                     /gene_synonym="100039796; TGTP"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    179..181
+                     /gene="Tgtp2"
+                     /gene_synonym="100039796; TGTP"
+                     /note="upstream in-frame stop codon"
+     exon            251..2816
+                     /gene="Tgtp2"
+                     /gene_synonym="100039796; TGTP"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             269..1516
+                     /gene="Tgtp2"
+                     /gene_synonym="100039796; TGTP"
+                     /note="Irgb6 homologue; interferon-gamma-inducible GTPase
+                     Ifggb6 protein"
+                     /codon_start=1
+                     /product="T-cell-specific guanine nucleotide
+                     triphosphate-binding protein 2"
+                     /protein_id="NP_001138636.1"
+                     /db_xref="CCDS:CCDS48781.1"
+                     /db_xref="GeneID:100039796"
+                     /db_xref="MGI:MGI:3710083"
+                     /translation="MAWASSFDAFFKNFKRESKIISEYDITLIMTYIEENKLQKAVSVI
+                     EKVLRDIESAPLHIAVTGETGAGKSTFINTLRGVGHEEKGAAPTGAIETTMKRTPYPHP
+                     KLPNVTIWDLPGIGTTNFTPQNYLTEMKFGEYDFFIIISATRFKENDAQLAKAIAQMGM
+                     NFYFVRTKIDSDLDNEQKFKPKSFNKEEVLKNIKDYCSNHLQESLDSEPPVFLVSNVDI
+                     SKYDFPKLETKLLQDLPAHKRHVFSLSLQSLTEATINYKRDSLKQKVFLEAMKAGALAT
+                     IPLGGMISDILENLDETFNLYRSYFGLDDASLENIAQDLNMSVDDFKVHLRFPHLFAEH
+                     NDESLEDKLFKYIKHISSVTGGPVAAVTYYRMAYYLQNLFLDTAANDAIALLNSKALFE
+                     KKVGPYISEPPEYWEA"
+     regulatory      1758..1763
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Tgtp2"
+                     /gene_synonym="100039796; TGTP"
+                     /note="hexamer: AATAAA"
+     regulatory      1763..1768
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Tgtp2"
+                     /gene_synonym="100039796; TGTP"
+                     /note="hexamer: AACAAA"
+     polyA_site      1781
+                     /gene="Tgtp2"
+                     /gene_synonym="100039796; TGTP"
+                     /note="major polyA site"
+     polyA_site      1806
+                     /gene="Tgtp2"
+                     /gene_synonym="100039796; TGTP"
+ORIGIN
+        1 agaaaagtgt agagagcaag ggctgtgtgt ggaccagtaa ggacaaagaa actcagggag
+       61 atccaactgt ccatcccacg gtctcctcct ttctatgtgc agttcttcct gggacaccag
+      121 aactccacac ctcatgtcct ctcttcataa acatcctgaa tctgaattca gttttagata
+      181 aagacgttcc ctaagaggaa agccatcaca gaagtgttat tgccaccaga tcaaggtcac
+      241 cactgctgag cttctaccat acagagccat ggcttgggcc tccagctttg atgcattctt
+      301 taagaatttt aaaagggaaa gcaaaatcat ctctgaatat gacatcacct tgattatgac
+      361 ttacatagag gaaaataagc tacagaaagc tgtttctgta attgaaaagg tactgagaga
+      421 catcgagagt gctcctctgc acatagctgt gacaggggaa acaggcgcag ggaagtccac
+      481 tttcatcaat accctgaggg gggtggggca tgaagaaaaa ggtgcagccc ccactggcgc
+      541 aatagagaca accatgaaga gaactccata cccacaccca aagcttccca acgtgacaat
+      601 atgggacctg cctggcattg ggaccactaa cttcacacca caaaactatc tgacagaaat
+      661 gaagtttggt gagtatgact tcttcattat catctcagct acacgtttca aagaaaatga
+      721 tgcacaactg gccaaagcca ttgcacagat ggggatgaat ttctactttg tcagaaccaa
+      781 gatagacagc gacttagata atgaacagaa gtttaagcct aagagtttca ataaggagga
+      841 agtcctcaag aatattaagg attactgctc taatcatctt caggagtctc tcgacagtga
+      901 gcctccagtc ttcctagtct ctaacgttga tatatcgaag tatgacttcc caaagctgga
+      961 aactaaactc ctacaggatc tcccagccca caagcgtcac gtattctcac tgtctttgca
+     1021 aagtcttact gaggccacca ttaactacaa gagagattcc ctgaagcaaa aagtcttcct
+     1081 agaagccatg aaggctggag cattagccac cattccactt ggtggcatga tcagtgatat
+     1141 cttagagaat ctggatgaaa cattcaatct ctacaggtct tactttgggc tggatgatgc
+     1201 ttcactggaa aacattgccc aggatttgaa catgtctgtg gatgacttca aggtacacct
+     1261 tcgatttccc catttgtttg cagaacacaa tgatgagtcc ttagaagaca agctatttaa
+     1321 atatatcaaa cacatttctt cagttactgg tgggccagtc gctgcagtca cttactatcg
+     1381 catggcttat tatttgcaga atctctttct tgatactgca gccaatgatg ccatagctct
+     1441 tctgaatagt aaagcacttt ttgagaagaa ggtgggacca tatatatctg agccccccga
+     1501 gtactgggaa gcttgaaaaa ataaggcatg agttccaatc agtgttcact cttagcttca
+     1561 ccttgggcac gatttttagc ctagtcccga tgggggaaaa agtctcagtg gcaggccaga
+     1621 ggattcatgc tttcccttct cctgatccag aagatcacca tggcaaaggc ttatagtgct
+     1681 tagagtagaa aagaagtgtc ttcaacatcg tgcaaatatg acagcaaagt atatttgcat
+     1741 taaaatcatt tcttaaaaat aaaacaaaca catgatgcgg atttggtttg catttttctc
+     1801 ctcaaatgaa tcctgaatct tttactccta tgaaagtttt catgtgcttt tacattctca
+     1861 ctggcagccc tgattgtcac attgccaagt ggtattttgg aaacagggac atcgggtacc
+     1921 ctacagagtg tagacaaaca cgttttgacc cagaactggg tgttccagga gattctacat
+     1981 gttgtcaagt gaacaactaa cattaataac cccatgtgct aaccaaaccc aggctctttg
+     2041 ctgaccatgg tagtattggt gctttgtcac taaggcatgt aagcacctcc acattgcttc
+     2101 ttcataggtg tatagatgta tggaagattg ttttaagcta gtcactccga tgtgccctgc
+     2161 cacactagac ttcatttatt ctttgcatct attgattccc tgaactctgt ggtcctccct
+     2221 ctctccagcc tccactgaca cctttctcca gtcagttcaa ccatcaactc acgtgagaga
+     2281 acagagtgaa cctgcctctc tgtcctgtgg cagagcttgt aacacctaca ttgtggcctg
+     2341 aagatgaatg tgagcctgtg gagagatgtg cccacccaca ctcctaaaat ataaacccct
+     2401 gactcagtat agaaaacact cactgcccaa agttcggtca gactctaatc tacttctgtg
+     2461 tgtttcaata cttcacagag gaaagctatt gctgacatct tgcagaaaga agttgtcagc
+     2521 agctggcatg gactctgaag ggaagctaga cagcccatga tggcaaacat ggctctgcca
+     2581 ggccttgccc ttctcttcca ttccctctgc cttgctaaaa aactaacaaa caaacaaaac
+     2641 ccattacatt ctattcctaa agctagcctc caaggcctat cttgtttatt tgatcacttc
+     2701 ctcttcctga ggtcaactac caatgtgtag ttatcaaaga attgatgtcc agcaatcaaa
+     2761 agcccctttt ggctccccta attaatatgc acaattaaaa ttaaacactt catcct
+//

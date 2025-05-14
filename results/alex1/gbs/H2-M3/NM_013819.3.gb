@@ -1,0 +1,236 @@
+LOCUS       NM_013819               1423 bp    mRNA    linear   ROD 02-MAY-2024
+DEFINITION  Mus musculus histocompatibility 2, M region locus 3 (H2-M3), mRNA.
+ACCESSION   NM_013819
+VERSION     NM_013819.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1423)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   2  (bases 1 to 1423)
+  AUTHORS   Tamoutounour,S., Han,S.J., Deckers,J., Constantinides,M.G.,
+            Hurabielle,C., Harrison,O.J., Bouladoux,N., Linehan,J.L., Link,V.M.,
+            Vujkovic-Cvijin,I., Perez-Chaparro,P.J., Rosshart,S.P.,
+            Rehermann,B., Lazarevic,V. and Belkaid,Y.
+  TITLE     Keratinocyte-intrinsic MHCII expression controls microbiota-induced
+            Th1 cell responses
+  JOURNAL   Proc Natl Acad Sci U S A 116 (47), 23643-23652 (2019)
+   PUBMED   31672911
+REFERENCE   3  (bases 1 to 1423)
+  AUTHORS   Tanoue,T., Morita,S., Plichta,D.R., Skelly,A.N., Suda,W.,
+            Sugiura,Y., Narushima,S., Vlamakis,H., Motoo,I., Sugita,K.,
+            Shiota,A., Takeshita,K., Yasuma-Mitobe,K., Riethmacher,D.,
+            Kaisho,T., Norman,J.M., Mucida,D., Suematsu,M., Yaguchi,T.,
+            Bucci,V., Inoue,T., Kawakami,Y., Olle,B., Roberts,B., Hattori,M.,
+            Xavier,R.J., Atarashi,K. and Honda,K.
+  TITLE     A defined commensal consortium elicits CD8 T cells and anti-cancer
+            immunity
+  JOURNAL   Nature 565 (7741), 600-605 (2019)
+   PUBMED   30675064
+REFERENCE   4  (bases 1 to 1423)
+  AUTHORS   Linehan,J.L., Harrison,O.J., Han,S.J., Byrd,A.L.,
+            Vujkovic-Cvijin,I., Villarino,A.V., Sen,S.K., Shaik,J.,
+            Smelkinson,M., Tamoutounour,S., Collins,N., Bouladoux,N.,
+            Dzutsev,A., Rosshart,S.P., Arbuckle,J.H., Wang,C.R., Kristie,T.M.,
+            Rehermann,B., Trinchieri,G., Brenchley,J.M., O'Shea,J.J. and
+            Belkaid,Y.
+  TITLE     Non-classical Immunity Controls Microbiota Impact on Skin Immunity
+            and Tissue Repair
+  JOURNAL   Cell 172 (4), 784-796 (2018)
+   PUBMED   29358051
+REFERENCE   5  (bases 1 to 1423)
+  AUTHORS   Lybarger,L., Yu,Y.Y., Chun,T., Wang,C.R., Grandea,A.G. 3rd, Van
+            Kaer,L. and Hansen,T.H.
+  TITLE     Tapasin enhances peptide-induced expression of H2-M3 molecules, but
+            is not required for the retention of open conformers
+  JOURNAL   J Immunol 167 (4), 2097-2105 (2001)
+   PUBMED   11489993
+  REMARK    GeneRIF: The association of H2-M3 molecules with the peptide-loading
+            complex of the endoplasmic reticulum is dramatically decreased by
+            incubation of live cells with exogenous M3 ligands.
+REFERENCE   6  (bases 1 to 1423)
+  AUTHORS   Chiu,N.M., Chun,T., Fay,M., Mandal,M. and Wang,C.R.
+  TITLE     The majority of H2-M3 is retained intracellularly in a
+            peptide-receptive state and traffics to the cell surface in the
+            presence of N-formylated peptides
+  JOURNAL   J Exp Med 190 (3), 423-434 (1999)
+   PUBMED   10430630
+REFERENCE   7  (bases 1 to 1423)
+  AUTHORS   Wang,C.R., Loveland,B.E. and Lindahl,K.F.
+  TITLE     H-2M3 encodes the MHC class I molecule presenting the maternally
+            transmitted antigen of the mouse
+  JOURNAL   Cell 66 (2), 335-345 (1991)
+   PUBMED   1855254
+REFERENCE   8  (bases 1 to 1423)
+  AUTHORS   Ito,K., Van Kaer,L., Bonneville,M., Hsu,S., Murphy,D.B. and
+            Tonegawa,S.
+  TITLE     Recognition of the product of a novel MHC TL region gene (27b) by a
+            mouse gamma delta T cell receptor
+  JOURNAL   Cell 62 (3), 549-561 (1990)
+   PUBMED   2379238
+REFERENCE   9  (bases 1 to 1423)
+  AUTHORS   Richards,S., Bucan,M., Brorson,K., Kiefer,M.C., Hunt,S.W. 3rd,
+            Lehrach,H. and Lindahl,K.F.
+  TITLE     Genetic and molecular mapping of the Hmt region of mouse
+  JOURNAL   EMBO J 8 (12), 3749-3757 (1989)
+   PUBMED   2573520
+REFERENCE   10  (bases 1 to 1423)
+  AUTHORS   Brorson,K.A., Richards,S., Hunt,S.W. 3rd, Cheroutre,H., Lindahl,K.F.
+            and Hood,L.
+  TITLE     Analysis of a new class I gene mapping to the Hmt region of the
+            mouse
+  JOURNAL   Immunogenetics 30 (4), 273-283 (1989)
+   PUBMED   2793207
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC031984.1, SRR13862062.217471.1
+            [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849374,
+            SAMN00849375 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            NMD candidate               :: PMID: 10430630, 11489993
+            RefSeq Select criteria      :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            CT033782.5.
+            On Sep 19, 2023 this sequence version replaced NM_013819.2.
+            CCDS Note: The transcript for this CCDS representation is a
+            candidate for nonsense-mediated mRNA decay (NMD) based on the stop
+            codon being present 69 nts from the last splice site. However, it
+            is likely that NMD escape occurs because the protein is known to be
+            functional and is supported by publication data, including PMIDs
+            10430630 and 11489993.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..1423
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="17"
+                     /map="17 19.16 cM"
+     gene            1..1423
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /note="histocompatibility 2, M region locus 3"
+                     /db_xref="GeneID:14991"
+                     /db_xref="MGI:MGI:95915"
+     exon            1..95
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             23..1033
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /note="MHC class I-b antigen M3"
+                     /codon_start=1
+                     /product="histocompatibility 2, M region locus 3 precursor"
+                     /protein_id="NP_038847.1"
+                     /db_xref="CCDS:CCDS37617.1"
+                     /db_xref="GeneID:14991"
+                     /db_xref="MGI:MGI:95915"
+                     /translation="MGSSSNRALLHMVVVSLAVTQTGSGSHSLRYFHTAVSRPGRGEPQ
+                     YISVGYVDDVQFQRCDSIEEIPRMEPRAPWMEKERPEYWKELKLKVKNIAQSARANLRT
+                     LLRYYNQSEGGSHILQWMVSCEVGPDMRLLGAHYQAAYDGSDYITLNEDLSSWTAVDMV
+                     SQITKSRLESAGTAEYFRAYVEGECLELLHRFLRNGKEILQRADPPKAHVAHHPRPKGD
+                     VTLRCWALGFYPADITLTWQKDEEDLTQDMELVETRPSGDGTFQKWAAVVVPSGEEQRY
+                     TCYVHHEGLTEPLALKWGRSSQSSVVIMVIVASLVLLGGVITIVVVCKRRGAGER"
+     sig_peptide     23..97
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     exon            96..365
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            366..641
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            642..917
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            918..1022
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1023..1055
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1056..1102
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1103..1423
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1401..1406
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /note="hexamer: AATAAA"
+     polyA_site      1423
+                     /gene="H2-M3"
+                     /gene_synonym="H-2M3; Hmt; M3a; MuprM3; MuprM301; MuprM302;
+                     R4B2"
+                     /note="major polyA site"
+ORIGIN
+        1 aatcagggct accacgggaa ggatggggtc ctcaagcaac cgcgctctcc tgcacatggt
+       61 ggtggtctct ttggctgtta cccaaacagg ttctggctca cattcactgc gctatttcca
+      121 cactgcggtg tcacggccgg gccgtgggga gccccagtat atctctgtgg gctatgttga
+      181 cgacgtgcag tttcagcgct gtgatagcat tgaggaaatt ccgaggatgg aacctcgtgc
+      241 accttggatg gagaaggaaa gaccagagta ctggaaggag ctgaaactca aggtcaagaa
+      301 tattgcacaa agtgccagag caaaccttcg gaccctgctc cgctactaca accagagtga
+      361 aggcggctct cacatcctgc agtggatggt ttcctgtgag gtagggccag acatgcgcct
+      421 tcttggagcc cactatcagg ctgcgtatga tggctcagat tacatcaccc tgaatgaaga
+      481 cctgagctcc tggactgcag tggacatggt gtctcagatc acgaagagcc gtttagagtc
+      541 agctggcaca gcagagtact tcagggccta tgtggaggga gagtgcctgg agctgctcca
+      601 cagattcctg cggaatggca aggagattct tcagcgagca gatcccccaa aggcacatgt
+      661 ggcccatcac ccgagaccca aaggtgatgt taccttgagg tgctgggctc tgggcttcta
+      721 ccctgctgac atcaccctga cctggcagaa ggatgaagag gacctgaccc aggacatgga
+      781 gcttgtggaa acgaggcctt caggggatgg aaccttccag aagtgggcag ctgtggtggt
+      841 gccttctgga gaggagcaga gatacacatg ttatgtgcac catgaggggc taaccgagcc
+      901 ccttgccctg aaatggggaa gatcgtctca atcatctgtc gtcatcatgg tcatcgttgc
+      961 tagtctggtt ctcctgggag gtgtgatcac tattgttgtg gtgtgcaaga ggaggggtgc
+     1021 aggggaaaga tgaatcagtt atactcagac tgccagcagg aacagtgatt aagttctgat
+     1081 gcttctttca ccatttagaa agttggcatc tcatggtgtg tctcctgtca gcacagtgtg
+     1141 acaaagtgag cagcccaggg catccctgag gactgagtct cctctccata cctgtgtctc
+     1201 ctccttttct cacctgtacc acagggggat ccaggacttc ttcatccctt gtggaacttt
+     1261 aggtttctat gggcagcttc ttccctattg aaaaataagg atgtagatat agctttatta
+     1321 ttattatttt tttttttacc ttctcgataa aagctgtact tcatgctgtt aaaagtgtaa
+     1381 gatttgtaca ttggaaagga aataaaacat gaaaactcac aaa
+//

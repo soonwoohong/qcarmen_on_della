@@ -1,0 +1,242 @@
+LOCUS       NM_001347230            2258 bp    mRNA    linear   ROD 27-APR-2025
+DEFINITION  Mus musculus phospholipase A2, group IID (Pla2g2d), transcript
+            variant 2, mRNA.
+ACCESSION   NM_001347230
+VERSION     NM_001347230.1
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2258)
+  AUTHORS   Taketomi,Y., Higashi,T., Kano,K., Miki,Y., Mochizuki,C.,
+            Toyoshima,S., Okayama,Y., Nishito,Y., Nakae,S., Tanaka,S.,
+            Tokuoka,S.M., Oda,Y., Shichino,S., Ueha,S., Matsushima,K.,
+            Akahoshi,N., Ishii,S., Chun,J., Aoki,J. and Murakami,M.
+  TITLE     Lipid-orchestrated paracrine circuit coordinates mast cell
+            maturation and anaphylaxis through functional interaction with
+            fibroblasts
+  JOURNAL   Immunity 57 (8), 1828-1847 (2024)
+   PUBMED   39002541
+REFERENCE   2  (bases 1 to 2258)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   3  (bases 1 to 2258)
+  AUTHORS   Zheng,J., Meyerholz,D., Wong,L.R., Gelb,M., Murakami,M. and
+            Perlman,S.
+  TITLE     Coronavirus-specific antibody production in middle-aged mice
+            requires phospholipase A2G2D
+  JOURNAL   J Clin Invest 131 (11) (2021)
+   PUBMED   34060490
+  REMARK    GeneRIF: Coronavirus-specific antibody production in middle-aged
+            mice requires phospholipase A2G2D.
+REFERENCE   4  (bases 1 to 2258)
+  AUTHORS   Watanabe,K., Taketomi,Y., Miki,Y., Kugiyama,K. and Murakami,M.
+  TITLE     Group V secreted phospholipase A2 plays a protective role against
+            aortic dissection
+  JOURNAL   J Biol Chem 295 (30), 10092-10111 (2020)
+   PUBMED   32482892
+REFERENCE   5  (bases 1 to 2258)
+  AUTHORS   Sato,H., Taketomi,Y., Miki,Y., Murase,R., Yamamoto,K. and
+            Murakami,M.
+  TITLE     Secreted Phospholipase PLA2G2D Contributes to Metabolic Health by
+            Mobilizing omega3 Polyunsaturated Fatty Acids in WAT
+  JOURNAL   Cell Rep 31 (5), 107579 (2020)
+   PUBMED   32375030
+  REMARK    GeneRIF: Secreted Phospholipase PLA2G2D Contributes to Metabolic
+            Health by Mobilizing omega3 Polyunsaturated Fatty Acids in WAT.
+REFERENCE   6  (bases 1 to 2258)
+  AUTHORS   Cormier,R.T., Bilger,A., Lillich,A.J., Halberg,R.B., Hong,K.H.,
+            Gould,K.A., Borenstein,N., Lander,E.S. and Dove,W.F.
+  TITLE     The Mom1AKR intestinal tumor resistance region consists of Pla2g2a
+            and a locus distal to D4Mit64
+  JOURNAL   Oncogene 19 (28), 3182-3192 (2000)
+   PUBMED   10918573
+REFERENCE   7  (bases 1 to 2258)
+  AUTHORS   Shakhov,A.N., Rubtsov,A.V., Lyakhov,I.G., Tumanov,A.V. and
+            Nedospasov,S.A.
+  TITLE     SPLASH (PLA2IID), a novel member of phospholipase A2 family, is
+            associated with lymphotoxin deficiency
+  JOURNAL   Genes Immun 1 (3), 191-199 (2000)
+   PUBMED   11196711
+REFERENCE   8  (bases 1 to 2258)
+  AUTHORS   Valentin,E., Ghomashchi,F., Gelb,M.H., Lazdunski,M. and Lambeau,G.
+  TITLE     On the diversity of secreted phospholipases A(2). Cloning, tissue
+            distribution, and functional expression of two novel mouse group II
+            enzymes
+  JOURNAL   J Biol Chem 274 (44), 31195-31202 (1999)
+   PUBMED   10531313
+  REMARK    Erratum:[J Biol Chem 2000 Jan 21;275(3):2246]
+REFERENCE   9  (bases 1 to 2258)
+  AUTHORS   Ishizaki,J., Suzuki,N., Higashino,K., Yokota,Y., Ono,T.,
+            Kawamoto,K., Fujii,N., Arita,H. and Hanasaki,K.
+  TITLE     Cloning and characterization of novel mouse and human secretory
+            phospholipase A(2)s
+  JOURNAL   J Biol Chem 274 (35), 24973-24979 (1999)
+   PUBMED   10455175
+REFERENCE   10  (bases 1 to 2258)
+  AUTHORS   Valentin,E., Koduri,R.S., Scimeca,J.C., Carle,G., Gelb,M.H.,
+            Lazdunski,M. and Lambeau,G.
+  TITLE     Cloning and recombinant expression of a novel mouse-secreted
+            phospholipase A2
+  JOURNAL   J Biol Chem 274 (27), 19152-19160 (1999)
+   PUBMED   10383420
+COMMENT     ##Evidence-Data-START##
+            CDS exon combination :: AK004232.1, BY704474.1 [ECO:0000331]
+            RNAseq introns :: single sample supports all introns SAMN00849375,
+            SAMN00849380 [ECO:0000348]
+            ##Evidence-Data-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AL844178.7.
+            On Nov 18, 2016 this sequence version replaced XM_006538657.2.
+            Transcript Variant: This variant (2) contains an alternate exon and
+            uses a downstream translational start codon compared to variant 1.
+            The resulting isoform (2) is shorter at the N-terminus compared to
+            isoform 1.
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2258
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="4"
+                     /map="4 70.57 cM"
+     gene            1..2258
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /note="phospholipase A2, group IID"
+                     /db_xref="GeneID:18782"
+                     /db_xref="MGI:MGI:1341796"
+     exon            1..116
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    81..83
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /note="upstream in-frame stop codon"
+     exon            117..201
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /inference="alignment:Splign:2.1.0"
+     exon            202..346
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             243..599
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /EC_number="3.1.1.4"
+                     /note="isoform 2 is encoded by transcript variant 2; group
+                     IID secretory phospholipase A2; phosphatidylcholine
+                     2-acylhydrolase 2D; secretory-type PLA, stroma-associated
+                     homolog"
+                     /codon_start=1
+                     /product="group IID secretory phospholipase A2 isoform 2"
+                     /protein_id="NP_001334159.1"
+                     /db_xref="CCDS:CCDS84811.1"
+                     /db_xref="GeneID:18782"
+                     /db_xref="MGI:MGI:1341796"
+                     /translation="MVTHMTGKKAFFSYWPYGCHCGLGGKGQPKDATDWCCQKHDCCYA
+                     HLKIDGCKSLTDNYKYSISQGTIQCSDNGSWCERQLCACDKEVALCLKQNLDSYNKRLR
+                     YYWRPRCKGKTPAC"
+     exon            347..453
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /inference="alignment:Splign:2.1.0"
+     exon            454..2258
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1316..1321
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /note="hexamer: AATAAA"
+     polyA_site      1335
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /note="major polyA site"
+     regulatory      2234..2239
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /note="hexamer: AATAAA"
+     polyA_site      2256
+                     /gene="Pla2g2d"
+                     /gene_synonym="GIID; GIID sPLA2; mGIID; PLA2IID; sPLA2-IID;
+                     Splash"
+                     /note="major polyA site"
+ORIGIN
+        1 agcaggaggc gcgtgggttg ggtaggattc gcagggggac taacataagg ggctgcctgc
+       61 cttgctctgg gctggaacta tgagactcgc cctgctgtgt gggctgctgc tggccgtggg
+      121 aaatcaatgc tcacagacag agggaaagca gacggcatcg cttgtggttc tggctccatt
+      181 ttcttccttc taggacctcg agtataactg caacccaggg agggctcctg aacctgaaca
+      241 agatggtcac acacatgacg gggaagaaag ccttcttcag ctactggccc tacggctgtc
+      301 actgtggact tggtggcaaa gggcaaccca aagatgccac agactggtgc tgtcagaagc
+      361 atgattgttg ctatgcccac ctgaagatcg atggatgcaa gagcctgaca gacaactaca
+      421 aatacagcat ctcccagggc actatccagt gctctgacaa cgggagctgg tgtgaaaggc
+      481 aactgtgtgc ttgtgacaag gaggtggcct tgtgcttgaa gcaaaacctg gatagctaca
+      541 ataagcgcct gcgttactac tggcggcccc gttgcaaagg caagactcca gcatgctaag
+      601 ggagtccact ctgtctgtcc cctggattcc accctgtcct gggacatctc aagcattgaa
+      661 gtcctgcagc ttgctgcctc ccactctggt gtctagtctc ctggaccagc tggcttttca
+      721 aggtctcctt gcaaaagggc ctggccttga ggacttcctc ttggtgcctt tctactgtaa
+      781 aggacccttt tgatctttct aacggtgaca ctcctctccc ttcaaactct ggtctttctg
+      841 gaccaaggtc agagctcagc cctctgatgc tgtgttctcc cccaactaag ctatgagacc
+      901 tctaggttca gccctgcccc atttcagatt cagtggtacc ctctggtggt accttgattc
+      961 aggagtcccc tagaaccaag cccattatgg gctccaacaa caacgggatt taagggtggg
+     1021 ggaagttgca gtcttgttgc actcggtggg tcctggagct tggcctgctg tttcttgccc
+     1081 gttgtgcttt cgctgggatc tcttgctgca taatagctca ggctccgggg ccgtcctttg
+     1141 gaagcctctc ttggctagcc attctcccca gcgctaagga catcattggg ctggactgtc
+     1201 tgggtggcat cacagcccac atttctcctg agaccaggat gatagatgtt ccagtacttt
+     1261 gtctcatccc aggcctggtt tctttctctg gaaactttct ccaaagagcc ctcttaataa
+     1321 acaactttca caagagcccc tgactcaggc tccacctctg gggaaacacg ttttagcaac
+     1381 atttataaat tccatgacct ctctccctcc cagaaccacc ggcctaatta caaacctcag
+     1441 aactttcctt agctgctgca gctaaggaaa gtgtgttcat tagtggcaga ttcaggagcc
+     1501 agaattcttg gaagatcagc ttcccatatg aacatggaag ggggactagg gtttgaggga
+     1561 tagctttgct gagtatcctt tctggctcaa actgacccag cctaccttca tccctgcagc
+     1621 tattggcatt gaagggactc tagctagcct agacctggca agcatggctc tggcaggcct
+     1681 tccccttttc cccaattctc tctgccttgc taaaacaaaa caaaacaaaa caaaacaaaa
+     1741 caaaacaaaa caaaacaaca acaaaacatt agattgcatt cctaaagcta gcccccaaag
+     1801 tctcttccct tatttggcca gtttctcctc cttaggctga ctaccaaggt cccctatcaa
+     1861 agtattgaag tccagcaatc aaaggccctc tttgaggccg ggcagtggtg gtgaatgcct
+     1921 ttaatcccag catttgggag gcagaggcag gaggatttct gagttcaagg ccagcctggt
+     1981 ctacagagtg agttccagga cagccagggc tacaacagag aaatcctgtc tcgaaaatca
+     2041 aaaaaaaaaa aaaaaaaaaa aggccctctt tggttcaccc aatacgccca atcaaaacat
+     2101 accaaggcac ccagcccatt ctaacacaga cctccccttt tcccgattct tataaattac
+     2161 acctgcaagg tcatttgctg ctgtttttct gtctgagtca gaaaatagcc actttaactt
+     2221 ttcttcaccg cttaataaaa ggtctctctg tgaaaacc
+//

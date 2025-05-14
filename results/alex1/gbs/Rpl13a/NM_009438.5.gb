@@ -1,0 +1,215 @@
+LOCUS       NM_009438               1039 bp    mRNA    linear   ROD 27-APR-2025
+DEFINITION  Mus musculus ribosomal protein L13A (Rpl13a), mRNA.
+ACCESSION   NM_009438
+VERSION     NM_009438.5
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1039)
+  AUTHORS   Kour,R., Kim,J., Roy,A., Richardson,B., Cameron,M.J., Knott,J.G. and
+            Mazumder,B.
+  TITLE     Loss of function of ribosomal protein L13a blocks blastocyst
+            formation and reveals a potential nuclear role in gene expression
+  JOURNAL   FASEB J 37 (12), e23275 (2023)
+   PUBMED   37902531
+  REMARK    GeneRIF: Loss of function of ribosomal protein L13a blocks
+            blastocyst formation and reveals a potential nuclear role in gene
+            expression.
+REFERENCE   2  (bases 1 to 1039)
+  AUTHORS   Li,H., Huo,Y., He,X., Yao,L., Zhang,H., Cui,Y., Xiao,H., Xie,W.,
+            Zhang,D., Wang,Y., Zhang,S., Tu,H., Cheng,Y., Guo,Y., Cao,X.,
+            Zhu,Y., Jiang,T., Guo,X., Qin,Y. and Sha,J.
+  TITLE     A male germ-cell-specific ribosome controls male fertility
+  JOURNAL   Nature 612 (7941), 725-731 (2022)
+   PUBMED   36517592
+REFERENCE   3  (bases 1 to 1039)
+  AUTHORS   Basu,A., Dvorina,N., Baldwin,W.M. 3rd and Mazumder,B.
+  TITLE     High-fat diet-induced GAIT element-mediated translational silencing
+            of mRNAs encoding inflammatory proteins in macrophage protects
+            against atherosclerosis
+  JOURNAL   FASEB J 34 (5), 6888-6906 (2020)
+   PUBMED   32232901
+REFERENCE   4  (bases 1 to 1039)
+  AUTHORS   Elliott,B.A., Ho,H.T., Ranganathan,S.V., Vangaveti,S., Ilkayeva,O.,
+            Abou Assi,H., Choi,A.K., Agris,P.F. and Holley,C.L.
+  TITLE     Modification of messenger RNA by 2'-O-methylation regulates gene
+            expression in vivo
+  JOURNAL   Nat Commun 10 (1), 3401 (2019)
+   PUBMED   31363086
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 1039)
+  AUTHORS   Rimer,J.M., Lee,J., Holley,C.L., Crowder,R.J., Chen,D.L.,
+            Hanson,P.I., Ory,D.S. and Schaffer,J.E.
+  TITLE     Long-range function of secreted small nucleolar RNAs that direct
+            2'-O-methylation
+  JOURNAL   J Biol Chem 293 (34), 13284-13296 (2018)
+   PUBMED   29980600
+REFERENCE   6  (bases 1 to 1039)
+  AUTHORS   Palis,J. and Kingsley,P.D.
+  TITLE     Differential gene expression during early murine yolk sac
+            development
+  JOURNAL   Mol Reprod Dev 42 (1), 19-27 (1995)
+   PUBMED   8562047
+REFERENCE   7  (bases 1 to 1039)
+  AUTHORS   Segade,F., Claudio,E., Wrobel,K., Ramos,S. and Lazo,P.S.
+  TITLE     Isolation of nine gene sequences induced by silica in murine
+            macrophages
+  JOURNAL   J Immunol 154 (5), 2384-2392 (1995)
+   PUBMED   7868905
+REFERENCE   8  (bases 1 to 1039)
+  AUTHORS   Henikoff,S. and Henikoff,J.G.
+  TITLE     Protein family classification based on searching a database of
+            blocks
+  JOURNAL   Genomics 19 (1), 97-107 (1994)
+   PUBMED   8188249
+REFERENCE   9  (bases 1 to 1039)
+  AUTHORS   Dyson,P.J., de Smet,C., Knight,A.M., Simon-Chazottes,D., Guenet,J.L.
+            and Boon,T.
+  TITLE     Mapping of the genes encoding tum- transplantation antigens P91A,
+            P35B, and P198
+  JOURNAL   Immunogenetics 35 (5), 316-323 (1992)
+   PUBMED   1348494
+REFERENCE   10  (bases 1 to 1039)
+  AUTHORS   Sibille,C., Chomez,P., Wildmann,C., Van Pel,A., De Plaen,E.,
+            Maryanski,J.L., de Bergeyck,V. and Boon,T.
+  TITLE     Structure of the gene of tum- transplantation antigen P198: a point
+            mutation generates a new antigenic peptide
+  JOURNAL   J Exp Med 172 (1), 35-45 (1990)
+   PUBMED   1694221
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK146318.1, AK077512.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN01164135,
+            SAMN02415134 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AV445288.1, BC086896.1 and BC042392.1.
+            On or before Jun 3, 2011 this sequence version replaced
+            XR_105101.1, XR_105102.1, XR_107897.1, NM_009438.4.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..1039
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:10090"
+                     /chromosome="7"
+                     /map="7 29.14 cM"
+     gene            1..1039
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /note="ribosomal protein L13A"
+                     /db_xref="GeneID:22121"
+                     /db_xref="MGI:MGI:1351455"
+     exon            1..46
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             32..643
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /note="60S ribosomal protein L13a; tum-P198 antigen;
+                     transplantation antigen P198; tum-transplantation antigen
+                     P198; tissue specific transplantation antigen P198-7"
+                     /codon_start=1
+                     /product="large ribosomal subunit protein uL13"
+                     /protein_id="NP_033464.2"
+                     /db_xref="CCDS:CCDS21230.1"
+                     /db_xref="GeneID:22121"
+                     /db_xref="MGI:MGI:1351455"
+                     /translation="MAEGQVLVLDGRGHLLGRLAAIVAKQVLLGRKVVVVRCEGINISG
+                     NFYRNKLKYLAFLRKRMNTNPSRGPYHFRAPSRIFWRTVRGMLPHKTKRGQAALERLKV
+                     LDGIPPPYDKKKRMVVPAALKVVRLKPTRKFAYLGRLAHEVGWKYQAVTATLEEKRKEK
+                     AKMHYRKKKQILRLRKQAEKNVEKKICKFTEVLKTNGLLV"
+     misc_feature    35..37
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /note="N-acetylalanine. /evidence=ECO:0000269|Ref.3;
+                     propagated from UniProtKB/Swiss-Prot (P19253.4);
+                     acetylation site"
+     misc_feature    260..262
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /note="Phosphoserine, by ZIPK/DAPK3.
+                     /evidence=ECO:0000269|PubMed:23071094; propagated from
+                     UniProtKB/Swiss-Prot (P19253.4); phosphorylation site"
+     misc_feature    602..604
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000250|UniProtKB:P40429; propagated from
+                     UniProtKB/Swiss-Prot (P19253.4); acetylation site"
+     exon            47..119
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /inference="alignment:Splign:2.1.0"
+     exon            120..185
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /inference="alignment:Splign:2.1.0"
+     exon            186..287
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /inference="alignment:Splign:2.1.0"
+     exon            288..373
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /inference="alignment:Splign:2.1.0"
+     exon            374..433
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /inference="alignment:Splign:2.1.0"
+     exon            434..556
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /inference="alignment:Splign:2.1.0"
+     exon            557..1026
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      648..653
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /note="hexamer: AATAAA"
+     polyA_site      668
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /note="major polyA site"
+     regulatory      1008..1013
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /note="hexamer: AATAAA"
+     polyA_site      1026
+                     /gene="Rpl13a"
+                     /gene_synonym="1810026N22Rik; Tstap198-7; tum-antigen"
+                     /note="major polyA site"
+ORIGIN
+        1 gacctcctcc tttcccaggc ggctgccgaa gatggcggag gggcaggttc tggtattgga
+       61 tggccgaggc catcttcttg gccgcctggc ggccattgtg gccaagcagg tacttctggg
+      121 ccggaaggtg gtggtcgtac gctgtgaagg catcaacatt tctggaaact tctacagaaa
+      181 caagttaaag tatctggcct ttctccggaa gcggatgaat accaacccct cccgaggccc
+      241 ctaccacttc cgagccccca gccgcatttt ctggcgcact gtgcgaggca tgctgcccca
+      301 caagaccaag agaggccagg ctgccctgga gcgcctcaag gtgttggatg ggatccctcc
+      361 accctatgac aagaaaaagc ggatggtggt ccctgctgct ctcaaggttg ttcggctgaa
+      421 gcctaccaga aagtttgctt acctggggcg tctggcgcat gaggtcgggt ggaagtacca
+      481 ggcagtgaca gccactctgg aggagaaacg gaaggaaaag gccaagatgc actatcggaa
+      541 gaagaagcag atcttgaggt tacggaaaca ggcagaaaag aatgtggaga agaaaatctg
+      601 caagttcaca gaggtcctca agaccaacgg actcctggtg tgaacccaat aaagactgtt
+      661 tgcctcatgc ctgcctggcc tgcccttcct ccgccgccaa ctagggaagt ggggaccaaa
+      721 ggttccttag gcactgctcc tgtgggtaga ggggacatta gagagctgac agcgcaccac
+      781 ctgcatgagt ttttattaaa gtgcaaacca tgggatgaat cagttgagct tcagtgttga
+      841 aaatgagtag cagggctgcc ccacccacct gaccaagtac cctattctgc agctatgaaa
+      901 atgagatctg cacatgagct ggggttcaca agtgcacact tggagcactg ccttgctcct
+      961 tcccagcaga ccacaaagca gtatttttct ggaggatttt atgtgctaat aaattatttg
+     1021 acttaaaaaa aaaaaaaaa
+//

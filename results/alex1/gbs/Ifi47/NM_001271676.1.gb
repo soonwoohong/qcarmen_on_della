@@ -1,0 +1,160 @@
+LOCUS       NM_001271676            1937 bp    mRNA    linear   ROD 06-AUG-2023
+DEFINITION  Mus musculus interferon gamma inducible protein 47 (Ifi47),
+            transcript variant 2, mRNA.
+ACCESSION   NM_001271676
+VERSION     NM_001271676.1
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1937)
+  AUTHORS   Zuo B, Du X, Zhao J, Yang H, Wang C, Wu Y, Lu J, Wang Y and Chen Z.
+  TITLE     Analysis of microsatellite polymorphism in inbred knockout mice
+  JOURNAL   PLoS One 7 (4), e34555 (2012)
+   PUBMED   22509320
+REFERENCE   2  (bases 1 to 1937)
+  AUTHORS   Henry SC, Daniell X, Indaram M, Whitesides JF, Sempowski GD, Howell
+            D, Oliver T and Taylor GA.
+  TITLE     Impaired macrophage function underscores susceptibility to
+            Salmonella in mice lacking Irgm1 (LRG-47)
+  JOURNAL   J Immunol 179 (10), 6963-6972 (2007)
+   PUBMED   17982087
+REFERENCE   3  (bases 1 to 1937)
+  AUTHORS   Butcher BA, Greene RI, Henry SC, Annecharico KL, Weinberg JB,
+            Denkers EY, Sher A and Taylor GA.
+  TITLE     p47 GTPases regulate Toxoplasma gondii survival in activated
+            macrophages
+  JOURNAL   Infect Immun 73 (6), 3278-3286 (2005)
+   PUBMED   15908352
+REFERENCE   4  (bases 1 to 1937)
+  AUTHORS   Collazo CM, Yap GS, Sempowski GD, Lusby KC, Tessarollo L, Vande
+            Woude GF, Sher A and Taylor GA.
+  TITLE     Inactivation of LRG-47 and IRG-47 reveals a family of interferon
+            gamma-inducible genes with essential, pathogen-specific roles in
+            resistance to infection
+  JOURNAL   J Exp Med 194 (2), 181-188 (2001)
+   PUBMED   11457893
+REFERENCE   5  (bases 1 to 1937)
+  AUTHORS   Phillips RL, Ernst RE, Brunk B, Ivanova N, Mahan MA, Deanehan JK,
+            Moore KA, Overton GC and Lemischka IR.
+  TITLE     The genetic program of hematopoietic stem cells
+  JOURNAL   Science 288 (5471), 1635-1640 (2000)
+   PUBMED   10834841
+REFERENCE   6  (bases 1 to 1937)
+  AUTHORS   Gilly M, Damore MA and Wall R.
+  TITLE     A promoter ISRE and dual 5' YY1 motifs control IFN-gamma induction
+            of the IRG-47 G-protein gene
+  JOURNAL   Gene 179 (2), 237-244 (1996)
+   PUBMED   8972906
+REFERENCE   7  (bases 1 to 1937)
+  AUTHORS   Gilly M and Wall R.
+  TITLE     The IRG-47 gene is IFN-gamma induced in B cells and encodes a
+            protein with GTP-binding motifs
+  JOURNAL   J Immunol 148 (10), 3275-3281 (1992)
+   PUBMED   1578148
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BG914444.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AL645688.12.
+            Transcript Variant: This variant (2) differs in the 5' UTR compared
+            to variant 1. Variants 1, 2 and 3 encode the same protein.
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..1937
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="11"
+                     /map="11 29.08 cM"
+     gene            1..1937
+                     /gene="Ifi47"
+                     /gene_synonym="47kDa; Ifggc1; Igrd; Iigp4; Iipg4; IRG-47;
+                     Irgd"
+                     /note="interferon gamma inducible protein 47"
+                     /db_xref="GeneID:15953"
+                     /db_xref="MGI:MGI:99448"
+     exon            1..128
+                     /gene="Ifi47"
+                     /gene_synonym="47kDa; Ifggc1; Igrd; Iigp4; Iipg4; IRG-47;
+                     Irgd"
+                     /inference="alignment:Splign:2.1.0"
+     exon            129..338
+                     /gene="Ifi47"
+                     /gene_synonym="47kDa; Ifggc1; Igrd; Iigp4; Iipg4; IRG-47;
+                     Irgd"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    298..300
+                     /gene="Ifi47"
+                     /gene_synonym="47kDa; Ifggc1; Igrd; Iigp4; Iipg4; IRG-47;
+                     Irgd"
+                     /note="upstream in-frame stop codon"
+     exon            339..1937
+                     /gene="Ifi47"
+                     /gene_synonym="47kDa; Ifggc1; Igrd; Iigp4; Iipg4; IRG-47;
+                     Irgd"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             358..1620
+                     /gene="Ifi47"
+                     /gene_synonym="47kDa; Ifggc1; Igrd; Iigp4; Iipg4; IRG-47;
+                     Irgd"
+                     /note="interferon gamma inducible protein, 47 kDa;
+                     interferon-gamma-inducible GTPase Ifggc1 protein; Immunity
+                     related GTPase family D"
+                     /codon_start=1
+                     /product="interferon gamma inducible protein 47"
+                     /protein_id="NP_001258605.1"
+                     /db_xref="CCDS:CCDS24595.1"
+                     /db_xref="GeneID:15953"
+                     /db_xref="MGI:MGI:99448"
+                     /translation="MDQFISAFLKGASENSFQQLAKEFLPQYSALISKAGGMLSPETLT
+                     GIHKALQEGNLSDVMIQIQKAISAAENAILEVAVIGQSGTGKSSFINALRGLGHEADES
+                     ADVGTVETTMCKTPYQHPKYPKVIFWDLPGTGTPNFHADAYLDQVGFANYDFFIIISSS
+                     RFSLNDALLAQKIKDAGKKFYFVRTKVDSDLYNEQKAKPIAFKKEKVLQQIRDYCVTNL
+                     IKTGVTEPCIFLISNLDLGAFDFPKLEETLLKELPGHKRHMFALLLPNISDASIELKKH
+                     FLREKIWLEALKSAAVSFIPFMTFFKGFDLPEQEQCLKDYRSYFGLDDQSIKEIAEKLG
+                     APLADIKGELKCLDFWSLVKDNSIIAQATSAAEAFCAVKGGPESSAFQALKVYYRRTQF
+                     LNIVVDDAKHLLRKIETVNVA"
+ORIGIN
+        1 ttttttctct ctgctagggc tcattgcttc agactttcct gaaggagggc agacccgtgc
+       61 cgttggtggt ggctgtgctg tgggctgcag tgagaaacag acccggtatt ttctacttct
+      121 tggatctggc gtatgtgtgt gcctggtgtg atcagaaaaa agcgtcagac ccctgtagct
+      181 acaattatag actgtgagtg ctgggacctg atctgggtcc tcaggaatag cagtgtgtgc
+      241 tcttaactac tgacccaact ctccagacca ttccaccatc actgaaatgg tgtcagataa
+      301 tatacaattc aagaatcaat aaaacagatt aaaacccgag cttccctggt aactgccatg
+      361 gatcagttca tctcagcctt cctgaagggt gcttcagaaa atagtttcca acaattagct
+      421 aaggagtttc tgcctcagta ctctgcatta atcagtaagg caggaggcat gctctctcca
+      481 gaaaccctca ctggtattca caaagccctc caggagggaa atctctctga tgtcatgatc
+      541 cagattcaga aagcaattag tgctgcagag aatgctatcc tggaggtggc tgtgatcggg
+      601 cagtctggga ctggcaagtc cagttttata aatgcccttc gagggctggg ccacgaagca
+      661 gatgaatccg ctgatgttgg gactgtggag accactatgt gtaaaacccc ctatcaacat
+      721 ccaaaatatc ccaaagtgat cttctgggac ctgcctggga ctgggacacc caatttccac
+      781 gcagacgctt atctagacca agtgggattt gccaactatg acttcttcat catcatttct
+      841 tcttcccgct tcagcctcaa tgatgctctc ctggctcaga aaataaagga tgctgggaag
+      901 aagttctact ttgttagaac caaggtggat agtgacttat ataatgaaca gaaagccaaa
+      961 cccatagctt tcaagaagga gaaagtcctt cagcagattc gagactactg tgtgactaat
+     1021 ctcatcaaaa ctggggtgac tgaaccatgc atcttcctga tctccaactt ggatctgggt
+     1081 gcgtttgatt tccccaagct ggaggagact ctgctaaagg agctccctgg gcacaagcgt
+     1141 catatgtttg ccctgctctt gcccaatatc tcggatgctt ccattgagct aaagaaacat
+     1201 tttcttcggg agaagatctg gctggaggcc ttgaagtcag cagctgtgag cttcatcccc
+     1261 ttcatgactt tctttaaggg ctttgatttg cctgaacaag aacagtgctt gaaggattac
+     1321 cgaagctatt ttggcttgga tgatcaatcg attaaagaga ttgctgaaaa attgggcgca
+     1381 cccttggcag acatcaaggg ggaacttaag tgcttggatt tctggtccct tgtaaaggat
+     1441 aacagcataa tagcgcaagc tacgagtgct gctgaagctt tttgtgctgt gaaaggaggc
+     1501 cctgaatctt ctgccttcca ggctttaaaa gtctattata ggcgcacaca gttccttaac
+     1561 atagtggttg acgatgctaa acatctcttg agaaagatag aaacagtaaa tgttgcctag
+     1621 ctaaacagtg aatggatttc aaattgtgtg tccaaattgg caatggggtt ggttgtcctt
+     1681 ccaccaaact cccaggccag ctcttcccta agctccacag aagtgtatcc catgaaggaa
+     1741 gtccattgct tccctctaga gattactacc atgcatgaat tgttttttgc tcataccctg
+     1801 tttcctgtgt tcattgattt attattcttg ataatagtca gcaataacat accacctgcc
+     1861 tctgtgttaa gagataacct gtttctgatc catttgtacc aataaaaaaa gtttgtaata
+     1921 acaagatgag acttaga
+//

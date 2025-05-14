@@ -1,11 +1,8 @@
 # General imports
-# this requests crawling keeps failing on Della. In my opinion, it accesses the source too fast & too many.
-# replace this with Bio.Entrez
-#import requests
-import xml.etree.ElementTree as ET
-from io import StringIO
+# Note that general internet access is not allowed in usual della. So you cannot access the NCBI database.
+
 import os
-import time
+
 
 # Biopython imports
 from Bio import SeqIO, Entrez
