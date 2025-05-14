@@ -1,12 +1,14 @@
 # General imports
-import requests
+# this requests crawling keeps failing on Della. In my opinion, it accesses the source too fast & too many.
+# replace this with Bio.Entrez
+#import requests
 import xml.etree.ElementTree as ET
 from io import StringIO
 import os
 import time
 
 # Biopython imports
-from Bio import SeqIO
+from Bio import SeqIO, Entrez
 
 # Gets genbank files associated with a given gene name
 def get_gbs(
@@ -15,70 +17,36 @@ def get_gbs(
     ncbi_key: str,
 ):
     print("Searching for", gene_name)
-    # The base URL to call NIH nuccore API
-    base_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+    Entrez.api_key = ncbi_key
+    # The base query
+    # Build your query string exactly as before
+    query = (
+        f'({gene_name}[Gene Name] NOT PREDICTED[Title] AND srcdb_refseq[PROP]) '
+        f'AND "{organism}"[porgn] AND srcdb_refseq[PROP] AND biomol_mrna[PROP]'
+    )
+    # 1) ESearch: get up to `retmax` IDs
+    with Entrez.esearch(db="nuccore", term=query) as es:
+        search_results = Entrez.read(es)
 
-    esearch_url = (base_url 
-        + "esearch.fcgi" 
-        + "?db=nuccore" 
-        + "&api_key=" + ncbi_key)
+    id_list = search_results.get("IdList", [])
+    if not id_list:
+        print("  → no hits.")
+        return []
 
-    # We add onto the base URL using the gene of interest
-    esearch_url += '&term=(' + gene_name + '[Gene Name] NOT PREDICTED [Title] AND srcdb_refseq[PROP]) AND "' + organism + '"[porgn] AND srcdb_refseq[PROP] AND biomol_mrna[PROP]'
+    # 2) EFetch: retrieve GenBank (gbwithparts) for those IDs
+    ids = ",".join(id_list)
+    with Entrez.efetch(
+            db="nuccore",
+            id=ids,
+            rettype="gbwithparts",
+            retmode="text"
+    ) as fetch_handle:
+        records = list(SeqIO.parse(fetch_handle, "genbank"))
 
-    # Then, we call the API to get IDs for the transcripts
-    response = requests.get(esearch_url, timeout=5)
-    time.sleep(1)
-    # Convert the response (in XML form) into an XML tree
-    tree = ET.fromstring(response.text)
-
-    # Check number of results returned
-    if tree[0].text == "0": return []
-
-    # Collect transcript IDs
-    transcript_ids = [el.text for el in tree[3]]
-
-    epost_url = (base_url 
-        + "epost.fcgi" 
-        + "?db=nuccore" 
-        + "&api_key=" + ncbi_key 
-        + "&id=" 
-        + ",".join(transcript_ids))
-
-    epost_res = requests.get(epost_url, timeout=5)
-    time.sleep(1)
-    epost_tree = ET.fromstring(epost_res.text)
-
-    query_key = epost_tree[0].text
-    web_env = epost_tree[1].text
-
-    efetch_url = (base_url 
-        + "efetch.fcgi" 
-        + "?db=nuccore" 
-        + "&api_key=" + ncbi_key 
-        + "&query_key=" + query_key
-        + "&WebEnv=" + web_env
-        + "&rettype=gbwithparts" 
-        + "&retmode=text"
-        + "&retmax=100")
-
-    efetch_res = requests.get(efetch_url, timeout=5)
-    time.sleep(1)
-    if efetch_res.status_code != 200:
-        efetch_res.raise_for_status()
-        raise RuntimeError(f"Request returned status code {efetch_res.status_code}")
-
-    # Convert returned fastas into a String
-    gbs = efetch_res.text
-
-    # print("GBs for gene", gene_name, gbs)
-
-    retrieved_records = list(SeqIO.parse(StringIO(gbs), "genbank"))
-
-    print("Number of retrieved records for", gene_name, len(retrieved_records))
-
-    # Return all records
-    return [record for record in retrieved_records if not ("PREDICTED".lower() in record.description.lower())]
+    # Filter out any predicted entries just in case
+    filtered = [r for r in records if "PREDICTED" not in r.description.upper()]
+    print(f"  → retrieved {len(filtered)} records (of {len(records)})")
+    return filtered
 
 # Save a set of Genbank files for a given gene provided a root directory for gbs
 def save_gbs(gene_name, gb_list, gbs_root):
