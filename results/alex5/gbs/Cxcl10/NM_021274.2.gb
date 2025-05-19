@@ -1,0 +1,206 @@
+LOCUS       NM_021274               1120 bp    mRNA    linear   ROD 06-MAY-2025
+DEFINITION  Mus musculus C-X-C motif chemokine ligand 10 (Cxcl10), mRNA.
+ACCESSION   NM_021274
+VERSION     NM_021274.2
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1120)
+  AUTHORS   Zhao,T., Jin,K., Wang,X., Su,X., Wang,Y., Gao,M., Luo,W., Yang,H.
+            and Yang,Z.
+  TITLE     GPAT4 sustains endoplasmic reticulum homeostasis in endocardial
+            cells and safeguards heart development
+  JOURNAL   Nat Commun 16 (1), 3345 (2025)
+   PUBMED   40199910
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1120)
+  AUTHORS   Majumdar,S., Weaver,J.D., Pontejo,S.M., Minai,M., Lu,X., Gao,J.L.,
+            Holmes,G., Johnson,R., Zhang,H., Kelsall,B.L., Farber,J.M.,
+            Alves,D.A. and Murphy,P.M.
+  TITLE     Cxcl10 is protective during mouse-adapted SARS-CoV-2 infection
+  JOURNAL   J Leukoc Biol 117 (3) (2025)
+   PUBMED   39607906
+REFERENCE   3  (bases 1 to 1120)
+  AUTHORS   Zerad,L., Gacem,N., Gayda,F., Day,L., Sinigaglia,K., Richard,L.,
+            Parisot,M., Cagnard,N., Mathis,S., Bole-Feysot,C., O'Connell,M.A.,
+            Pingault,V., Dambroise,E., Keegan,L.P., Vallat,J.M. and Bondurand,N.
+  TITLE     Overexpression of Egr1 Transcription Regulator Contributes to
+            Schwann Cell Differentiation Defects in Neural Crest-Specific Adar1
+            Knockout Mice
+  JOURNAL   Cells 13 (23), 1952 (2024)
+   PUBMED   39682701
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 1120)
+  AUTHORS   Nedomova,M., Haberecht-Muller,S., Moller,S., Venz,S.,
+            Prochazkova,M., Prochazka,J., Sedlak,F., Chawengsaksophak,K.,
+            Hammer,E., Kasparek,P., Adamek,M., Sedlacek,R., Konvalinka,J.,
+            Kruger,E. and Grantz Saskova,K.
+  TITLE     DDI2 protease controls embryonic development and inflammation via
+            TCF11/NRF1
+  JOURNAL   iScience 27 (10), 110893 (2024)
+   PUBMED   39328932
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 1120)
+  AUTHORS   Liu,F., Sun,X., Deng,S., Wu,Y., Liu,X., Wu,C., Huang,K., Li,Y.,
+            Dong,Z., Xiao,W., Li,M., Chen,Z., Ju,Z., Xiao,J., Du,J. and Zeng,H.
+  TITLE     Cxcl10 and Cxcr3 regulate self-renewal and differentiation of
+            hematopoietic stem cells
+  JOURNAL   Stem Cell Res Ther 15 (1), 248 (2024)
+   PUBMED   39113086
+  REMARK    GeneRIF: Cxcl10 and Cxcr3 regulate self-renewal and differentiation
+            of hematopoietic stem cells. Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 1120)
+  AUTHORS   Smith,J.B. and Herschman,H.R.
+  TITLE     Glucocorticoid-attenuated response genes encode intercellular
+            mediators, including a new C-X-C chemokine
+  JOURNAL   J Biol Chem 270 (28), 16756-16765 (1995)
+   PUBMED   7622488
+REFERENCE   7  (bases 1 to 1120)
+  AUTHORS   Gattass,C.R., King,L.B., Luster,A.D. and Ashwell,J.D.
+  TITLE     Constitutive expression of interferon gamma-inducible protein 10 in
+            lymphoid organs and inducible expression in T cells and thymocytes
+  JOURNAL   J Exp Med 179 (4), 1373-1378 (1994)
+   PUBMED   8145049
+REFERENCE   8  (bases 1 to 1120)
+  AUTHORS   Narumi,S., Wyner,L.M., Stoler,M.H., Tannenbaum,C.S. and
+            Hamilton,T.A.
+  TITLE     Tissue-specific expression of murine IP-10 mRNA following systemic
+            treatment with interferon gamma
+  JOURNAL   J Leukoc Biol 52 (1), 27-33 (1992)
+   PUBMED   1640172
+REFERENCE   9  (bases 1 to 1120)
+  AUTHORS   Vanguri,P. and Farber,J.M.
+  TITLE     Identification of CRG-2. An interferon-inducible mRNA predicted to
+            encode a murine monokine
+  JOURNAL   J Biol Chem 265 (25), 15049-15057 (1990)
+   PUBMED   2118520
+REFERENCE   10  (bases 1 to 1120)
+  AUTHORS   Ohmori,Y. and Hamilton,T.A.
+  TITLE     A macrophage LPS-inducible early gene encodes the murine homologue
+            of IP-10
+  JOURNAL   Biochem Biophys Res Commun 168 (3), 1261-1267 (1990)
+   PUBMED   2189406
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC030067.1, AK146144.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849380,
+            SAMN01164139 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BY165450.1 and BC030067.1.
+            On Jan 12, 2012 this sequence version replaced NM_021274.1.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..1120
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="5"
+                     /map="5 46.57 cM"
+     gene            1..1120
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /note="C-X-C motif chemokine ligand 10"
+                     /db_xref="GeneID:15945"
+                     /db_xref="MGI:MGI:1352450"
+     exon            1..136
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             76..372
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /note="C-X-C motif chemokine 10; gamma-IP10;
+                     small-inducible cytokine B10; interferon-gamma induced
+                     protein CRG-2; 10 kDa interferon gamma-induced protein;
+                     small inducible cytokine B subfamily (Cys-X-Cys), member
+                     10; chemokine (C-X-C motif) ligand 10; interferon activated
+                     gene 10"
+                     /codon_start=1
+                     /product="C-X-C motif chemokine 10 precursor"
+                     /protein_id="NP_067249.1"
+                     /db_xref="CCDS:CCDS39153.1"
+                     /db_xref="GeneID:15945"
+                     /db_xref="MGI:MGI:1352450"
+                     /translation="MNPSAAVIFCLILLGLSGTQGIPLARTVRCNCIHIDDGPVRMRAI
+                     GKLEIIPASLSCPRVEIIATMKKNDEQRCLNPESKTIKNLMKAFSQKRSKRAP"
+     sig_peptide     76..138
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     139..369
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /product="C-X-C motif chemokine 10. /id=PRO_0000005104"
+                     /note="propagated from UniProtKB/Swiss-Prot (P17515.1)"
+     exon            137..263
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /inference="alignment:Splign:2.1.0"
+     exon            264..353
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /inference="alignment:Splign:2.1.0"
+     exon            354..1101
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1075..1080
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /note="hexamer: AATAAA"
+     regulatory      1083..1088
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /note="hexamer: AATAAT"
+     polyA_site      1096
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+     polyA_site      1101
+                     /gene="Cxcl10"
+                     /gene_synonym="C7; CRG-2; gIP-10; Ifi10; INP10; IP-10;
+                     IP10; mob-1; Scyb10"
+                     /note="major polyA site"
+ORIGIN
+        1 ggcactcgag aagcgcttca tccaccgctg agagacatcc cgagccaacc ttccggaagc
+       61 ctccccatca gcaccatgaa cccaagtgct gccgtcattt tctgcctcat cctgctgggt
+      121 ctgagtggga ctcaagggat ccctctcgca aggacggtcc gctgcaactg catccatatc
+      181 gatgacgggc cagtgagaat gagggccata gggaagcttg aaatcatccc tgcgagccta
+      241 tcctgcccac gtgttgagat cattgccacg atgaaaaaga atgatgagca gagatgtctg
+      301 aatccggaat ctaagaccat caagaattta atgaaagcgt ttagccaaaa aaggtctaaa
+      361 agggctcctt aactggagtg aagccacgca cacaccccgg tgctgcgatg gatggacagc
+      421 agagagcctc tctccatcac tcccctttac ccagtggatg gctagtccta attgcccttg
+      481 gtcttctgaa aggtgaccag ccgtggtcac atcagctgct actcctcctg caggatgatg
+      541 gtcaagccat ggtcctgaga caaaagtaac tgccgaagca agaattcttt aagggctggt
+      601 ctgagtcctc gctcaagtgg ctgggatggc tgtcctagct ctgtactgta agctatgtgg
+      661 aggtgcgacg cccttcacca tgtgccatgc ccaggctgct ccccacaccc tccttgtcct
+      721 ccctagctca ggctcgtcag ttctaagttt acctgagctc ttttatttca gatgtaagac
+      781 tacaaattta agtttgtaag gacgaactta accaccatct tcccaagggg ttatcaagat
+      841 actcagagga acctgaaaat gtatgtgtaa atactattta atgaacgact gtacaaagta
+      901 gaattcctaa tgtatttttt gtatgctttg cattgtatat ggaagaactt gtgtcatcaa
+      961 gtatgtatca atgggtagtt aaagtttatt tttaaaaccg tccaatacct tttgtattat
+     1021 gtaacattca aaagacaatg tactgtattg aaagtagtaa gagacccaaa atgtaataaa
+     1081 gtaataataa ctgacatgaa aaaaaaaaaa aaaaaaaaaa
+//

@@ -1,0 +1,176 @@
+LOCUS       NM_010510                831 bp    mRNA    linear   ROD 06-MAY-2025
+DEFINITION  Mus musculus interferon beta 1, fibroblast (Ifnb1), mRNA.
+ACCESSION   NM_010510
+VERSION     NM_010510.2
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 831)
+  AUTHORS   Zhao,T., Jin,K., Wang,X., Su,X., Wang,Y., Gao,M., Luo,W., Yang,H.
+            and Yang,Z.
+  TITLE     GPAT4 sustains endoplasmic reticulum homeostasis in endocardial
+            cells and safeguards heart development
+  JOURNAL   Nat Commun 16 (1), 3345 (2025)
+   PUBMED   40199910
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 831)
+  AUTHORS   Lata,S., Yabaji,S.M., O'Connell,A.K., Gertje,H.P., Kirber,M.T.,
+            Crossland,N.A. and Kramnik,I.
+  TITLE     Protocol for 3D multiplexed fluorescent imaging of pulmonary TB
+            lesions using Opal-TSA dyes for signal amplification
+  JOURNAL   STAR Protoc 6 (1), 103640 (2025)
+   PUBMED   39982826
+REFERENCE   3  (bases 1 to 831)
+  AUTHORS   Wei,W., Gao,X., Qian,J., Li,L., Zhao,C., Xu,L., Zhu,Y., Liu,Z.,
+            Liu,N., Wang,X., Jin,Z., Liu,B., Xu,L., Dong,J., Zhang,S., Wang,J.,
+            Zhang,Y., Yu,Y., Yan,Z., Yang,Y., Lu,J., Fang,Y., Yuan,N. and
+            Wang,J.
+  TITLE     Beclin 1 prevents ISG15-mediated cytokine storms to secure fetal
+            hematopoiesis and survival
+  JOURNAL   J Clin Invest 135 (3), e177375 (2025)
+   PUBMED   39589832
+  REMARK    Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 831)
+  AUTHORS   Mertens,R.T., Misra,A., Xiao,P., Baek,S., Rone,J.M., Mangani,D.,
+            Sivanathan,K.N., Arojojoye,A.S., Awuah,S.G., Lee,I., Shi,G.P.,
+            Petrova,B., Brook,J.R., Anderson,A.C., Flavell,R.A., Kanarek,N.,
+            Hemberg,M. and Nowarski,R.
+  TITLE     A metabolic switch orchestrated by IL-18 and the cyclic dinucleotide
+            cGAMP programs intestinal tolerance
+  JOURNAL   Immunity 57 (9), 2077-2094 (2024)
+   PUBMED   38906145
+REFERENCE   5  (bases 1 to 831)
+  AUTHORS   Ashby,K.M., Voboril,M., Salgado,O.C., Lee,S.T., Martinez,R.J.,
+            O'Connor,C.H., Breed,E.R., Xuan,S., Roll,C.R., Bachigari,S.,
+            Heiland,H., Stetson,D.B., Kotenko,S.V. and Hogquist,K.A.
+  TITLE     Sterile production of interferons in the thymus affects T cell
+            repertoire selection
+  JOURNAL   Sci Immunol 9 (97), eadp1139 (2024)
+   PUBMED   39058762
+REFERENCE   6  (bases 1 to 831)
+  AUTHORS   Senda,T., Shimazu,T., Matsuda,S., Kawano,G., Shimizu,H.,
+            Nakamura,K.T. and Mitsui,Y.
+  TITLE     Three-dimensional crystal structure of recombinant murine
+            interferon-beta
+  JOURNAL   EMBO J 11 (9), 3193-3201 (1992)
+   PUBMED   1505514
+REFERENCE   7  (bases 1 to 831)
+  AUTHORS   Cornall,R.J., Friedman,J.M. and Todd,J.A.
+  TITLE     Mouse microsatellites from a flow-sorted 4:6 Robertsonian chromosome
+  JOURNAL   Mamm Genome 3 (11), 620-624 (1992)
+   PUBMED   1450512
+REFERENCE   8  (bases 1 to 831)
+  AUTHORS   Tanaka,N. and Taniguchi,T.
+  TITLE     Cytokine gene regulation: regulatory cis-elements and DNA binding
+            factors involved in the interferon system
+  JOURNAL   Adv Immunol 52, 263-281 (1992)
+   PUBMED   1442307
+  REMARK    Review article
+REFERENCE   9  (bases 1 to 831)
+  AUTHORS   Le Roy,H., Simon-Chazottes,D., Montagutelli,X. and Guenet,J.L.
+  TITLE     A set of anonymous DNA clones as markers for mouse gene mapping
+  JOURNAL   Mamm Genome 3 (4), 244-246 (1992)
+   PUBMED   1351769
+REFERENCE   10  (bases 1 to 831)
+  AUTHORS   Levan,G., Szpirer,J., Szpirer,C., Klinga,K., Hanson,C. and
+            Islam,M.Q.
+  TITLE     The gene map of the Norway rat (Rattus norvegicus) and comparative
+            mapping with mouse and man
+  JOURNAL   Genomics 10 (3), 699-718 (1991)
+   PUBMED   1889815
+COMMENT     ##Evidence-Data-START##
+            Transcript is intronless :: K00020.1, BC119395.1 [ECO:0000345]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AL772316.6.
+            On Sep 13, 2022 this sequence version replaced NM_010510.1.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..831
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="4"
+                     /map="4 41.91 cM"
+     gene            1..831
+                     /gene="Ifnb1"
+                     /gene_synonym="If1da1; Ifb; IFN-beta; IFNB"
+                     /note="interferon beta 1, fibroblast"
+                     /db_xref="GeneID:15977"
+                     /db_xref="MGI:MGI:107657"
+     exon            1..831
+                     /gene="Ifnb1"
+                     /gene_synonym="If1da1; Ifb; IFN-beta; IFNB"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             73..621
+                     /gene="Ifnb1"
+                     /gene_synonym="If1da1; Ifb; IFN-beta; IFNB"
+                     /note="interferon 1da1"
+                     /codon_start=1
+                     /product="interferon beta precursor"
+                     /protein_id="NP_034640.1"
+                     /db_xref="CCDS:CCDS18318.1"
+                     /db_xref="GeneID:15977"
+                     /db_xref="MGI:MGI:107657"
+                     /translation="MNNRWILHAAFLLCFSTTALSINYKQLQLQERTNIRKCQELLEQL
+                     NGKINLTYRADFKIPMEMTEKMQKSYTAFAIQEMLQNVFLVFRNNFSSTGWNETIVVRL
+                     LDELHQQTVFLKTVLEEKQEERLTWEMSSTALHLKSYYWRVQRYLKLMKYNSYAWMVVR
+                     AEIFRNFLIIRRLTRNFQN"
+     sig_peptide     73..135
+                     /gene="Ifnb1"
+                     /gene_synonym="If1da1; Ifb; IFN-beta; IFNB"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     136..618
+                     /gene="Ifnb1"
+                     /gene_synonym="If1da1; Ifb; IFN-beta; IFNB"
+                     /product="interferon beta"
+     misc_feature    142..144
+                     /gene="Ifnb1"
+                     /gene_synonym="If1da1; Ifb; IFN-beta; IFNB"
+                     /note="Phosphotyrosine.
+                     /evidence=ECO:0000250|UniProtKB:P70499; propagated from
+                     UniProtKB/Swiss-Prot (P01575.1); phosphorylation site"
+     misc_feature    220..222
+                     /gene="Ifnb1"
+                     /gene_synonym="If1da1; Ifb; IFN-beta; IFNB"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:3360010; propagated from
+                     UniProtKB/Swiss-Prot (P01575.1); glycosylation site"
+     misc_feature    340..342
+                     /gene="Ifnb1"
+                     /gene_synonym="If1da1; Ifb; IFN-beta; IFNB"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:3360010; propagated from
+                     UniProtKB/Swiss-Prot (P01575.1); glycosylation site"
+     misc_feature    361..363
+                     /gene="Ifnb1"
+                     /gene_synonym="If1da1; Ifb; IFN-beta; IFNB"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000269|PubMed:3360010; propagated from
+                     UniProtKB/Swiss-Prot (P01575.1); glycosylation site"
+ORIGIN
+        1 attctcactg cagcctttga cagcctttgc ctcatcttgc aggtagcagc cgacaccagc
+       61 ctggcttcca tcatgaacaa caggtggatc ctccacgctg cgttcctgct gtgcttctcc
+      121 accacagccc tctccatcaa ctataagcag ctccagctcc aagaaaggac gaacattcgg
+      181 aaatgtcagg agctcctgga gcagctgaat ggaaagatca acctcaccta cagggcggac
+      241 ttcaagatcc ctatggagat gacggagaag atgcagaaga gttacactgc ctttgccatc
+      301 caagagatgc tccagaatgt ctttcttgtc ttcagaaaca atttctccag cactgggtgg
+      361 aatgagacta ttgttgtacg tctcctggat gaactccacc agcagacagt gtttctgaag
+      421 acagtactag aggaaaagca agaggaaaga ttgacgtggg agatgtcctc aactgctctc
+      481 cacttgaaga gctattactg gagggtgcaa aggtacctta aactcatgaa gtacaacagc
+      541 tacgcctgga tggtggtccg agcagagatc ttcaggaact ttctcatcat tcgaagactt
+      601 accagaaact tccaaaactg aagacctgtc agttgatgcc tcagaatgag tggtggttgc
+      661 aggcaacctt taagcatcag aggcggactc tgggactggt agtgaatcta ctgcatttga
+      721 aaggtcaaag gaaaacagag tttttattaa tttataattt aaattatttt ctacttttta
+      781 tttaaacttt ttaacctcag aaaataaaat atttataata caaaaagtca a
+//

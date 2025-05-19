@@ -1,0 +1,173 @@
+LOCUS       NM_013653                579 bp    mRNA    linear   ROD 25-APR-2025
+DEFINITION  Mus musculus C-C motif chemokine ligand 5 (Ccl5), mRNA.
+ACCESSION   NM_013653
+VERSION     NM_013653.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 579)
+  AUTHORS   Yu,W., Yao,Y., Ye,N., Zhao,Y., Ye,Z., Wei,W., Zhang,L. and Chen,J.
+  TITLE     The myokine CCL5 recruits subcutaneous preadipocytes and promotes
+            intramuscular fat deposition in obese mice
+  JOURNAL   Am J Physiol Cell Physiol 326 (5), C1320-C1333 (2024)
+   PUBMED   38497114
+  REMARK    GeneRIF: The myokine CCL5 recruits subcutaneous preadipocytes and
+            promotes intramuscular fat deposition in obese mice.
+REFERENCE   2  (bases 1 to 579)
+  AUTHORS   Costa,R.M., Cerqueira,D.M., Bruder-Nascimento,A., Alves,J.V.,
+            Awata,W.M.C., Singh,S., Kufner,A., Prado,D.S., Johny,E.,
+            Cifuentes-Pagano,E., Hawse,W.F., Dutta,P., Pagano,P.J., Ho,J. and
+            Bruder-Nascimento,T.
+  TITLE     Role of the CCL5 and Its Receptor, CCR5, in the Genesis of
+            Aldosterone-Induced Hypertension, Vascular Dysfunction, and
+            End-Organ Damage
+  JOURNAL   Hypertension 81 (4), 776-786 (2024)
+   PUBMED   38240165
+  REMARK    GeneRIF: Role of the CCL5 and Its Receptor, CCR5, in the Genesis of
+            Aldosterone-Induced Hypertension, Vascular Dysfunction, and
+            End-Organ Damage.
+REFERENCE   3  (bases 1 to 579)
+  AUTHORS   Liao,X., Zeng,Q., Xie,L., Zhang,H., Hu,W., Xiao,L., Zhou,H.,
+            Wang,F., Xie,W., Song,J., Sun,X., Wang,D., Ding,Y., Jiao,Y., Mai,W.,
+            Aini,W., Hui,X., Liu,W., Hsueh,W.A. and Deng,T.
+  TITLE     Adipose stem cells control obesity-induced T cell infiltration into
+            adipose tissue
+  JOURNAL   Cell Rep 43 (3), 113963 (2024)
+   PUBMED   38492218
+REFERENCE   4  (bases 1 to 579)
+  AUTHORS   Zhao,F., Zhu,G., He,J., Xu,X., Zhu,W., Jiang,W. and He,G.
+  TITLE     CircMAPK1 promoted CD8 + T cell infiltration in LUAD by improving
+            the IGF2BP1 dependent CCL5 upregulation
+  JOURNAL   Int Immunopharmacol 127, 111267 (2024)
+   PUBMED   38091827
+  REMARK    GeneRIF: CircMAPK1 promoted CD8 + T cell infiltration in LUAD by
+            improving the IGF2BP1 dependent CCL5 upregulation.
+REFERENCE   5  (bases 1 to 579)
+  AUTHORS   Wang,J., Zhao,F., Xu,L., Wang,J., Zhai,J., Ren,L. and Zhu,G.
+  TITLE     C-C Motif Chemokine Ligand 5 (CCL5) Promotes Irradiation-Evoked
+            Osteoclastogenesis
+  JOURNAL   Int J Mol Sci 24 (22), 16168 (2023)
+   PUBMED   38003358
+  REMARK    GeneRIF: C-C Motif Chemokine Ligand 5 (CCL5) Promotes
+            Irradiation-Evoked Osteoclastogenesis. Publication Status:
+            Online-Only
+REFERENCE   6  (bases 1 to 579)
+  AUTHORS   Shin,H.S., Drysdale,B.E., Shin,M.L., Noble,P.W., Fisher,S.N. and
+            Paznekas,W.A.
+  TITLE     Definition of a lipopolysaccharide-responsive element in the
+            5'-flanking regions of MuRantes and crg-2
+  JOURNAL   Mol Cell Biol 14 (5), 2914-2925 (1994)
+   PUBMED   7513046
+REFERENCE   7  (bases 1 to 579)
+  AUTHORS   Danoff,T.M., Lalley,P.A., Chang,Y.S., Heeger,P.S. and Neilson,E.G.
+  TITLE     Cloning, genomic organization, and chromosomal localization of the
+            Scya5 gene encoding the murine chemokine RANTES
+  JOURNAL   J Immunol 152 (3), 1182-1189 (1994)
+   PUBMED   7507961
+REFERENCE   8  (bases 1 to 579)
+  AUTHORS   Schall,T.J., Simpson,N.J. and Mak,J.Y.
+  TITLE     Molecular cloning and expression of the murine RANTES cytokine:
+            structural and functional conservation between mouse and man
+  JOURNAL   Eur J Immunol 22 (6), 1477-1481 (1992)
+   PUBMED   1376260
+REFERENCE   9  (bases 1 to 579)
+  AUTHORS   Heeger,P., Wolf,G., Meyers,C., Sun,M.J., O'Farrell,S.C.,
+            Krensky,A.M. and Neilson,E.G.
+  TITLE     Isolation and characterization of cDNA from renal tubular epithelium
+            encoding murine Rantes
+  JOURNAL   Kidney Int 41 (1), 220-225 (1992)
+   PUBMED   1375672
+REFERENCE   10  (bases 1 to 579)
+  AUTHORS   Schall,T.J., Jongstra,J., Dyer,B.J., Jorgensen,J., Clayberger,C.,
+            Davis,M.M. and Krensky,A.M.
+  TITLE     A human T cell-specific molecule is a member of a new gene family
+  JOURNAL   J Immunol 141 (3), 1018-1025 (1988)
+   PUBMED   2456327
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC033508.1, AK003101.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849388
+            [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AK003101.1 and BE333205.1.
+            On Jan 15, 2008 this sequence version replaced NM_013653.2.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="11"
+                     /map="11 50.66 cM"
+     gene            1..579
+                     /gene="Ccl5"
+                     /gene_synonym="MuRantes; RANTES; Scya5; SISd; TCP228"
+                     /note="C-C motif chemokine ligand 5"
+                     /db_xref="GeneID:20304"
+                     /db_xref="MGI:MGI:98262"
+     exon            1..133
+                     /gene="Ccl5"
+                     /gene_synonym="MuRantes; RANTES; Scya5; SISd; TCP228"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             58..333
+                     /gene="Ccl5"
+                     /gene_synonym="MuRantes; RANTES; Scya5; SISd; TCP228"
+                     /note="C-C motif chemokine 5; SIS-delta; small-inducible
+                     cytokine A5; T-cell-specific protein RANTES; chemokine (C-C
+                     motif) ligand 5"
+                     /codon_start=1
+                     /product="C-C motif chemokine 5 precursor"
+                     /protein_id="NP_038681.2"
+                     /db_xref="CCDS:CCDS36254.1"
+                     /db_xref="GeneID:20304"
+                     /db_xref="MGI:MGI:98262"
+                     /translation="MKISAAALTIILTAAALCTPAPASPYGSDTTPCCFAYLSLALPRA
+                     HVKEYFYTSSKCSNLAVVFVTRRNRQVCANPEKKWVQEYINYLEMS"
+     sig_peptide     58..126
+                     /gene="Ccl5"
+                     /gene_synonym="MuRantes; RANTES; Scya5; SISd; TCP228"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     127..330
+                     /gene="Ccl5"
+                     /gene_synonym="MuRantes; RANTES; Scya5; SISd; TCP228"
+                     /product="C-C motif chemokine 5. /id=PRO_0000005179"
+                     /note="propagated from UniProtKB/Swiss-Prot (P30882.2)"
+     exon            134..245
+                     /gene="Ccl5"
+                     /gene_synonym="MuRantes; RANTES; Scya5; SISd; TCP228"
+                     /inference="alignment:Splign:2.1.0"
+     exon            246..532
+                     /gene="Ccl5"
+                     /gene_synonym="MuRantes; RANTES; Scya5; SISd; TCP228"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      507..512
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Ccl5"
+                     /gene_synonym="MuRantes; RANTES; Scya5; SISd; TCP228"
+                     /note="hexamer: ATTAAA"
+     polyA_site      532
+                     /gene="Ccl5"
+                     /gene_synonym="MuRantes; RANTES; Scya5; SISd; TCP228"
+                     /note="major polyA site"
+ORIGIN
+        1 cttgcagagg actctgagac agcacatgca tctcccacag cctctgccgc gggtaccatg
+       61 aagatctctg cagctgccct caccatcatc ctcactgcag ccgccctctg cacccccgca
+      121 cctgcctcac catatggctc ggacaccact ccctgctgct ttgcctacct ctccctcgcg
+      181 ctgcctcgtg cccacgtcaa ggagtatttc tacaccagca gcaagtgctc caatcttgca
+      241 gtcgtgtttg tcactcgaag gaaccgccaa gtgtgtgcca acccagagaa gaagtgggtt
+      301 caagaataca tcaactattt ggagatgagc taggatagag ggtttcttga ttctgaccct
+      361 gtatagcttc cctgtcattg cttgctctag tcctagccag cttggggatg ccactcagta
+      421 atcccctact cccactcggt cctgggaaaa tgggcatctc agctgctccg aggctctgca
+      481 cagcaaaccc aagaaatcag catttcatta aaatttcaga tgcaaggaca aaaaaaaaaa
+      541 aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaa
+//

@@ -1,0 +1,158 @@
+LOCUS       NM_001419039            2518 bp    mRNA    linear   ROD 02-JUN-2024
+DEFINITION  Mus musculus secreted and transmembrane 1B (Sectm1b), transcript
+            variant 4, mRNA.
+ACCESSION   NM_001419039
+VERSION     NM_001419039.1
+KEYWORDS    RefSeq.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2518)
+  AUTHORS   Mu,X., Wang,P., Wang,X., Li,Y., Zhao,H., Li,Q., Essandoh,K.,
+            Deng,S., Peng,T. and Fan,G.C.
+  TITLE     Identification of a Novel Antisepsis Pathway: Sectm1a Enhances
+            Macrophage Phagocytosis of Bacteria through Activating GITR
+  JOURNAL   J Immunol 205 (6), 1633-1643 (2020)
+   PUBMED   32769121
+  REMARK    GeneRIF: Identification of a Novel Antisepsis Pathway: Sectm1a
+            Enhances Macrophage Phagocytosis of Bacteria through Activating
+            GITR.
+REFERENCE   2  (bases 1 to 2518)
+  AUTHORS   Lyman,S.D., Escobar,S., Rousseau,A.M., Armstrong,A. and Fanslow,W.C.
+  TITLE     Identification of CD7 as a cognate of the human K12 (SECTM1) protein
+  JOURNAL   J Biol Chem 275 (5), 3431-3437 (2000)
+   PUBMED   10652336
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BC020159.1, SRR5189685.123495.1
+            [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849377,
+            SAMN00849380 [ECO:0000348]
+            ##Evidence-Data-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AL662887.13.
+FEATURES             Location/Qualifiers
+     source          1..2518
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="11"
+                     /map="11 84.87 cM"
+     gene            1..2518
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /note="secreted and transmembrane 1B"
+                     /db_xref="GeneID:58210"
+                     /db_xref="MGI:MGI:1929083"
+     exon            1..356
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            357..520
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    421..423
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /note="upstream in-frame stop codon"
+     CDS             427..1065
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /note="secreted and transmembrane protein 1b"
+                     /codon_start=1
+                     /product="secreted and transmembrane protein 1b precursor"
+                     /protein_id="NP_001405968.1"
+                     /db_xref="GeneID:58210"
+                     /db_xref="MGI:MGI:1929083"
+                     /translation="MLAYSVTSSGLFPRMLWALLLLAASLNAYNHVWDKPCCTEHEVSV
+                     NRGSRVVMACNISNNLRDVTIELVTSKKTSIIFNQTPPGNYSKDSWQLHIQGGQAQLVI
+                     TDAQGKHSGEYWWKLRGFQAEFKNFNLIVNAADRQKTEDLPVTKVPDKPPTAVRTEVII
+                     IIAIATTIIITGIGVFVWYKQFPVAPQIQMSVPCLIHGSPGIPYLTLPP"
+     sig_peptide     427..510
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     exon            521..829
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /inference="alignment:Splign:2.1.0"
+     exon            830..2518
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /inference="alignment:Splign:2.1.0"
+     polyA_site      1411
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /note="major polyA site"
+     regulatory      2456..2461
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /note="hexamer: AGTAAA"
+     regulatory      2484..2489
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /note="hexamer: AATAAA"
+     polyA_site      2485
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+     regulatory      2488..2493
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+                     /note="hexamer: AATATA"
+     polyA_site      2510
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+     polyA_site      2518
+                     /gene="Sectm1b"
+                     /gene_synonym="1810003C24Rik; K12; Sectm1"
+ORIGIN
+        1 agagaagcag gtaagaagct ggagcacaca tgcaggtgag aactggaggg gaggtggcac
+       61 ccagagtgtt ggggctctaa agcatgtggg gtgagaccct caggcagggt gtccctggct
+      121 gcagcctctc tgggaccctc tgtttattgg atgcctgtgt ctcagtgatt tgtccagagt
+      181 aaaggtgagg ctgaggagtg tccaggcacc ctggacatca ggagcagagt ggatctgtgt
+      241 ctctccaggt gcctcccacc aagctccagg aggagcaggt gcagcagctg ggttcttcgg
+      301 tgtgaactga atgggaagaa gagaacagag cattctttct tgtcatctga tcatgatgtc
+      361 caacaacaac aacaaaagac agtgaccaga acaattgtct cctgaggccc atcctaggaa
+      421 tgagccatgc tggcctactc tgtaacatcc tctggcctgt ttcccagaat gctctgggcc
+      481 ctccttctac tggcagcctc cctgaatgcc tataaccatg tctgggacaa accttgttgc
+      541 actgagcatg aagtatctgt aaacagaggc agccgcgtgg tgatggcctg taatatctcc
+      601 aacaatctca gagacgtcac cattgagttg gttaccagta aaaagactag catcatcttc
+      661 aatcaaacgc ctccaggaaa ctactctaag gattcatggc agcttcatat tcaaggaggc
+      721 caggcccagc tggtgatcac agatgctcag ggcaaacact caggggagta ctggtggaag
+      781 ctgcgtggat tccaggcaga gttcaaaaac ttcaacctga ttgttaatgc cgcagacaga
+      841 cagaagacag aggacttgcc agtcactaag gtccctgata agcccccaac tgcagtgcgg
+      901 acagaagtta tcatcatcat cgccattgct accaccatca tcatcacagg aatcggtgta
+      961 ttcgtttggt acaagcaatt ccctgtagct ccacagatac aaatgtcagt accttgtctg
+     1021 attcatgggt ctcctggtat cccctacctg acactgcccc cctaaagtct cccaattcct
+     1081 gcctcaaaag atactcaagg gaccttagta gctccaaaca tcaggctaca gagaacctca
+     1141 cctggctatg gctgacaatc caagccctga ttgacaagat cacaggaact ctctgtctcc
+     1201 caagccctca ttttgacctt gggacaggta gacgtcagaa tggggtctgt actcctcagg
+     1261 ttcctcccaa gactccagga caatttgcac tgaggacggc actgtggttt ttaactgagg
+     1321 ataccctgga agttgtctga acccctcctg tactcaaaac gtagactctg ttggggcttg
+     1381 ggggacatca aagtatttca gagtatccca agtgtgcgtg gtgtacctgc ttatttgtgt
+     1441 aagctctttg tgctgcagca tctgtgcctc acacaggccc aagccagggt ctcaggcagc
+     1501 ttttccctct cctctcccct tccttccaca tgcctttcct ttcttcctcc ctctctgact
+     1561 ccctctttct ccggatgagg aggctcacag ccttatgggc gattggaacc tcaggggtag
+     1621 ccccctgaag aatgacctcc cattcttgga ggtcccagaa caaggccaac accatggact
+     1681 tggagtccct gtaaccctac aagcatccat ggacctatca ccacccactg gcaacagcaa
+     1741 ggaagaacct tgtttgtatt tgctaggcac agtagcccat gtctcacgtc tggggagaag
+     1801 cacggaatcc catcatgtcc tgcgcagaga cagggacagg cctgatgatc cgggcctctc
+     1861 tggctctcaa taacacactt tcccctgtga tcgatacctg cttactcaga tcctcgattt
+     1921 ttcccaaaat cagcacggcc ctcgaccctc agggtttatc caccctgcct tttaaaggag
+     1981 gcctgaggtc cttccctgct aaactcactt cacttcccta tggtctccgg tgccagcagg
+     2041 ggcttgtggg agattcagta ccagctttgc tcctggcaca tagatcgtgt cttctgactc
+     2101 acagcaatag ttagtttccc aggtcttgct gtcagggtcc acggtcttat gtgagaaata
+     2161 gaggtccaaa atgatgcatc accacattcc taccactagg tggtggtgtg ggcctgtctg
+     2221 cggggaaacc tcagggacaa ggagctcact gaggggccga ggcctgctag tgggcaccgc
+     2281 ttttgtggga ggatagctgg accttcaaat tccccatgaa cctctttgta gaccctctcc
+     2341 ctgactctct acttacctcc gccctcacct gctgttcctc tcgggctagt ttatcttctt
+     2401 tactctaata ccaacttgaa caatttagtc ttaaatacac tgtaattcat tcttcagtaa
+     2461 aatacttcat gatgcaaatc ttaaataaat atagtaagtc aatgattcta taaagcca
+//

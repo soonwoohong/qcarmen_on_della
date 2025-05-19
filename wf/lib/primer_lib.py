@@ -30,6 +30,7 @@ def design_candidates(
     # Get target GenBank records
     target_gbs = [seq for ind, seq in enumerate(all_seqs) if ind in target_indices]
 
+
     # Create exon map
     exon_map = create_exon_map(all_seqs)
 
@@ -50,7 +51,6 @@ def design_candidates(
         shared_points
     )
 
-    print("Primer Search Res:", primer_search_res)
 
     # What exons or exon-junctions are the guides in?
     # Create a dictionary with exon/exon junction as keys and (guide, predicted_activity) as values
@@ -118,6 +118,8 @@ def design_candidates(
     # Store results of all combos
     combo_res = []
     # A combo contains a crRNA location, and one possible pool of n forward primers, and one possible pool of m reverse primers
+    #combos flat: [(1, ([0], [1])), (1, ([1], [1])), (1, ([2], [1]))]
+
     for combo in combos_flat:
         # First loop through all of the primers and see if any of them don't have any candidate primers
         missing_primers = False
@@ -229,7 +231,7 @@ def design_candidates(
     combo_res.sort(key=lambda x: x[3], reverse=True)
 
     non_target_seqs = [seq for ind, seq in enumerate(all_seqs) if ind not in target_indices]
-
+    print('non_target_seqs', non_target_seqs)
     print("Combo Res:", combo_res)
 
     # Choose the primer set with the highest score, then find the crRNA with the highest score and use that
@@ -607,7 +609,7 @@ def search_primer_sets(
 
     # Get non-target matrix
     non_target_matrix = loc_matrix[[ind for ind, target_ind in enumerate(target_indices) if target_ind == 0], :]
-
+    print('non_target',non_target_matrix)
     # Returns nCr for n and r
     def ncr(n, r):
         return int(np.math.factorial(n) / (np.math.factorial(r) * np.math.factorial(n - r)))

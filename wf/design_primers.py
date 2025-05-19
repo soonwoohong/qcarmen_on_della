@@ -7,7 +7,7 @@ from joblib import Parallel, delayed
 
 from .lib.search_lib import read_gbs
 from .lib.primer_lib import design_candidates
-
+from .lib.parallelization_lib import run_parallel_processes
 
 
 def primer_task(
@@ -32,45 +32,52 @@ def primer_task(
             all_targets.append(target_group)
 
     # Get genbank files
-    gb_path = "./results/" + project_name + "/gbs/"
+    gb_path = "./results/" + project_name + "/gbs"
 
     # Get guides
-    adapt_path = "./results/" + project_name + "/adapt_designs/"
+    adapt_path = "./results/" + project_name + "/adapt_designs"
 
     # Loop through each of the targets and their respective isoforms
     target_data = []
+    guides = get_crrnas(adapt_path)
+    # guides: {'Rpl13a': [('TTGGAGCACTGCCTTGCTCCTTCCCAGC', '7.562244534492493')], ...}
     for target in all_targets:
-        guides = get_crrnas(adapt_path)
+
         all_seqs = read_gbs(str(gb_path) + "/" + target["identifier"])
-        # print("Target Isoforms:", target["isoforms"])
+        # target: {'isoforms': [], 'identifier': 'Rtp4', 'adapt_file': './results/alex5/adapt_designs/Rtp4.tsv'}
+        # all_seq =[SeqRecord(seq=Seq('AGATTTGAGGAAGACAGTGAGCTGCTGAGTAACCCGGGGCCTCAGCTTCCACAC...GAA'), id='NM_023386.6', name='NM_023386', description='Mus musculus receptor transporter protein 4 (Rtp4), mRNA', dbxrefs=[])]
+
+        #print("Target Isoforms:", target["isoforms"])
         if len(target["isoforms"]) == 0:
             target_indices = list(range(len(all_seqs)))
         else:
             target_indices = [ind for ind, seq in enumerate(all_seqs) if seq.id in target["isoforms"]]
 
-        # print("Target inds:", target_indices)
 
         # Design primers + crRNA
         target_data.append((target["identifier"], [all_seqs, target_indices, guides[target["identifier"]]]))
 
-    # Multiprocessing
-    design_res = Parallel(n_jobs=-1, verbose=5, backend="loky")(delayed(design_function)(*cmd)
+
+    design_res = Parallel(n_jobs=-1, verbose=5, backend="loky")(delayed(design_function)(cmd)
                                                          for cmd in target_data)
+    design_res_in_dict = {idx: res for (idx, _), res in zip(target_data, design_res)}
+    #design_res = run_parallel_processes(design_function, target_data, timeout)
 
-
-    print("Design process complete.", design_res)
+    print("Design process complete.", design_res_in_dict)
 
     # Pickle the design result
     designs_pickled = "./results/" + project_name + "/primer_designs.pkl"
     with open(designs_pickled, "wb") as f:
-        pickle.dump(design_res.copy(), f)
+        pickle.dump(design_res_in_dict.copy(), f)
 
 
 def design_function(params):
     try:
-        return design_candidates(*params)
+
+        return design_candidates(*params[1])
     except:
         pass
+
 
 def get_crrnas(adapt_dir):
     """

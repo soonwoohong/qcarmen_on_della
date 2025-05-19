@@ -1,0 +1,162 @@
+LOCUS       NM_031367               2279 bp    mRNA    linear   ROD 27-APR-2025
+DEFINITION  Mus musculus interferon-induced protein 44 like (Ifi44l), mRNA.
+ACCESSION   NM_031367
+VERSION     NM_031367.1
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2279)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   2  (bases 1 to 2279)
+  AUTHORS   Busse,D.C., Habgood-Coote,D., Clare,S., Brandt,C., Bassano,I.,
+            Kaforou,M., Herberg,J., Levin,M., Eleouet,J.F., Kellam,P. and
+            Tregoning,J.S.
+  TITLE     Interferon-Induced Protein 44 and Interferon-Induced Protein 44-Like
+            Restrict Replication of Respiratory Syncytial Virus
+  JOURNAL   J Virol 94 (18), e00297-20 (2020)
+   PUBMED   32611756
+  REMARK    GeneRIF: Interferon-Induced Protein 44 and Interferon-Induced
+            Protein 44-Like Restrict Replication of Respiratory Syncytial Virus.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2279)
+  AUTHORS   Wiltshire,S.A., Leiva-Torres,G.A. and Vidal,S.M.
+  TITLE     Quantitative trait locus analysis, pathway analysis, and consomic
+            mapping show genetic variants of Tnni3k, Fpgt, or H28 control
+            susceptibility to viral myocarditis
+  JOURNAL   J Immunol 186 (11), 6398-6405 (2011)
+   PUBMED   21525387
+  REMARK    GeneRIF: Data identified Tnni3k, Fpgt and H28 as likely likely
+            candidates for Vms1.
+REFERENCE   4  (bases 1 to 2279)
+  AUTHORS   Malarkannan,S., Horng,T., Eden,P., Gonzalez,F., Shih,P.,
+            Brouwenstijn,N., Klinge,H., Christianson,G., Roopenian,D. and
+            Shastri,N.
+  TITLE     Differences that matter: major cytotoxic T cell-stimulating minor
+            histocompatibility antigens
+  JOURNAL   Immunity 13 (3), 333-344 (2000)
+   PUBMED   11021531
+REFERENCE   5  (bases 1 to 2279)
+  AUTHORS   Paul,P.R. and Elliott,R.W.
+  TITLE     Analysis of the mouse Amy locus in recombinant inbred mouse strains
+  JOURNAL   Biochem Genet 25 (7-8), 569-579 (1987)
+   PUBMED   2451911
+REFERENCE   6  (bases 1 to 2279)
+  AUTHORS   Mobraaten,L.E., Bunker,H.P., DeMaeyer-Guignard,J., DeMaeyer,E. and
+            Bailey,D.W.
+  TITLE     Location of histocompatibility and interferon loci on chromosome 3
+            of the mouse
+  JOURNAL   J Hered 75 (3), 233-234 (1984)
+   PUBMED   6203959
+REFERENCE   7  (bases 1 to 2279)
+  AUTHORS   Elliott,R.W.
+  TITLE     Use of two-dimensional electrophoresis to identify and map new mouse
+            genes
+  JOURNAL   Genetics 91 (2), 295-308 (1979)
+   PUBMED   447069
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AF336221.1 [ECO:0000332]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AF336221.1.
+            Summary: This gene encodes a minor histocompatibility antigen that
+            is involved in tissue graft rejection and is polymorphic in
+            different mouse strains. The 5' region of this gene, including the
+            translational start codon and the first 293 amino acids, is absent
+            from the C57BL/6J genome. The encoded antigen is not thought to be
+            expressed in C57BL/6J. [provided by RefSeq, Mar 2013].
+FEATURES             Location/Qualifiers
+     source          1..2279
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="BALB/c x BALB.B F1"
+                     /db_xref="taxon:10090"
+                     /chromosome="3"
+                     /map="3 76.94 cM"
+     gene            1..2279
+                     /gene="Ifi44l"
+                     /gene_synonym="H-28; H28; H28-1; NS1178"
+                     /note="interferon-induced protein 44 like"
+                     /db_xref="GeneID:15061"
+                     /db_xref="MGI:MGI:95975"
+     misc_feature    31..33
+                     /gene="Ifi44l"
+                     /gene_synonym="H-28; H28; H28-1; NS1178"
+                     /note="upstream in-frame stop codon"
+     CDS             85..1434
+                     /gene="Ifi44l"
+                     /gene_synonym="H-28; H28; H28-1; NS1178"
+                     /note="H28c minor histocompatibility antigen 1;
+                     histocompatibility 28"
+                     /codon_start=1
+                     /product="interferon-induced protein 44-like"
+                     /protein_id="NP_112735.1"
+                     /db_xref="GeneID:15061"
+                     /db_xref="MGI:MGI:95975"
+                     /translation="MKVTARLTWIEEKILEKLLGNASLTLLYQSSAHKNCVSEMTQKYS
+                     LQGSTMTVFHLEKDVVVGVFILENFPRLVSEKPCTCAWFSLKRNNSSGISALFLNTKVI
+                     VDSEELIIFSLDGLSLSVTPLRGFTLALNDTVMNGLELNLGHGFLPVECEIFRVDGIKK
+                     NPSFIKKMVTAEQHRGKLLSALRAYKPYKDLVSEGSYSLGGPSRLRESRAFSTQWKSAF
+                     QGHLTRQAHCGGSDESSITKQYRVYSIKDGKSGETLPFMLCDSMGLEEGEEAGLCIDDI
+                     PHILQGCVPDRYQFNPCEPMKPKHSPHAASPPLKDRIHCVAFVLHINSVNTLSDKMVAK
+                     LKKIRKDVVDCGIGYVALLTNVEEYDEVLDDSFANMTETVTSLSQVQNVQKWLNIPIAN
+                     ILMVSNYASERRLEPMKDILVFAALRQMLRAADDALEDLLLEDTGNLAPF"
+ORIGIN
+        1 tccgcaaccc agaaaaaagg agttctctac tgaagttatc ctctagttca gtctgctccg
+       61 ggtcacagca tcagttacag gaacatgaaa gtgacagcca gattgacatg gatagaagag
+      121 aagattctgg aaaagctgct tgggaacgca tcattgactc ttctttatca gtccagtgct
+      181 cataaaaatt gtgtttctga gatgactcag aaatattctc ttcagggatc cacaatgaca
+      241 gtatttcacc tagagaaaga tgttgttgtg ggtgttttta tactggagaa ttttcctagg
+      301 ttagtctctg aaaagccatg tacttgtgcg tggttttcat taaaaaggaa taatagttct
+      361 ggaatatcag ctttgttttt gaacacaaaa gtaatagttg actctgaaga gctgataatt
+      421 ttctcactcg atggtttgtc actcagtgtg actccactta gaggcttcac acttgctcta
+      481 aatgatacag taatgaacgg tctagaactc aatcttggac atggctttct acctgtggaa
+      541 tgtgaaatct ttcgagttga tggcattaag aaaaatccaa gcttcataaa gaagatggtg
+      601 accgccgaac agcaccgagg aaaattactc tctgctctca gagcctacaa gccttataag
+      661 gacctggttt cagaaggttc gtattctctt ggtgggccca gtaggctcag ggaaagtcga
+      721 gctttttcaa ctcagtggaa gtctgctttc caaggccacc taactcgcca ggcccattgt
+      781 ggggggtctg acgaaagcag tatcaccaag cagtacagag tttattctat taaagatgga
+      841 aaaagcgggg aaacactccc atttatgctg tgtgattcaa tggggctgga ggagggggag
+      901 gaagccgggc tgtgcataga tgacattcct catatcttac aaggctgtgt accagacagg
+      961 tatcagttca acccctgtga gccgatgaag ccgaagcact cccctcacgc cgcctctccg
+     1021 cccctgaagg acaggattca ctgcgtggct tttgtcctac acatcaactc tgttaataca
+     1081 ctatctgata aaatggtggc aaagctgaaa aaaattcgca aagatgtagt agactgtggt
+     1141 ataggatatg tagccttgct tacaaatgtg gaggagtatg atgaagttct tgatgacagt
+     1201 tttgcaaaca tgacagaaac tgtgacttct ctaagccagg ttcagaatgt ccaaaaatgg
+     1261 ctaaatattc ctatagccaa tatcttgatg gtcagcaatt atgcttcaga gcgaaggttg
+     1321 gagcctatga aggatattct ggtctttgct gctctcaggc agatgttgag ggctgcggat
+     1381 gatgccttag aggacttgct tctcgaggat actggtaacc tggctccttt ctaaagcact
+     1441 gccttttggg aaaccctcag ctgtagttca ctggggtgtt tggggaccat tttcctagcc
+     1501 ctgacatgta ttgtaatatg tgctagcttc tgcttttgct tgccttgttt tggagcaatc
+     1561 tggggattgg cacatgctgc tgtgacatta gtgtccctgg atttagttta aacctgattg
+     1621 ccccaagaag aggcactctg ctgaaagcct ttgttaatgt tcgctgtcct tcaacaatga
+     1681 gtcacatatt aaaaatgcaa accctgagaa gtggagagag agagaggtcc tcggaaaaat
+     1741 gggcttccat atgcccacac catgtacagt tttatatgtg gaggacagag gtgtcagatc
+     1801 ccccccggaa ctgaaacagg ctcatgaacc atccagtgtg tgtacacatc tacatgtgtc
+     1861 tttctcaagc tccttaggca aaacaaactt ggctttgctt ttccttctcc agtacattat
+     1921 acaactctat gtaccggaat tgactgcaca gtagttagaa aatgatgtag atgtctgcta
+     1981 ttccaaatgg agcatgagtt cctcgagaaa caggatggat tgcttgtagt cccaaagctc
+     2041 atcaacaagg tctaactaag cattaaggga tcctcattat aagtcctctg taccaacttt
+     2101 ttttttctaa caatgatatt taacttagtt cacttgtctn tggttgaaag catgcatgta
+     2161 tctaaacaca tttaaaggaa ttgaaaagag ccaatatttg ttaacaactt gtttaattat
+     2221 agtactgttt taatttcatg aaataaagtt tctgcctgaa aaaaaaaaaa aaaaaaaaa
+//

@@ -61,7 +61,7 @@ def adapt_task(
 
     # Multiprocessing
     num_cores = os.cpu_count()
-    res = Parallel(n_jobs = -1, verbose=5, backend="loky")(delayed(complete_targets)(*cmd)
+    res = Parallel(n_jobs = -1, verbose=5, batch_size = 1)(delayed(complete_targets)(*cmd)
                                                            for cmd in complete_cmds)
 
 
@@ -99,7 +99,7 @@ def generate_adapt_cmd(
         other_isoforms = None
         isoform_fasta = fasta_dict[target_key + ".fasta"]
 
-    # Start by obtaining an alignment for the target transcripts
+    # Start by obtaining an a lignment for the target transcripts
     aligned_targets = align_seqs(isoform_fasta)
     other_genes = [indiv_fasta for fasta_name in fasta_dict.keys() if fasta_name != target_key + ".fasta" for indiv_fasta in fasta_dict[fasta_name]]
 

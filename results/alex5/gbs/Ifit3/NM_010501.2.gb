@@ -1,0 +1,219 @@
+LOCUS       NM_010501               1998 bp    mRNA    linear   ROD 06-MAY-2025
+DEFINITION  Mus musculus interferon-induced protein with tetratricopeptide
+            repeats 3 (Ifit3), mRNA.
+ACCESSION   NM_010501
+VERSION     NM_010501.2
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 1998)
+  AUTHORS   Zhao,T., Jin,K., Wang,X., Su,X., Wang,Y., Gao,M., Luo,W., Yang,H.
+            and Yang,Z.
+  TITLE     GPAT4 sustains endoplasmic reticulum homeostasis in endocardial
+            cells and safeguards heart development
+  JOURNAL   Nat Commun 16 (1), 3345 (2025)
+   PUBMED   40199910
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1998)
+  AUTHORS   Huang,X., Liu,Y., Rong,X., Zhao,Y., Feng,D., Wang,J. and Xing,W.
+  TITLE     IFIT3 mediates TBK1 phosphorylation to promote activation of pDCs
+            and exacerbate systemic sclerosis in mice
+  JOURNAL   Clin Transl Med 14 (9), e1800 (2024)
+   PUBMED   39305055
+  REMARK    GeneRIF: IFIT3 mediates TBK1 phosphorylation to promote activation
+            of pDCs and exacerbate systemic sclerosis in mice.
+REFERENCE   3  (bases 1 to 1998)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   4  (bases 1 to 1998)
+  AUTHORS   Sun,R., Wang,Y.F. and Yang,X.
+  TITLE     Knockdown of IFIT3 ameliorates multiple sclerosis via selectively
+            regulating M1 polarization of microglia in an experimental
+            autoimmune encephalomyelitis model
+  JOURNAL   Int Immunopharmacol 128, 111501 (2024)
+   PUBMED   38232539
+  REMARK    GeneRIF: Knockdown of IFIT3 ameliorates multiple sclerosis via
+            selectively regulating M1 polarization of microglia in an
+            experimental autoimmune encephalomyelitis model.
+REFERENCE   5  (bases 1 to 1998)
+  AUTHORS   Hu,H., Li,B., Chen,H., Fan,G., Ye,Z., Ji,S., Yu,X., Xu,X. and Qin,Y.
+  TITLE     NMI promotes tumor progression and gemcitabine resistance in
+            pancreatic cancer via STAT3-IFIT3 axis
+  JOURNAL   Mol Carcinog 63 (2), 195-208 (2024)
+   PUBMED   37846815
+  REMARK    GeneRIF: NMI promotes tumor progression and gemcitabine resistance
+            in pancreatic cancer via STAT3-IFIT3 axis.
+REFERENCE   6  (bases 1 to 1998)
+  AUTHORS   Wacher,C., Muller,M., Hofer,M.J., Getts,D.R., Zabaras,R.,
+            Ousman,S.S., Terenzi,F., Sen,G.C., King,N.J. and Campbell,I.L.
+  TITLE     Coordinated regulation and widespread cellular expression of
+            interferon-stimulated genes (ISG) ISG-49, ISG-54, and ISG-56 in the
+            central nervous system after infection with distinct viruses
+  JOURNAL   J Virol 81 (2), 860-871 (2007)
+   PUBMED   17079283
+  REMARK    GeneRIF: Expression increased significantly during LCMV and WNV
+            infection, being widespread and localized predominantly to common as
+            well as distinct neuronal populations in the brain.
+REFERENCE   7  (bases 1 to 1998)
+  AUTHORS   Yoshida,H., Okabe,Y., Kawane,K., Fukuyama,H. and Nagata,S.
+  TITLE     Lethal anemia caused by interferon-beta produced in mouse embryos
+            carrying undigested DNA
+  JOURNAL   Nat Immunol 6 (1), 49-56 (2005)
+   PUBMED   15568025
+REFERENCE   8  (bases 1 to 1998)
+  AUTHORS   Smith,J.B. and Herschman,H.R.
+  TITLE     The glucocorticoid attenuated response genes GARG-16, GARG-39, and
+            GARG-49/IRG2 encode inducible proteins containing multiple
+            tetratricopeptide repeat domains
+  JOURNAL   Arch Biochem Biophys 330 (2), 290-300 (1996)
+   PUBMED   8660659
+REFERENCE   9  (bases 1 to 1998)
+  AUTHORS   Smith,J.B. and Herschman,H.R.
+  TITLE     Glucocorticoid-attenuated response genes encode intercellular
+            mediators, including a new C-X-C chemokine
+  JOURNAL   J Biol Chem 270 (28), 16756-16765 (1995)
+   PUBMED   7622488
+REFERENCE   10  (bases 1 to 1998)
+  AUTHORS   Lee,C.G., Demarquoy,J., Jackson,M.J. and O'Brien,W.E.
+  TITLE     Molecular cloning and characterization of a murine LPS-inducible
+            cDNA
+  JOURNAL   J Immunol 152 (12), 5758-5767 (1994)
+   PUBMED   8207206
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK077459.1, AK153226.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849374,
+            SAMN00849375 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria      :: based on conservation, expression
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AK153226.1.
+            On May 4, 2007 this sequence version replaced NM_010501.1.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..1998
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="19"
+                     /map="19 29.74 cM"
+     gene            1..1998
+                     /gene="Ifit3"
+                     /gene_synonym="Ifi49; P49"
+                     /note="interferon-induced protein with tetratricopeptide
+                     repeats 3"
+                     /db_xref="GeneID:15959"
+                     /db_xref="MGI:MGI:1101055"
+     exon            1..76
+                     /gene="Ifit3"
+                     /gene_synonym="Ifi49; P49"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             72..1283
+                     /gene="Ifit3"
+                     /gene_synonym="Ifi49; P49"
+                     /note="IRG2; IFIT-3; GARG-49; glucocorticoid-attenuated
+                     response gene 49 protein"
+                     /codon_start=1
+                     /product="interferon-induced protein with tetratricopeptide
+                     repeats 3"
+                     /protein_id="NP_034631.1"
+                     /db_xref="CCDS:CCDS29762.1"
+                     /db_xref="GeneID:15959"
+                     /db_xref="MGI:MGI:1101055"
+                     /translation="MSEVNRESLEAILPQLKCHFTWNLFREGSMSSHMEDRVCNQVEHL
+                     NSEEKATMYDLLAYIKHLDGESKAALECLGQAEDLRKSEHNDQSEIRRLVTWGNYAWIY
+                     YHMGRLSEAQAYVDKVRQVCQKFANPYSMECPELECEEGWTRLKCGRNERAKMCFEKAL
+                     EEKPKDPECSSGMAIAMFRLEEKPEKQFSVDALKQAMELNPQNQYLKVLLALKLLRMGE
+                     EAEGERLIKDALGKAPNQTDVLQKAAQFYKKKGNLDRAIELLGKALRSTVNNSPLYSLV
+                     MCRYREILEQLQNKGDADSSERRQRMAELRRLTMEFMQKTLQRRRSPLNSYSDLIDFPE
+                     VERCYQMVISKESPDVEEEDLYERYCNLQEYHRKSEDLAALECLLQFPRNERSIEKEEV
+                     KEQT"
+     misc_feature    351..452
+                     /gene="Ifit3"
+                     /gene_synonym="Ifi49; P49"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64345.1);
+                     Region: TPR 1"
+     misc_feature    477..578
+                     /gene="Ifit3"
+                     /gene_synonym="Ifi49; P49"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64345.1);
+                     Region: TPR 2"
+     misc_feature    585..689
+                     /gene="Ifit3"
+                     /gene_synonym="Ifi49; P49"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64345.1);
+                     Region: TPR 3"
+     misc_feature    792..893
+                     /gene="Ifit3"
+                     /gene_synonym="Ifi49; P49"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q64345.1);
+                     Region: TPR 4"
+     exon            77..1998
+                     /gene="Ifit3"
+                     /gene_synonym="Ifi49; P49"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1724..1729
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Ifit3"
+                     /gene_synonym="Ifi49; P49"
+                     /note="hexamer: AATAAA"
+     polyA_site      1747
+                     /gene="Ifit3"
+                     /gene_synonym="Ifi49; P49"
+                     /note="major polyA site"
+ORIGIN
+        1 gtggactgag atttctgaac tgctcagccc acacccagct tttcccagca gcacagaaac
+       61 agatcaccat catgagtgag gtcaaccggg aatctctgga agcgatcctt ccacagctga
+      121 agtgccattt cacctggaat ttattcaggg aaggaagtat gtccagtcat atggaagaca
+      181 gggtgtgcaa ccaggtcgaa catttaaact ctgaggagaa ggcaacaatg tatgacttat
+      241 tggcctacat aaagcaccta gatggcgaaa gcaaggccgc cctggagtgc ttagggcaag
+      301 ctgaagattt aaggaagtca gagcacaatg atcaatcaga aattcgtcga ctggtcacct
+      361 ggggaaacta cgcctggatc tactatcaca tgggccgtct ctcagaagct caggcttacg
+      421 ttgacaaggt gagacaagtt tgccaaaagt ttgcgaatcc ttacagcatg gaatgcccag
+      481 aacttgaatg tgaggaagga tggacacgcc taaagtgtgg aagaaatgaa cgagcaaaaa
+      541 tgtgctttga aaaggctcta gaagagaagc caaaggaccc agagtgctcc tctgggatgg
+      601 ccatcgccat gttccgccta gaagaaaaac ctgagaagca gttctccgtg gatgctctga
+      661 agcaggccat ggagttgaat cctcagaacc agtacctgaa agttctcctg gccctgaaac
+      721 tgctgaggat gggagaagaa gctgaagggg agcgattgat taaagatgct ttggggaaag
+      781 ctcctaatca aacggatgtc ctccaaaagg cagctcagtt ttacaagaaa aagggtaacc
+      841 tagacagagc tattgagtta cttggaaaag cactgcgatc cacagtgaac aacagtcctc
+      901 tctactcttt ggtcatgtgc cgttacaggg aaatactgga gcagctacag aataaaggag
+      961 atgctgacag cagtgagaga agacagagga tggcagaact gagacgatta acgatggagt
+     1021 tcatgcagaa gactcttcag aggaggcgaa gtcctttgaa ctcctactca gatctcatcg
+     1081 atttcccgga agtagagaga tgctatcaga tggtcatcag taaggagagc cccgatgttg
+     1141 aggaagaaga cctctatgag cgctattgca acctccagga gtaccacagg aagtctgaag
+     1201 acctcgcagc cctggagtgt ttgttgcaat ttcccagaaa tgaaaggtca atcgagaagg
+     1261 aagaggttaa agagcaaaca tagcaagcag atcttaacct ccagtagcaa attgtggtgg
+     1321 attcttggca gttgcaggga taaaggagtg gctgaatggt tttggggttt gggaggcaac
+     1381 gcactttggg gcacaggcag gcttttcctg gcaccatgaa cctgaggaca accggaagtg
+     1441 tgtcagagtg cagacagaca gtctctcagc tctgtactgt gagacagatg tgctgtggag
+     1501 tgctgcttat ggggagaatg tgctgaaaaa agcatgagcc ttcctgccaa ggattgctga
+     1561 caaactgctc ttgattgttt ctttaaggaa ctgctttctc tccctgactc ctctgctcat
+     1621 cctagccata caattttcca gtcagcaaac ctcattacta atcatgtagg gaatggagct
+     1681 taaagcagac agagcacctt ttgatcacat tttttttctc tgcaataaat gacaactccc
+     1741 aacaaaattc actcttgttt cttcattcca tttcactgta gttgcttaag cctgaaggat
+     1801 taacctttgc ctaaggctag aatattcttt gcacatcatt tttgtattct actgtggttt
+     1861 tagggctgtg tgtgtgtgag tgtgtgtgtg tgtgtgtgtg tgtgtgtgtg tgtgtgtgtt
+     1921 tgtgtatccc taagaatgat tctaaagtta acatatatgc caaatagaaa ttgtagaata
+     1981 aatgtaaaag tttcaatc
+//

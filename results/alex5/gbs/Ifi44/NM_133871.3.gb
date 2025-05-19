@@ -1,0 +1,269 @@
+LOCUS       NM_133871               2860 bp    mRNA    linear   ROD 06-MAY-2025
+DEFINITION  Mus musculus interferon-induced protein 44 (Ifi44), transcript
+            variant 1, mRNA.
+ACCESSION   NM_133871
+VERSION     NM_133871.3
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 2860)
+  AUTHORS   Zhao,T., Jin,K., Wang,X., Su,X., Wang,Y., Gao,M., Luo,W., Yang,H.
+            and Yang,Z.
+  TITLE     GPAT4 sustains endoplasmic reticulum homeostasis in endocardial
+            cells and safeguards heart development
+  JOURNAL   Nat Commun 16 (1), 3345 (2025)
+   PUBMED   40199910
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2860)
+  AUTHORS   Nedomova,M., Haberecht-Muller,S., Moller,S., Venz,S.,
+            Prochazkova,M., Prochazka,J., Sedlak,F., Chawengsaksophak,K.,
+            Hammer,E., Kasparek,P., Adamek,M., Sedlacek,R., Konvalinka,J.,
+            Kruger,E. and Grantz Saskova,K.
+  TITLE     DDI2 protease controls embryonic development and inflammation via
+            TCF11/NRF1
+  JOURNAL   iScience 27 (10), 110893 (2024)
+   PUBMED   39328932
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 2860)
+  AUTHORS   Imai,T., Lin,J., Kaya,G.G., Ju,E., Kondylis,V., Kelepouras,K.,
+            Liccardi,G., Kim,C. and Pasparakis,M.
+  TITLE     The RIPK1 death domain restrains ZBP1- and TRIF-mediated cell death
+            and inflammation
+  JOURNAL   Immunity 57 (7), 1497-1513 (2024)
+   PUBMED   38744293
+REFERENCE   4  (bases 1 to 2860)
+  AUTHORS   Adams,D.J., Barlas,B., McIntyre,R.E., Salguero,I., van der
+            Weyden,L., Barros,A., Vicente,J.R., Karimpour,N., Haider,A.,
+            Ranzani,M., Turner,G., Thompson,N.A., Harle,V., Olvera-Leon,R.,
+            Robles-Espinoza,C.D., Speak,A.O., Geisler,N., Weninger,W.J.,
+            Geyer,S.H., Hewinson,J., Karp,N.A., Fu,B., Yang,F., Kozik,Z.,
+            Choudhary,J., Yu,L., van Ruiten,M.S., Rowland,B.D., Lelliott,C.J.,
+            Del Castillo Velasco-Herrera,M., Verstraten,R., Bruckner,L.,
+            Henssen,A.G., Rooimans,M.A., de Lange,J., Mohun,T.J., Arends,M.J.,
+            Kentistou,K.A., Coelho,P.A., Zhao,Y., Zecchini,H., Perry,J.R.B.,
+            Jackson,S.P. and Balmus,G.
+  CONSRTM   Sanger Mouse Genetics Project
+  TITLE     Genetic determinants of micronucleus formation in vivo
+  JOURNAL   Nature 627 (8002), 130-136 (2024)
+   PUBMED   38355793
+REFERENCE   5  (bases 1 to 2860)
+  AUTHORS   de Reuver,R., Verdonck,S., Dierick,E., Nemegeer,J., Hessmann,E.,
+            Ahmad,S., Jans,M., Blancke,G., Van Nieuwerburgh,F., Botzki,A.,
+            Vereecke,L., van Loo,G., Declercq,W., Hur,S., Vandenabeele,P. and
+            Maelfait,J.
+  TITLE     ADAR1 prevents autoinflammation by suppressing spontaneous ZBP1
+            activation
+  JOURNAL   Nature 607 (7920), 784-789 (2022)
+   PUBMED   35859175
+REFERENCE   6  (bases 1 to 2860)
+  AUTHORS   Busse,D.C., Habgood-Coote,D., Clare,S., Brandt,C., Bassano,I.,
+            Kaforou,M., Herberg,J., Levin,M., Eleouet,J.F., Kellam,P. and
+            Tregoning,J.S.
+  TITLE     Interferon-Induced Protein 44 and Interferon-Induced Protein 44-Like
+            Restrict Replication of Respiratory Syncytial Virus
+  JOURNAL   J Virol 94 (18), e00297-20 (2020)
+   PUBMED   32611756
+  REMARK    GeneRIF: Interferon-Induced Protein 44 and Interferon-Induced
+            Protein 44-Like Restrict Replication of Respiratory Syncytial Virus.
+            Publication Status: Online-Only
+REFERENCE   7  (bases 1 to 2860)
+  AUTHORS   Heraud-Farlow,J.E., Chalk,A.M., Linder,S.E., Li,Q., Taylor,S.,
+            White,J.M., Pang,L., Liddicoat,B.J., Gupte,A., Li,J.B. and
+            Walkley,C.R.
+  TITLE     Protein recoding by ADAR1-mediated RNA editing is not essential for
+            normal development and homeostasis
+  JOURNAL   Genome Biol 18 (1), 166 (2017)
+   PUBMED   28874170
+  REMARK    Publication Status: Online-Only
+REFERENCE   8  (bases 1 to 2860)
+  AUTHORS   Dickinson,M.E., Flenniken,A.M., Ji,X., Teboul,L., Wong,M.D.,
+            White,J.K., Meehan,T.F., Weninger,W.J., Westerberg,H., Adissu,H.,
+            Baker,C.N., Bower,L., Brown,J.M., Caddle,L.B., Chiani,F., Clary,D.,
+            Cleak,J., Daly,M.J., Denegre,J.M., Doe,B., Dolan,M.E., Edie,S.M.,
+            Fuchs,H., Gailus-Durner,V., Galli,A., Gambadoro,A., Gallegos,J.,
+            Guo,S., Horner,N.R., Hsu,C.W., Johnson,S.J., Kalaga,S., Keith,L.C.,
+            Lanoue,L., Lawson,T.N., Lek,M., Mark,M., Marschall,S., Mason,J.,
+            McElwee,M.L., Newbigging,S., Nutter,L.M., Peterson,K.A.,
+            Ramirez-Solis,R., Rowland,D.J., Ryder,E., Samocha,K.E.,
+            Seavitt,J.R., Selloum,M., Szoke-Kovacs,Z., Tamura,M., Trainor,A.G.,
+            Tudose,I., Wakana,S., Warren,J., Wendling,O., West,D.B., Wong,L.,
+            Yoshiki,A., MacArthur,D.G., Tocchini-Valentini,G.P., Gao,X.,
+            Flicek,P., Bradley,A., Skarnes,W.C., Justice,M.J., Parkinson,H.E.,
+            Moore,M., Wells,S., Braun,R.E., Svenson,K.L., de Angelis,M.H.,
+            Herault,Y., Mohun,T., Mallon,A.M., Henkelman,R.M., Brown,S.D.,
+            Adams,D.J., Lloyd,K.C., McKerlie,C., Beaudet,A.L., Bucan,M. and
+            Murray,S.A.
+  CONSRTM   International Mouse Phenotyping Consortium; Jackson Laboratory;
+            Infrastructure Nationale PHENOMIN, Institut Clinique de la Souris
+            (ICS); Charles River Laboratories; MRC Harwell; Toronto Centre for
+            Phenogenomics; Wellcome Trust Sanger Institute; RIKEN BioResource
+            Center
+  TITLE     High-throughput discovery of novel developmental phenotypes
+  JOURNAL   Nature 537 (7621), 508-514 (2016)
+   PUBMED   27626380
+  REMARK    Erratum:[Nature. 2017 Nov 16;551(7680):398. doi:
+            10.1038/nature24643. PMID: 29144450]
+REFERENCE   9  (bases 1 to 2860)
+  AUTHORS   Archambaud,C., Nahori,M.A., Soubigou,G., Becavin,C., Laval,L.,
+            Lechat,P., Smokvina,T., Langella,P., Lecuit,M. and Cossart,P.
+  TITLE     Impact of lactobacilli on orally acquired listeriosis
+  JOURNAL   Proc Natl Acad Sci U S A 109 (41), 16684-16689 (2012)
+   PUBMED   23012479
+REFERENCE   10  (bases 1 to 2860)
+  AUTHORS   Aly,M., Wiltshire,S., Chahrour,G., Osti,J.C. and Vidal,S.M.
+  TITLE     Complex genetic control of host susceptibility to coxsackievirus
+            B3-induced myocarditis
+  JOURNAL   Genes Immun 8 (3), 193-204 (2007)
+   PUBMED   17287827
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: AK136553.1, AK079749.1 [ECO:0000332]
+            RNAseq introns :: mixed sample support SAMN00849374, SAMN00849375
+            [ECO:0006172]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on conservation, expression, longest
+            protein
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            AC135237.6 and AC121969.3.
+            On Jun 1, 2019 this sequence version replaced NM_133871.2.
+            Sequence Note: The RefSeq transcript and protein were derived from
+            genomic sequence to make the sequence consistent with the reference
+            genome assembly. The genomic coordinates used for the transcript
+            record were based on alignments.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..2860
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="3"
+                     /map="3 76.91 cM"
+     gene            1..2860
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /note="interferon-induced protein 44"
+                     /db_xref="GeneID:99899"
+                     /db_xref="MGI:MGI:2443016"
+     exon            1..75
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /inference="alignment:Splign:2.1.0"
+     exon            76..575
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    128..130
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /note="upstream in-frame stop codon"
+     CDS             134..1402
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     microtubule-associated protein 44"
+                     /codon_start=1
+                     /product="interferon-induced protein 44 isoform 1"
+                     /protein_id="NP_598632.2"
+                     /db_xref="CCDS:CCDS17911.1"
+                     /db_xref="GeneID:99899"
+                     /db_xref="MGI:MGI:2443016"
+                     /translation="MAMRTRLTWQQEKCLQNYFGGKRFCLLYKASVQKFSHQNLLCTCE
+                     NQGPTMIVVYSEKCVIGMYLKEGFQGKDVSITIFALQETGFSLCAKGPDSPYLLFHKRK
+                     TNDFSILLDEKAVIVSSAICKMLQLTARNNVIPIQECEAFRCEELLDERKTRGIAVLHS
+                     NLLQALRDYKPYGDLVQQTRVLLLGPIGAGKSSFVNSVKSVFKGSITHQILVGCDEDGI
+                     SDKYRTYSIKAKDDSDPLPFILCDSLGLGENAGLHTDDVWHILKGHTPDRYQFDSMKPI
+                     TSNHPNYTHDPLLKDRIHCVVFVFDINSFEMHSSELVAKIKKIRRDLIKHGILHLALLT
+                     HVDSLDLITKEDMTDIYNYSPVKSKLEAFHGVFGFALSDILVVSNYVSEWQLDPVKDML
+                     ILSALKEILYTANEFLEDLPLNK"
+     exon            576..612
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /inference="alignment:Splign:2.1.0"
+     exon            613..808
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /inference="alignment:Splign:2.1.0"
+     exon            809..955
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /inference="alignment:Splign:2.1.0"
+     exon            956..1127
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1128..1228
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1229..2860
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2831..2836
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /note="hexamer: AATAAA"
+     polyA_site      2860
+                     /gene="Ifi44"
+                     /gene_synonym="A430056A10Rik; MTAP44; p44"
+                     /note="major polyA site"
+ORIGIN
+        1 attttctaca ggcttggtca ctgagacaga agctgccctc ctcggtgcca gcctcggtac
+       61 agactcttca cacagacttc cgtgtttaaa gaggactgtg ctctttaaga gggcttttcc
+      121 actagactga agtatggcca tgagaactcg tttgacatgg cagcaagaaa agtgcctgca
+      181 gaattatttt ggaggaaaac gtttttgtct tctttacaag gcgagtgtgc agaagttttc
+      241 tcatcagaat ttgctctgca catgtgagaa tcaaggtcct accatgatag tggtttacag
+      301 tgaaaagtgt gttattggca tgtacctgaa agagggcttc cagggaaaag atgtttctat
+      361 caccattttt gcactccaag agactggatt ttcactatgt gcaaaaggac cagattcacc
+      421 atatttattg ttccataaaa gaaaaactaa tgatttctct atactattag atgagaaagc
+      481 tgtgattgta agttcagcaa tctgtaaaat gctccaactg actgctcgca ataatgtcat
+      541 acctattcag gagtgtgaag cttttcgatg tgaagagttg ttggatgaaa gaaagacaag
+      601 aggcattgct gtgttacata gtaatttact gcaggccctg agagactaca agccctatgg
+      661 agacctggtt cagcaaacac gagttctgct gctgggtcct attggagctg ggaagtctag
+      721 ctttgtgaac tcagtcaagt ctgtgttcaa gggcagcatc acacaccaga tcttggtggg
+      781 ctgtgatgaa gatggaatct ctgacaagta caggacatat tccatcaagg ccaaggatga
+      841 cagtgacccc ctgccattta ttctgtgtga ctcactgggg ctgggtgaga atgccggctt
+      901 gcacacagat gatgtatggc acatcttaaa gggccacact cctgacagat accagttcga
+      961 ttccatgaaa ccaatcacat caaaccatcc gaactatacc catgacccac tgctgaagga
+     1021 cagaattcac tgtgtggttt ttgtgtttga tatcaattct tttgaaatgc actcttctga
+     1081 gctggtggca aagatcaaga aaattcgaag agacttgata aaacatggca ttctgcattt
+     1141 ggctttactt acacacgtgg atagcctgga tctgattaca aaagaagaca tgacagacat
+     1201 atacaactat agtcctgtga agtccaagct ggaggcattc catggagtct ttggttttgc
+     1261 cttatctgac atcttggtgg tgagtaatta tgtctcagag tggcagctgg accccgtgaa
+     1321 ggacatgctg atcctctcgg cactgaagga gatcctgtat actgcaaatg aattcttgga
+     1381 ggatttgcct ttgaacaaat aagtagagtg attatctcgg agcttgacgg tatcatcaac
+     1441 ttggccaatt cttgtctggg tctgttgatt acctgctagg tctgtttctt tagcctgttg
+     1501 gcatgtgagt agccctgacc tttaacccac tggttgaatg tattttcctc tgtttatttc
+     1561 cttcctgata tcttcctcaa atcagtcttg gaagatccgt ataacttcac tcttgtttta
+     1621 aaaaagaaaa ttatgaaatg atttatatcc tttgtccatt tcttttaaac tggaatgctt
+     1681 tgcttgagac ctagaactgt gttggatcaa tactgactct cattagatat gatcttatag
+     1741 gatccatacc ctccctagga ccaaatatat ctgatgtgat acatacatac acaaaatata
+     1801 ttatgtatgt aatatattat gcatataata tacagttcaa aattcatata tatagtttat
+     1861 atgattgtct aaatatctag gaaccaaaaa tgaggaaaaa tattgttttt tcagatcagc
+     1921 ctaacttgct taatagatta tttttagttg catacactta cttgggcaaa acctaacttt
+     1981 ttactttgta gctggaagaa gttccatcat gtgtagacag tgcgttttct ggattcattc
+     2041 ctccatcatc atatacctag ttagcatcca tccttagcta ttgtacatag tgacacacac
+     2101 acacacacac acacacacac acacacacac actcacacac aaatgtaaaa gtattttgtg
+     2161 atacttttag cttcactttt gtctccctca cccccgacct catttatttc tgcttcattt
+     2221 agtgtagttc ctcctaggta gatatttatc acctctgatt atagactcac tatgttttta
+     2281 agtatgttct attatcaacc tgtgcatatg ctgcattgtc accattagag agtaaatatt
+     2341 ttgatttact tcattcaaat cttattccat ccctttagag tgctatatta tgttcattta
+     2401 ctgctaattc tgaaaggact gggaatggac ttctcatctg actaacttgc agtctgactc
+     2461 catatcctga gttttgccag ttctctttct tatggcgtgc agggttctag acaagatgag
+     2521 cttagttctg cttgcttctc actaaaaacc cactgagaac gttttatctt ttcttagata
+     2581 tcagaagaaa aatgttacaa tgttgcaaaa aaagaaagga agaaaaggag agactttatc
+     2641 atatgttaac aatgaattca ttaagagagt agtgagagaa cagggaatga agaaggcaca
+     2701 gagactgtgc caggggaaaa gcacacaaac aagattacag tgctcttgat aaaaagatga
+     2761 acaagataaa agtaatcagc tacaaggacc aatcgcaatt ctgttggatt tatattctgt
+     2821 atctatgaaa aataaaatag ttaactgttt aaaacccaaa
+//

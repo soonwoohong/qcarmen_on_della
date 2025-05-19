@@ -27,7 +27,6 @@ def mod_task(
         targets = pickle.load(f)
 
 
-    print("Primers:", primers)
 
     # Get genbank files
     gb_path = "./results/" + project_name + "/gbs"
@@ -35,7 +34,10 @@ def mod_task(
     # Loop through each of the targets and their respective isoforms
     for gene_key in targets.keys():
         all_seqs = read_gbs(str(gb_path) + "/" + gene_key)
+
         for target_group in targets[gene_key]["target_groups"]:
+
+
             if primers[target_group["identifier"]] is None:
                 target_group["fw_primers"] = []
                 target_group["rev_primers"] = []

@@ -106,10 +106,14 @@ def map_adapt_dirs(
     Loops through provided ADAPT directory and maps any ADAPT files to targets in target_dict.
     """
     for adapt_file in os.listdir(adapt_dir):
-        # Get target name
-        target_name = adapt_file.split("_")[0]
-        # Get isoform IDs
-        isoform_ids = adapt_file.split("_")[1].split(",")
+
+        try:
+            isoform_ids = adapt_file.split("_")[1].split(",")
+            target_name = adapt_file.split("_")[0]
+        except:
+            target_name = adapt_file.split(".")[0]
+            isoform_ids = []
+
 
         # Loop through target groups and find the one that matches
         for target_group in target_dict[target_name]["target_groups"]:

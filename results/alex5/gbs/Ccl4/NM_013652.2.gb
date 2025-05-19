@@ -1,0 +1,183 @@
+LOCUS       NM_013652                674 bp    mRNA    linear   ROD 05-JUN-2024
+DEFINITION  Mus musculus C-C motif chemokine ligand 4 (Ccl4), mRNA.
+ACCESSION   NM_013652
+VERSION     NM_013652.2
+KEYWORDS    RefSeq; RefSeq Select.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Myomorpha;
+            Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 674)
+  AUTHORS   Schorn,F., Werthenbach,J.P., Hoffmann,M., Daoud,M.,
+            Stachelscheid,J., Schiffmann,L.M., Hildebrandt,X., Lyu,S.I.,
+            Peltzer,N., Quaas,A., Vucic,D., Silke,J., Pasparakis,M. and
+            Kashkar,H.
+  TITLE     cIAPs control RIPK1 kinase activity-dependent and -independent cell
+            death and tissue inflammation
+  JOURNAL   EMBO J 42 (22), e113614 (2023)
+   PUBMED   37789765
+REFERENCE   2  (bases 1 to 674)
+  AUTHORS   Nazarov,K., Perik-Zavodskii,R., Perik-Zavodskaia,O., Alrhmoun,S.,
+            Volynets,M., Shevchenko,J. and Sennikov,S.
+  TITLE     Murine Placental Erythroid Cells Are Mainly Represented by CD45+
+            Immunosuppressive Erythroid Cells and Secrete CXCL1, CCL2, CCL3 and
+            CCL4 Chemokines
+  JOURNAL   Int J Mol Sci 24 (9), 8130 (2023)
+   PUBMED   37175837
+  REMARK    GeneRIF: Murine Placental Erythroid Cells Are Mainly Represented by
+            CD45[+] Immunosuppressive Erythroid Cells and Secrete CXCL1, CCL2,
+            CCL3 and CCL4 Chemokines. Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 674)
+  AUTHORS   Chang,T.T., Li,S.Y., Lin,L.Y., Chen,C. and Chen,J.W.
+  TITLE     Macrophage inflammatory protein-1beta as a novel therapeutic target
+            for renal protection in diabetic kidney disease
+  JOURNAL   Biomed Pharmacother 161, 114450 (2023)
+   PUBMED   36863097
+  REMARK    GeneRIF: Macrophage inflammatory protein-1beta as a novel
+            therapeutic target for renal protection in diabetic kidney disease.
+REFERENCE   4  (bases 1 to 674)
+  AUTHORS   Rosin,J.M., Tretiakov,N., Hanniman,E., Hampton,K. and Kurrasch,D.M.
+  TITLE     Gestational Bisphenol A Exposure Impacts Embryonic Hypothalamic
+            Microglia Numbers, Ramification, and Phagocytic Cups
+  JOURNAL   Front Neurosci 16, 830399 (2022)
+   PUBMED   35250464
+  REMARK    Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 674)
+  AUTHORS   Gonzalez-Rodriguez,S., Lorenzo-Herrero,S., Sordo-Bahamonde,C.,
+            Hidalgo,A., Gonzalez,S., Menendez,L. and Baamonde,A.
+  TITLE     Involvement of CD4+ and CD8+ T-lymphocytes in the modulation of
+            nociceptive processing evoked by CCL4 in mice
+  JOURNAL   Life Sci 291, 120302 (2022)
+   PUBMED   34999112
+  REMARK    GeneRIF: Involvement of CD4(+) and CD8(+) T-lymphocytes in the
+            modulation of nociceptive processing evoked by CCL4 in mice.
+REFERENCE   6  (bases 1 to 674)
+  AUTHORS   Post,T.W., Bozic,C.R., Rothenberg,M.E., Luster,A.D., Gerard,N. and
+            Gerard,C.
+  TITLE     Molecular characterization of two murine eosinophil beta chemokine
+            receptors
+  JOURNAL   J Immunol 155 (11), 5299-5305 (1995)
+   PUBMED   7594543
+REFERENCE   7  (bases 1 to 674)
+  AUTHORS   Irving,S.G., Zipfel,P.F., Balke,J., McBride,O.W., Morton,C.C.,
+            Burd,P.R., Siebenlist,U. and Kelly,K.
+  TITLE     Two inflammatory mediator cytokine genes are closely linked and
+            variably amplified on chromosome 17q
+  JOURNAL   Nucleic Acids Res 18 (11), 3261-3270 (1990)
+   PUBMED   1972563
+REFERENCE   8  (bases 1 to 674)
+  AUTHORS   Wilson,S.D., Billings,P.R., D'Eustachio,P., Fournier,R.E.,
+            Geissler,E., Lalley,P.A., Burd,P.R., Housman,D.E., Taylor,B.A. and
+            Dorf,M.E.
+  TITLE     Clustering of cytokine genes on mouse chromosome 11
+  JOURNAL   J Exp Med 171 (4), 1301-1314 (1990)
+   PUBMED   1969921
+REFERENCE   9  (bases 1 to 674)
+  AUTHORS   Brown,K.D., Zurawski,S.M., Mosmann,T.R. and Zurawski,G.
+  TITLE     A family of small inducible proteins secreted by leukocytes are
+            members of a new superfamily that includes leukocyte and
+            fibroblast-derived inflammatory agents, growth factors, and
+            indicators of various activation processes
+  JOURNAL   J Immunol 142 (2), 679-687 (1989)
+   PUBMED   2521353
+REFERENCE   10  (bases 1 to 674)
+  AUTHORS   Sherry,B., Tekamp-Olson,P., Gallegos,C., Bauer,D., Davatelis,G.,
+            Wolpe,S.D., Masiarz,F., Coit,D. and Cerami,A.
+  TITLE     Resolution of the two components of macrophage inflammatory protein
+            1, and cloning and characterization of one of those components,
+            macrophage inflammatory protein 1 beta
+  JOURNAL   J Exp Med 168 (6), 2251-2259 (1988)
+   PUBMED   3058856
+COMMENT     ##Evidence-Data-START##
+            Transcript exon combination :: BY752114.1, M23503.1 [ECO:0000332]
+            RNAseq introns :: single sample supports all introns SAMN00849374,
+            SAMN00849375 [ECO:0000348]
+            ##Evidence-Data-END##
+            ##RefSeq-Attributes-START##
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BY163868.1, AL596122.14 and BY157376.1.
+            On Mar 1, 2007 this sequence version replaced NM_013652.1.
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..674
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /chromosome="11"
+                     /map="11 51.09 cM"
+     gene            1..674
+                     /gene="Ccl4"
+                     /gene_synonym="Act-2; AT744.1; MIP-1B; Mip1b; Scya4"
+                     /note="C-C motif chemokine ligand 4"
+                     /db_xref="GeneID:20303"
+                     /db_xref="MGI:MGI:98261"
+     exon            1..155
+                     /gene="Ccl4"
+                     /gene_synonym="Act-2; AT744.1; MIP-1B; Mip1b; Scya4"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    23..25
+                     /gene="Ccl4"
+                     /gene_synonym="Act-2; AT744.1; MIP-1B; Mip1b; Scya4"
+                     /note="upstream in-frame stop codon"
+     CDS             80..358
+                     /gene="Ccl4"
+                     /gene_synonym="Act-2; AT744.1; MIP-1B; Mip1b; Scya4"
+                     /note="C-C motif chemokine 4; ACT2; SIS-gamma; MIP-1-beta;
+                     immune activation protein 2; small-inducible cytokine A4;
+                     macrophage inflammatory protein 1-beta; chemokine (C-C
+                     motif) ligand 4"
+                     /codon_start=1
+                     /product="C-C motif chemokine 4 precursor"
+                     /protein_id="NP_038680.1"
+                     /db_xref="CCDS:CCDS36256.1"
+                     /db_xref="GeneID:20303"
+                     /db_xref="MGI:MGI:98261"
+                     /translation="MKLCVSALSLLLLVAAFCAPGFSAPMGSDPPTSCCFSYTSRQLHR
+                     SFVMDYYETSSLCSKPAVVFLTKRGRQICANPSEPWVTEYMSDLELN"
+     sig_peptide     80..148
+                     /gene="Ccl4"
+                     /gene_synonym="Act-2; AT744.1; MIP-1B; Mip1b; Scya4"
+                     /inference="COORDINATES: ab initio prediction:SignalP:6.0"
+     mat_peptide     149..355
+                     /gene="Ccl4"
+                     /gene_synonym="Act-2; AT744.1; MIP-1B; Mip1b; Scya4"
+                     /product="C-C motif chemokine 4. /id=PRO_0000005166"
+                     /note="propagated from UniProtKB/Swiss-Prot (P14097.3)"
+     exon            156..270
+                     /gene="Ccl4"
+                     /gene_synonym="Act-2; AT744.1; MIP-1B; Mip1b; Scya4"
+                     /inference="alignment:Splign:2.1.0"
+     exon            271..660
+                     /gene="Ccl4"
+                     /gene_synonym="Act-2; AT744.1; MIP-1B; Mip1b; Scya4"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      638..643
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="Ccl4"
+                     /gene_synonym="Act-2; AT744.1; MIP-1B; Mip1b; Scya4"
+                     /note="hexamer: AATAAA"
+     polyA_site      656
+                     /gene="Ccl4"
+                     /gene_synonym="Act-2; AT744.1; MIP-1B; Mip1b; Scya4"
+                     /note="major polyA site"
+ORIGIN
+        1 agcacagcac tcggccagct tctgaagctt ctgggccctg cagtcccagc tctgtgcaaa
+       61 cctaaccccg agcaacacca tgaagctctg cgtgtctgcc ctctctctcc tcttgctcgt
+      121 ggctgccttc tgtgctccag ggttctcagc accaatgggc tctgaccctc ccacttcctg
+      181 ctgtttctct tacacctccc ggcagcttca cagaagcttt gtgatggatt actatgagac
+      241 cagcagtctt tgctccaagc cagctgtggt attcctgacc aaaagaggca gacagatctg
+      301 tgctaacccc agtgagccct gggtcactga gtacatgagt gacttggagt tgaactgagc
+      361 agctccagcg gcagggcagg aggagccact tcaggagagg cctcctcagc cctgatgctt
+      421 ctcactgaga agcgtccttg ctcctcacgt tcagatttcc tgcccctctt cttaatttaa
+      481 atctctgtgt agactttgtt ttgttttttt gggggagtat tatttctatt atttatgttt
+      541 tagttatagg acgcgtgtct cccatggaga tggtccacca ttgctgtttc tctgctattg
+      601 tggatatgac tgtgaaattg atttcatgca ttttcataat aaatctttct ttaagatata
+      661 aaaaaaaaaa aaaa
+//
