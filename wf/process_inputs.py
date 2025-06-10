@@ -27,6 +27,8 @@ def input_task(
 
     # Make a copy of any existing ADAPT / Genbank dirs
     if genbank_dir is not None:
+        print(genbank_dir)
+
         for gb_folder in os.listdir(genbank_dir):
             target_dict[gb_folder]["gb_dir"] = genbank_dir + "/" + gb_folder
 

@@ -30,7 +30,6 @@ def design_candidates(
     # Get target GenBank records
     target_gbs = [seq for ind, seq in enumerate(all_seqs) if ind in target_indices]
 
-
     # Create exon map
     exon_map = create_exon_map(all_seqs)
 
@@ -51,6 +50,7 @@ def design_candidates(
         shared_points
     )
 
+    print("Primer Search Res:", primer_search_res)
 
     # What exons or exon-junctions are the guides in?
     # Create a dictionary with exon/exon junction as keys and (guide, predicted_activity) as values
@@ -118,14 +118,13 @@ def design_candidates(
     # Store results of all combos
     combo_res = []
     # A combo contains a crRNA location, and one possible pool of n forward primers, and one possible pool of m reverse primers
-    #combos flat: [(1, ([0], [1])), (1, ([1], [1])), (1, ([2], [1]))]
-
     for combo in combos_flat:
         # First loop through all of the primers and see if any of them don't have any candidate primers
         missing_primers = False
         # Because find_primers may not always return primers e.g. if Tm is invalid for everything in the window
         for primer in set(combo[1][0] + combo[1][1]):
             if len(primer_designs[primer_locs[primer]]) == 0:
+
                 missing_primers = True
                 break
 
@@ -149,7 +148,9 @@ def design_candidates(
             optimal_primer_pair = optimize_primer_length(
                 first_primers,
                 second_primers,
-                target_gbs
+                target_gbs,
+                str(target_gbs[0].seq),
+                [guide[0] for guide in guides]
             )
 
             # This is a tuple of the primer pair and the amplicon length
@@ -231,7 +232,7 @@ def design_candidates(
     combo_res.sort(key=lambda x: x[3], reverse=True)
 
     non_target_seqs = [seq for ind, seq in enumerate(all_seqs) if ind not in target_indices]
-    print('non_target_seqs', non_target_seqs)
+
     print("Combo Res:", combo_res)
 
     # Choose the primer set with the highest score, then find the crRNA with the highest score and use that
@@ -299,22 +300,22 @@ def find_primers(
     # Target sequence provided 5' to 3'
     target_seqs,
     # Window parameters
-    window_size=200,
-    step_size=100,
+    window_size=100,
+    step_size=10,
     melting_temp=61,
     # Maximum amount Tm can differ from desired melting temp
-    max_tm_diff=1.5,
+    max_tm_diff=20,
     # GC content requirements
-    min_gc=40,
-    max_gc=60,
+    min_gc=25,
+    max_gc=75,
     # None or index in search_seq
     required_coverage=None,
     # How much the primer needs to cover the flanking sides by
-    min_flank=5,
+    min_flank=4,
     # Minimum primer length
-    min_primer_length=18,
+    min_primer_length=15,
     # Maximum possible primer length
-    max_primer_length=30,
+    max_primer_length=35,
 ):
     """
     Given a stretch of sequence, finds all primers that fit the parameters.
@@ -529,10 +530,12 @@ def design_specificity(crRNA, fw_pool, rev_pool, non_target_seqs):
     return True
 
 def optimize_primer_length(
-    fw_set, 
-    rev_set,
-    target_seqs,
-    desired_length=300,
+    fw_set: List[str],
+    rev_set: List[str],
+    target_seqs: List,
+    search_seq: str,
+    guide_seqs: List[str],
+    desired_length: int = 300,
 ):
     """
     This function takes a set of forward primers and a set of reverse primers and returns
@@ -540,19 +543,29 @@ def optimize_primer_length(
     """
     # Make all possible primer pair combinations
     primer_combos = list(itertools.product(fw_set, rev_set))
+    # Loop through all combinations and verify primers flank at least one guide sequence
+    valid_combos = []
+    for primer_pair in primer_combos:
+        # Get guide position
+        guide_positions = [search_seq.find(guide) for guide in guide_seqs]
+        # Get primer positions
+        fw_pos = search_seq.find(primer_pair[0])
+        rev_pos = search_seq.find(str(Seq(primer_pair[1]).reverse_complement()))
+        # Check if primers flank at least one guide sequence
+        if any(fw_pos < guide_pos < rev_pos for guide_pos in guide_positions):
+            valid_combos.append(primer_pair)
 
+    print("Number of valid primer combos:", len(valid_combos))
     # Loop through all primer combos and get the amplicon length
-    amplicon_lengths = [amplicon_length_isoforms(primer_pair, target_seqs)[0] for primer_pair in primer_combos]
-
+    amplicon_lengths = [amplicon_length_isoforms(primer_pair, target_seqs)[0] for primer_pair in valid_combos]
     """
     Update this code later where we don't just return the primer pair with the amplicon length
     closest to our desired, let's also incorporate scoring with things like GC content, rhPCR bases, etc.
     """
     # Get the index of the primer pair with the closest amplicon length to the desired length
     closest_index = amplicon_lengths.index(min(amplicon_lengths, key=lambda x: abs(x - desired_length)))
-
     # Return the ideal primer combo and its length
-    return (primer_combos[closest_index], amplicon_lengths[closest_index])
+    return (valid_combos[closest_index], amplicon_lengths[closest_index])
 
 def get_exon_from_seq(search_seq, ref_seq, exon_map):
     """
@@ -609,7 +622,7 @@ def search_primer_sets(
 
     # Get non-target matrix
     non_target_matrix = loc_matrix[[ind for ind, target_ind in enumerate(target_indices) if target_ind == 0], :]
-    print('non_target',non_target_matrix)
+
     # Returns nCr for n and r
     def ncr(n, r):
         return int(np.math.factorial(n) / (np.math.factorial(r) * np.math.factorial(n - r)))

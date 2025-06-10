@@ -67,7 +67,7 @@ def sliding_window(aligned_targets, non_target_genes, gene_name, isoform_name, n
     # AlignmentQuerier parameters
     guide_length = 28
     # Number of mismatches allowed in the guide to be considered binding
-    diff_id_mismatches = 2
+    diff_id_mismatches = 4
     allow_gu_pairs = True
     aq = alignment_query.AlignmentQuerierWithKmerSharding(alns, guide_length, diff_id_mismatches, allow_gu_pairs)
     aq.setup()
@@ -169,7 +169,7 @@ def complete_targets(aligned_targets, non_target_genes, gene_name, isoform_name,
 
     # AlignmentQuerier parameters
     guide_length = 28
-    diff_id_mismatches = 2
+    diff_id_mismatches = 4
     allow_gu_pairs = True
     aq = alignment_query.AlignmentQuerierWithKmerSharding(alns, guide_length, diff_id_mismatches, allow_gu_pairs)
     aq.setup()
@@ -201,9 +201,9 @@ def complete_targets(aligned_targets, non_target_genes, gene_name, isoform_name,
 
 
     # Guide searcher params
-    soft_guide_constraint = 1
-    hard_guide_constraint = 5
-    penalty_strength = 0.25
+    soft_guide_constraint = 2
+    hard_guide_constraint = 10
+    penalty_strength = 0.2
     missing_data_params = (0.5, 0.05, 1.5)
 
     # Set up the guide searcher
